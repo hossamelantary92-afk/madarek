@@ -783,6 +783,109 @@
         }
       ],
       "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "cities",
+      "title": "مدن آسيوية بارزة",
+      "icon": "🏙️",
+      "order": 11,
+      "points": [
+        "تقع مدينة إسطنبول عند مضيق البوسفور، في موقع يصل جغرافيًا بين أوروبا وآسيا.",
+        "تقع شبه الجزيرة التاريخية في إسطنبول بين القرن الذهبي شمالًا والبوسفور شرقًا وبحر مرمرة جنوبًا.",
+        "كانت إسطنبول عاصمة للإمبراطورية الرومانية الشرقية ثم الإمبراطورية العثمانية.",
+        "تأسست كيوتو عاصمةً إمبراطورية لليابان سنة 794 ميلادية، وظلت مركزًا إمبراطوريًا حتى منتصف القرن التاسع عشر.",
+        "تضم منطقة التراث العالمي في كيوتو القديمة 17 موقعًا موزعة بين كيوتو وأوجي وأوتسو.",
+        "اشتهرت كيوتو بتطور العمارة الخشبية اليابانية وفنون الحدائق التي أثرت في تصميم الحدائق عالميًا.",
+        "يقع وادي كاتماندو في سفوح جبال الهيمالايا بنيبال.",
+        "يشمل تراث وادي كاتماندو المراكز التاريخية لثلاث مدن: كاتماندو وباتان وبهاكتابور.",
+        "يضم تراث وادي كاتماندو سبع مناطق أثرية تشمل ساحات مدن ومجموعات معابد ومواقع دينية."
+      ],
+      "pointIds": [
+        "cities-0",
+        "cities-1",
+        "cities-2",
+        "cities-3",
+        "cities-4",
+        "cities-5",
+        "cities-6",
+        "cities-7",
+        "cities-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/356",
+          "sourceEvidence": "Istanbul ... unique integration of architectural masterpieces that reflect the meeting of Europe and Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/356",
+          "sourceEvidence": "surrounded by the Golden Horn ... north, the Bosphorus on the east and the Marmara Sea on the south",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/356",
+          "sourceEvidence": "successively the capital of the Eastern Roman Empire, and the Ottoman Empire",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/688",
+          "sourceEvidence": "Built in A.D. 794 ... imperial capital ... until the middle of the 19th century",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/688",
+          "sourceEvidence": "seventeen component parts ... Kyoto and Uji Cities ... Otsu City",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/688",
+          "sourceEvidence": "development of Japanese wooden architecture ... Japanese gardens ... influenced landscape gardening the world over",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/121",
+          "sourceEvidence": "Located in the foothills of the Himalayas",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/121",
+          "sourceEvidence": "three cities of Kathmandu (Hanuman Dhoka), Patan and Bhaktapur",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/121",
+          "sourceEvidence": "inscribed as seven Monument Zones ... Durbar squares ... religious ensembles",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
     }
   ],
   "publicationPolicy": {
@@ -819,6 +922,18 @@
     {
       "name": "UNESCO — Sundarbans",
       "url": "https://whc.unesco.org/en/list/798"
+    },
+    {
+      "name": "UNESCO — Historic Areas of Istanbul",
+      "url": "https://whc.unesco.org/en/list/356"
+    },
+    {
+      "name": "UNESCO — Historic Monuments of Ancient Kyoto",
+      "url": "https://whc.unesco.org/en/list/688"
+    },
+    {
+      "name": "UNESCO — Kathmandu Valley",
+      "url": "https://whc.unesco.org/en/list/121"
     }
   ],
   "lastReviewed": "2026-11-15",
