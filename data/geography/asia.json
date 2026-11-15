@@ -1,7 +1,7 @@
 {
   "id": "asia",
   "title": "آسيا",
-  "status": "editorial_review_in_progress",
+  "status": "source_comparison_completed_pending_final_review",
   "intro": "آسيا أكبر قارات العالم، وتجمع بين أعلى السلاسل الجبلية وأوسع السهوب والصحاري وأحواض أنهار كبرى. وتختلف الحدود الاصطلاحية بينها وبين أوروبا باختلاف المرجع.",
   "sections": [
     {
@@ -551,26 +551,29 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Aquatic Flora and Fauna",
+          "sourceEvidence": "National Geographic Asia: Physical Geography, Aquatic Flora and Fauna: Baikal seal is one of the few freshwater seal species.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Terrestrial Flora and Fauna",
+          "sourceEvidence": "National Geographic Asia: Physical Geography, Terrestrial Flora and Fauna: yaks used for transportation, plowing, fiber and dairy products in Himalayas.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Terrestrial Flora and Fauna",
+          "sourceEvidence": "National Geographic Asia: Physical Geography, Terrestrial Flora and Fauna: two-humped Bactrian camels of Mongolian steppe adapt to drought, heat and frost.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
@@ -799,10 +802,11 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "It is also the world’s most populous continent, with roughly 60 percent of the global population.",
+          "sourceEvidence": "National Geographic Asia: Physical Geography, introduction: Asia is most populous continent with roughly 60% of global population.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
@@ -875,114 +879,128 @@
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/356",
-          "sourceEvidence": "Istanbul ... unique integration of architectural masterpieces that reflect the meeting of Europe and Asia",
+          "sourceEvidence": "UNESCO Historic Areas of Istanbul, Brief synthesis: strategic location on Bosphorus peninsula, meeting of Europe and Asia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/356",
-          "sourceEvidence": "surrounded by the Golden Horn ... north, the Bosphorus on the east and the Marmara Sea on the south",
+          "sourceEvidence": "UNESCO Historic Areas of Istanbul, Brief synthesis: Golden Horn to north, Bosphorus to east, Marmara Sea to south.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/356",
-          "sourceEvidence": "successively the capital of the Eastern Roman Empire, and the Ottoman Empire",
+          "sourceEvidence": "UNESCO Historic Areas of Istanbul, Brief synthesis: successively capital of Eastern Roman Empire and Ottoman Empire.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/688",
-          "sourceEvidence": "Built in A.D. 794 ... imperial capital ... until the middle of the 19th century",
+          "sourceEvidence": "UNESCO Historic Monuments of Ancient Kyoto, opening description: built in AD 794, imperial capital until mid-19th century.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/688",
-          "sourceEvidence": "seventeen component parts ... Kyoto and Uji Cities ... Otsu City",
+          "sourceEvidence": "UNESCO Historic Monuments of Ancient Kyoto, Brief synthesis: seventeen components in Kyoto, Uji and Otsu.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/688",
-          "sourceEvidence": "development of Japanese wooden architecture ... Japanese gardens ... influenced landscape gardening the world over",
+          "sourceEvidence": "UNESCO Historic Monuments of Ancient Kyoto, description: Japanese wooden architecture and garden design influenced worldwide landscape gardening.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/121",
-          "sourceEvidence": "Located in the foothills of the Himalayas",
+          "sourceEvidence": "UNESCO Kathmandu Valley, Brief synthesis: World Heritage property located in foothills of Himalayas.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/121",
-          "sourceEvidence": "three cities of Kathmandu (Hanuman Dhoka), Patan and Bhaktapur",
+          "sourceEvidence": "UNESCO Kathmandu Valley, Brief synthesis: Durbar squares in Kathmandu, Patan and Bhaktapur.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/121",
-          "sourceEvidence": "inscribed as seven Monument Zones ... Durbar squares ... religious ensembles",
+          "sourceEvidence": "UNESCO Kathmandu Valley, Brief synthesis: seven Monument Zones including three city squares and four religious ensembles.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/439",
-          "sourceEvidence": "Seat of supreme power for over five centuries (1416-1911), the Forbidden City in Beijing",
+          "sourceEvidence": "UNESCO Imperial Palaces of Ming and Qing, opening description: Forbidden City seat of supreme power 1416–1911.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/439",
-          "sourceEvidence": "constructed between 1406 and 1420 by the Ming emperor Zhu Di",
+          "sourceEvidence": "UNESCO Imperial Palaces of Ming and Qing, Brief synthesis: Forbidden City built 1406–1420 by Ming emperor Zhu Di.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1714",
-          "sourceEvidence": "Running north to south ... former imperial palaces and gardens, sacrificial structures, and ceremonial and public buildings",
+          "sourceEvidence": "UNESCO Beijing Central Axis, opening description: north–south axis through historical Beijing with palaces, gardens, ceremonial and public buildings.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1483",
-          "sourceEvidence": "establishment in 1859 ... scientific institution and place of conservation ... education",
+          "sourceEvidence": "UNESCO Singapore Botanic Gardens, opening description: established 1859; scientific institution for conservation and education.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1483",
-          "sourceEvidence": "contributing significantly to the expansion of plantation rubber ... tropical botany",
+          "sourceEvidence": "UNESCO Singapore Botanic Gardens, opening description: important Southeast Asian research and plant conservation centre, notably rubber cultivation since 1875.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -1057,10 +1075,10 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "2026-11-15: طوبقت سبع معلومات مناخية وثلاث لغوية مع مصادر IPCC وASMC واليونسكو؛ وضّحنا تاريخ تعداد اللغات في الهند. لم تكتمل مراجعة السكان والطبيعة والمدن.",
+  "editorialNote": "2026-11-15: استكملت مطابقة 78 معلومة منشورة مع المصادر الأصلية المحددة؛ المراجعة التحريرية النهائية والتدقيق المستقل للتكرار لم يكتملَا بعد.",
   "editorialAudit": {
     "date": "2026-11-15",
-    "phase": "source_verification_in_progress",
+    "phase": "source_comparison_completed_pending_final_editorial_audit",
     "verifiedAgainstOriginalSource": [
       "area-regions-1",
       "area-regions-7",
@@ -1121,7 +1139,25 @@
       "climate-6",
       "population-languages-3",
       "population-languages-4",
-      "population-languages-5"
+      "population-languages-5",
+      "cities-0",
+      "cities-1",
+      "cities-2",
+      "cities-3",
+      "cities-4",
+      "cities-5",
+      "cities-6",
+      "cities-7",
+      "cities-8",
+      "cities-9",
+      "cities-10",
+      "cities-11",
+      "cities-12",
+      "cities-13",
+      "nature-2",
+      "nature-3",
+      "nature-4",
+      "population-languages-0"
     ],
     "removedUnsupported": [
       {
@@ -1130,7 +1166,7 @@
         "reason": "الاقتباس المرفق يثبت انتشار الرياح الموسمية، لكنه لا يثبت مباشرةً أثرها الزراعي الوارد في العبارة."
       }
     ],
-    "note": "Verified seven climate claims against IPCC/ASMC and three language claims against UNESCO; the population estimate, remaining nature facts and city facts still require source-level review.",
+    "note": "Rechecked all 14 city claims directly against UNESCO; 3 nature claims and population estimate against National Geographic. Independent cross-source and semantic duplicate audit still pending.",
     "verifiedSections": [
       "location",
       "area-regions",
@@ -1139,7 +1175,10 @@
       "rivers-lakes",
       "seas-oceans",
       "distinctive-facts",
-      "climate"
+      "climate",
+      "cities",
+      "nature",
+      "population-languages"
     ],
     "corrections": [
       {
@@ -1151,9 +1190,7 @@
         "reason": "Clarified UNESCO 1,369 mother tongues figure derives from India's 2011 census, rather than implying a current count."
       }
     ],
-    "partialSections": [
-      "nature",
-      "population-languages"
-    ]
+    "partialSections": [],
+    "pendingSourceVerification": []
   }
 }
