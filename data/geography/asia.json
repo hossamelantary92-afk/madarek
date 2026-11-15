@@ -25,34 +25,38 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Asia's Borders",
+          "sourceEvidence": "Asia makes up the eastern portion of the Eurasian supercontinent; Europe occupies the western portion.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Asia's Borders",
+          "sourceEvidence": "Asia is bordered by the Arctic, Pacific and Indian oceans.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Asia's Borders",
+          "sourceEvidence": "The boundary between Asia and Europe is the subject of debate, due to both geographical and political factors.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Asia's Borders",
+          "sourceEvidence": "Most geographers define Asia’s western border as an irregular line that follows the Ural Mountains, the Caucasus Mountains, the Caspian Sea and the Black Sea.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -98,114 +102,128 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Introduction",
+          "sourceEvidence": "Asia is the largest of the world’s continents, covering approximately 30 percent of the Earth’s land area.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Asia sub-regions",
+          "sourceEvidence": "UN M49 Asia (142) is subdivided into Central Asia (143), Eastern Asia (030), South-eastern Asia (035), Southern Asia (034), Western Asia (145).",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Central Asia",
+          "sourceEvidence": "UN M49 Central Asia (143): Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Eastern Asia",
+          "sourceEvidence": "UN M49 Eastern Asia (030): China, Japan, Mongolia, Democratic People's Republic of Korea, Republic of Korea.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "South-eastern Asia",
+          "sourceEvidence": "UN M49 South-eastern Asia (035): Indonesia, Malaysia, Singapore, Thailand, Viet Nam.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Southern Asia",
+          "sourceEvidence": "UN M49 Southern Asia (034): India, Pakistan, Bangladesh, Nepal, Sri Lanka.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Western Asia",
+          "sourceEvidence": "UN M49 Western Asia (145): Saudi Arabia, United Arab Emirates, Oman, Iraq, Jordan.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Southern Asia — Iran (Islamic Republic of)",
+          "sourceEvidence": "UN M49 Southern Asia (034): Iran (Islamic Republic of), M49 code 364.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Western Asia — Cyprus, Armenia, Azerbaijan, Georgia",
+          "sourceEvidence": "UN M49 Western Asia (145): Cyprus, Armenia, Azerbaijan, Georgia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Southern Asia — Afghanistan, Bhutan, Maldives",
+          "sourceEvidence": "UN M49 Southern Asia (034): Afghanistan, Bhutan, Maldives.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "South-eastern Asia — Philippines, Cambodia, Brunei Darussalam, Timor-Leste",
+          "sourceEvidence": "UN M49 South-eastern Asia (035): Philippines, Cambodia, Brunei Darussalam, Timor-Leste.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Western Asia — Bahrain, Kuwait, Qatar, Yemen",
+          "sourceEvidence": "UN M49 Western Asia (145): Bahrain, Kuwait, Qatar, Yemen.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "South-eastern Asia — Lao People's Democratic Republic, Myanmar",
+          "sourceEvidence": "UN M49 South-eastern Asia (035): Lao People's Democratic Republic, Myanmar.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
-          "sourceEvidence": "Eastern Asia — China Hong Kong SAR and China Macao SAR",
+          "sourceEvidence": "UN M49 Eastern Asia (030): China, Hong Kong Special Administrative Region; China, Macao Special Administrative Region.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -997,7 +1015,7 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "2026-11-15: مراجعة علمية مستمرة، وليست اعتمادًا نهائيًا. تم التحقق مباشرةً من تصنيفات الأمم المتحدة وبعض حقائق سونداربانس في اليونسكو، وحذف ادعاء زراعي لا يسنده النص المقتبس مباشرةً. باقي النقاط تحتاج مطابقة مستقلة مع المصادر الأصلية.",
+  "editorialNote": "2026-11-15: اكتملت مطابقة 18 معلومة في قسمي الموقع والحدود والمساحة والأقاليم بالمصادر الأصلية، مع أدلة نصية محددة لكل معلومة. تستمر مراجعة الأقسام التسعة الأخرى قبل الاعتماد النهائي.",
   "editorialAudit": {
     "date": "2026-11-15",
     "phase": "source_verification_in_progress",
@@ -1012,7 +1030,18 @@
       "nature-5",
       "nature-6",
       "nature-8",
-      "nature-9"
+      "nature-9",
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "area-regions-0",
+      "area-regions-2",
+      "area-regions-3",
+      "area-regions-4",
+      "area-regions-5",
+      "area-regions-6",
+      "area-regions-13"
     ],
     "removedUnsupported": [
       {
@@ -1021,6 +1050,10 @@
         "reason": "الاقتباس المرفق يثبت انتشار الرياح الموسمية، لكنه لا يثبت مباشرةً أثرها الزراعي الوارد في العبارة."
       }
     ],
-    "note": "هذه قائمة جزئية فقط؛ لا تعني اعتماد باقي النقاط."
+    "note": "تمت مطابقة جميع نقاط الموقع والحدود والمساحة والأقاليم مع نص National Geographic وجدول الأمم المتحدة M49 مباشرةً. لا يعني ذلك اعتماد باقي الأقسام.",
+    "verifiedSections": [
+      "location",
+      "area-regions"
+    ]
   }
 }
