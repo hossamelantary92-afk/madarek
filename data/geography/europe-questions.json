@@ -1,0 +1,150 @@
+{
+  "title": "أسئلة أوروبا الموثقة",
+  "status": "verified",
+  "questions": [
+    {
+      "id": "europe-m49-1",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "إلى كم إقليم إحصائي تقسم الأمم المتحدة أوروبا وفق M49؟",
+      "options": [
+        "إقليمين",
+        "ثلاثة أقاليم",
+        "أربعة أقاليم",
+        "خمسة أقاليم"
+      ],
+      "correctIndex": 2,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-2",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة فرنسا؟",
+      "options": [
+        "أوروبا الشرقية",
+        "أوروبا الغربية",
+        "أوروبا الشمالية",
+        "أوروبا الجنوبية"
+      ],
+      "correctIndex": 1,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-3",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة إسبانيا؟",
+      "options": [
+        "أوروبا الجنوبية",
+        "أوروبا الغربية",
+        "أوروبا الشرقية",
+        "أوروبا الشمالية"
+      ],
+      "correctIndex": 0,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-4",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة السويد؟",
+      "options": [
+        "أوروبا الغربية",
+        "أوروبا الجنوبية",
+        "أوروبا الشمالية",
+        "أوروبا الشرقية"
+      ],
+      "correctIndex": 2,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-5",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة بولندا؟",
+      "options": [
+        "أوروبا الشمالية",
+        "أوروبا الشرقية",
+        "أوروبا الجنوبية",
+        "أوروبا الغربية"
+      ],
+      "correctIndex": 1,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-6",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة ألمانيا؟",
+      "options": [
+        "أوروبا الجنوبية",
+        "أوروبا الشرقية",
+        "أوروبا الشمالية",
+        "أوروبا الغربية"
+      ],
+      "correctIndex": 3,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-7",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة اليونان؟",
+      "options": [
+        "أوروبا الجنوبية",
+        "أوروبا الشرقية",
+        "أوروبا الغربية",
+        "أوروبا الشمالية"
+      ],
+      "correctIndex": 0,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    },
+    {
+      "id": "europe-m49-8",
+      "category": "geography",
+      "continent": "europe",
+      "section": "area-regions",
+      "question": "في أي إقليم إحصائي تصنف الأمم المتحدة النرويج؟",
+      "options": [
+        "أوروبا الغربية",
+        "أوروبا الشمالية",
+        "أوروبا الجنوبية",
+        "أوروبا الشرقية"
+      ],
+      "correctIndex": 1,
+      "status": "verified",
+      "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "reviewedAt": "2026-11-15",
+      "explanation": "الإجابة مستندة إلى تصنيف الأمم المتحدة الإحصائي M49، وليس إلى عضوية الاتحاد الأوروبي."
+    }
+  ]
+}
