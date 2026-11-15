@@ -575,42 +575,47 @@
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/798",
-          "sourceEvidence": "lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal.",
+          "sourceEvidence": "UNESCO The Sundarbans, description: mangrove forest lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/798",
-          "sourceEvidence": "complex network of tidal waterways, mudflats and small islands",
+          "sourceEvidence": "UNESCO The Sundarbans, description: complex network of tidal waterways, mudflats and small islands.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/798",
-          "sourceEvidence": "acts as a shelter belt to protect the people from storms, cyclones, tidal surges",
+          "sourceEvidence": "UNESCO The Sundarbans, protection and management: acts as a shelter belt to protect people from storms, cyclones and tidal surges.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/798",
-          "sourceEvidence": "including 260 bird species, the Bengal tiger ... estuarine crocodile and the Indian python.",
+          "sourceEvidence": "UNESCO The Sundarbans, description: 260 bird species, estuarine crocodile and Indian python.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/452/",
-          "sourceEvidence": "The Sundarbans contain the world's largest mangrove forests",
+          "sourceEvidence": "UNESCO Sundarbans National Park and The Sundarbans: largest contiguous mangrove forest in the world.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -638,42 +643,47 @@
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1442",
-          "sourceEvidence": "UNESCO brief synthesis — 5,000 km Chang'an–Tianshan Corridor",
+          "sourceEvidence": "UNESCO Chang'an-Tianshan Corridor, description: 5,000 km section from Chang'an/Luoyang to Zhetysu.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1442",
-          "sourceEvidence": "UNESCO brief synthesis — thirty-three components",
+          "sourceEvidence": "UNESCO Chang'an-Tianshan Corridor, description: thirty-three components including cities, trading settlements, temples, passes and fortifications.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1442",
-          "sourceEvidence": "UNESCO brief synthesis — dates of formation and use",
+          "sourceEvidence": "UNESCO Chang'an-Tianshan Corridor, description: took shape between 2nd century BC and 1st century AD; in use until 16th century.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1442",
-          "sourceEvidence": "UNESCO States Parties — China, Kazakhstan, Kyrgyzstan",
+          "sourceEvidence": "UNESCO Chang'an-Tianshan Corridor: transnational World Heritage property in China, Kazakhstan and Kyrgyzstan.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://whc.unesco.org/en/list/1442",
-          "sourceEvidence": "UNESCO brief synthesis — exchange of knowledge, technology, beliefs, culture",
+          "sourceEvidence": "UNESCO Chang'an-Tianshan Corridor, description: exchanges of scientific knowledge, technological innovation, beliefs, cultural practices.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -1037,7 +1047,7 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "2026-11-15: طوبقت 40 معلومة من أصل 78 مع مصادرها الأصلية في ستة أقسام، وصُححت صياغة معلومة بايكال. لا تزال المراجعة العلمية لبقية الأقسام مطلوبة قبل الاعتماد النهائي.",
+  "editorialNote": "المراجعة مستمرة. تمت في الجولة الحالية مطابقة 10 نقاط إضافية مع نصوص اليونسكو الأصلية، دون اعتبار القارة معتمدة نهائيًا.",
   "editorialAudit": {
     "date": "2026-11-15",
     "phase": "source_verification_in_progress",
@@ -1085,7 +1095,13 @@
       "seas-oceans-0",
       "seas-oceans-1",
       "seas-oceans-2",
-      "seas-oceans-3"
+      "seas-oceans-3",
+      "nature-7",
+      "distinctive-facts-0",
+      "distinctive-facts-1",
+      "distinctive-facts-2",
+      "distinctive-facts-3",
+      "distinctive-facts-4"
     ],
     "removedUnsupported": [
       {
@@ -1094,20 +1110,24 @@
         "reason": "الاقتباس المرفق يثبت انتشار الرياح الموسمية، لكنه لا يثبت مباشرةً أثرها الزراعي الوارد في العبارة."
       }
     ],
-    "note": "مراجعة المصدر الأصلي لأقسام التضاريس والصحاري والمياه؛ لا تزال الأقسام الأخرى بانتظار التحقق.",
+    "note": "تمت مطابقة 5 نقاط سونداربانس و5 نقاط ممر تشانغآن-تيان شان مع نص اليونسكو؛ بقية الطبيعة والمناخ والسكان والمدن لم تستكمل مراجعتها.",
     "verifiedSections": [
       "location",
       "area-regions",
       "landforms",
       "deserts",
       "rivers-lakes",
-      "seas-oceans"
+      "seas-oceans",
+      "distinctive-facts"
     ],
     "corrections": [
       {
         "id": "rivers-lakes-1",
         "reason": "Removed 'surface' qualifier not present in cited National Geographic text."
       }
+    ],
+    "partialSections": [
+      "nature"
     ]
   }
 }
