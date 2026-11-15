@@ -21,7 +21,54 @@
         "تتصل أوروبا بآسيا برًا ولا يفصل بينهما محيط.",
         "يحد بحر الشمال أجزاء من سواحل شمال غرب أوروبا."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "area-regions",
@@ -39,7 +86,54 @@
         "يختلف التصنيف الإحصائي للأمم المتحدة عن عضوية الاتحاد الأوروبي.",
         "تُصنف روسيا ضمن أوروبا الشرقية في جدول M49 الإحصائي رغم امتدادها عبر قارتي أوروبا وآسيا."
       ],
-      "reviewStatus": "partially_verified"
+      "reviewStatus": "partially_verified",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "landforms",
@@ -60,7 +154,69 @@
         "تتميز شبه الجزيرة الإسكندنافية بمرتفعات وجبال وسهول ساحلية.",
         "توجد براكين نشطة في أيسلندا وإيطاليا."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "rivers-lakes",
@@ -80,7 +236,64 @@
         "تقع بحيرة بالاتون في المجر.",
         "توجد بحيرات جليدية عديدة في فنلندا والسويد."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "seas-oceans",
@@ -98,7 +311,54 @@
         "تفصل القناة الإنجليزية بريطانيا عن فرنسا.",
         "يصل مضيق البوسفور البحر الأسود ببحر مرمرة."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "climate",
@@ -116,7 +376,54 @@
         "تنخفض درجات الحرارة عمومًا مع زيادة الارتفاع في الجبال.",
         "تختلف كمية الأمطار بين السواحل الغربية والمناطق الواقعة خلف الحواجز الجبلية."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "nature",
@@ -134,7 +441,54 @@
         "توجد أراضٍ رطبة ومستنقعات في أجزاء من شمال أوروبا.",
         "تضم أوروبا متنزهات وطنية ومحميات طبيعية متنوعة."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "population-languages",
@@ -151,7 +505,49 @@
         "تضم أوروبا مدنًا كبرى مثل لندن وباريس وبرلين وروما.",
         "لا تتطابق الحدود اللغوية دائمًا مع الحدود السياسية للدول."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "countries-cities",
@@ -172,7 +568,69 @@
         "فيينا عاصمة النمسا.",
         "براغ عاصمة التشيك."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     },
     {
       "id": "distinctive-facts",
@@ -189,7 +647,49 @@
         "تمتد سهول أوروبا الشمالية عبر أجزاء من عدة دول.",
         "تتباين البيئات الأوروبية بين القطبية والمعتدلة والمتوسطية."
       ],
-      "reviewStatus": "pending_detailed_review"
+      "reviewStatus": "pending_detailed_review",
+      "pointReviews": [
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        },
+        {
+          "status": "draft",
+          "sourceUrl": null,
+          "reviewedAt": null
+        }
+      ]
     }
   ],
   "facts": [
@@ -242,5 +742,12 @@
     }
   ],
   "taxonomyVersion": "europe-v2",
-  "targetFacts": 110
+  "targetFacts": 110,
+  "publicationPolicy": {
+    "version": 1,
+    "requiresVerifiedSourcePerFact": true,
+    "requiresQuestionAnswerAndDistractorReview": true,
+    "defaultStatus": "draft",
+    "note": "Only facts with an explicit reviewed source and status=verified may be rendered publicly."
+  }
 }
