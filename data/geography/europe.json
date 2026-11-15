@@ -58,9 +58,10 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
           "status": "verified",
@@ -69,9 +70,10 @@
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         }
       ]
     },
@@ -339,9 +341,22 @@
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://oap.ospar.org/media/filer_public/7b/c0/7bc03b1c-e08f-45a3-8e56-7099781d6476/p00935_input_other_assessment_qsr2023.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://oap.ospar.org/media/filer_public/7b/c0/7bc03b1c-e08f-45a3-8e56-7099781d6476/p00935_input_other_assessment_qsr2023.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://archive.ipcc.ch/ipccreports/sres/regional/index.php?idp=93",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
           "status": "draft",
@@ -354,24 +369,16 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.thefactbook.org/fields/major-lakes-area-sq-km/2023",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.thefactbook.org/fields/major-lakes-area-sq-km/2023",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
           "status": "draft",
@@ -405,44 +412,52 @@
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/766245/EPRS_BRI%282024%29766245_EN.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/766245/EPRS_BRI%282024%29766245_EN.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Statement checked against explicit geographical description in source."
         }
       ]
     },
@@ -875,9 +890,39 @@
       "url": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
       "scope": "أنماط المناخ الأوروبي",
       "verified": true
+    },
+    {
+      "name": "OSPAR — Rhine basin assessment",
+      "url": "https://oap.ospar.org/media/filer_public/7b/c0/7bc03b1c-e08f-45a3-8e56-7099781d6476/p00935_input_other_assessment_qsr2023.pdf",
+      "scope": "الراين ومساره ومصبه",
+      "verified": true
+    },
+    {
+      "name": "European Parliament — Mediterranean fishing area briefing",
+      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/766245/EPRS_BRI%282024%29766245_EN.pdf",
+      "scope": "جبل طارق والبوسفور وبحار المتوسط",
+      "verified": true
+    },
+    {
+      "name": "EducaMadrid — Seas and coasts of Europe",
+      "url": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
+      "scope": "مواقع البحار والقناة الإنجليزية",
+      "verified": true
+    },
+    {
+      "name": "IPCC — Regional Impacts Europe",
+      "url": "https://archive.ipcc.ch/ipccreports/sres/regional/index.php?idp=93",
+      "scope": "مصب الفولغا",
+      "verified": true
+    },
+    {
+      "name": "World Factbook — Major lakes",
+      "url": "https://www.thefactbook.org/fields/major-lakes-area-sq-km/2023",
+      "scope": "بحيرتا جنيف وبالاتون",
+      "verified": true
     }
   ],
-  "editorialNote": "كل معلومة منشورة لها رابط مصدر محدد وحالة verified. اعتمدت دفعة من National Geographic Education وICPDR وMcGraw Hill؛ بقيت المسودات محجوبة حتى التحقق الفردي. المراجعة لا تشمل المسودات غير المنشورة.",
+  "editorialNote": "اعتمدت 44 معلومة بمراجع مرتبطة على مستوى كل معلومة. المعلومات الأخرى ما زالت مسودات غير منشورة. تحقق التدقيق الأخير من مسارات الأنهار والبحيرات والبحار باستخدام مصادر مؤسسية وتعليمية منشورة.",
   "gallery": [
     {
       "title": "جبال الألب",
