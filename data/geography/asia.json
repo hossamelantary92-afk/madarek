@@ -609,10 +609,10 @@
       ],
       "pointIds": [
         "distinctive-facts-0",
-        "distinctive-facts-0",
-        "distinctive-facts-0",
-        "distinctive-facts-0",
-        "distinctive-facts-0"
+        "distinctive-facts-1",
+        "distinctive-facts-2",
+        "distinctive-facts-3",
+        "distinctive-facts-4"
       ],
       "pointReviews": [
         {
@@ -674,12 +674,12 @@
       ],
       "pointIds": [
         "climate-0",
-        "climate-0",
-        "climate-0",
-        "climate-0",
-        "climate-0",
-        "climate-0",
-        "climate-0"
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4",
+        "climate-5",
+        "climate-6"
       ],
       "pointReviews": [
         {
@@ -756,11 +756,11 @@
       ],
       "pointIds": [
         "population-languages-0",
-        "population-languages-0",
-        "population-languages-0",
         "population-languages-1",
         "population-languages-2",
-        "population-languages-3"
+        "population-languages-3",
+        "population-languages-4",
+        "population-languages-5"
       ],
       "pointReviews": [
         {
@@ -1037,5 +1037,5 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "تمت إضافة معلومات تصنيفية من الأمم المتحدة وحقائق عن طرق الحرير من اليونسكو، مع توثيق الدليل النصي لكل معلومة، ومراجعة التكرار قبل النشر."
+  "editorialNote": "مراجعة هيكلية بتاريخ 2026-11-15: إصلاح معرفات القراءة المكررة لضمان احتساب كل معلومة بشكل مستقل. التحقق الهيكلي لا يُعد بديلًا عن مطابقة كل ادعاء بنص المصدر الأصلي."
 }
