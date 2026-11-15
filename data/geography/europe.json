@@ -245,7 +245,11 @@
         "تقع جبال الأبينيني على امتداد شبه الجزيرة الإيطالية.",
         "توجد أراضٍ منخفضة واسعة في هولندا.",
         "تتميز شبه الجزيرة الإسكندنافية بمرتفعات وجبال وسهول ساحلية.",
-        "توجد براكين نشطة في أيسلندا وإيطاليا."
+        "توجد براكين نشطة في أيسلندا وإيطاليا.",
+        "يبلغ ارتفاع قمة إلبروس في جبال القوقاز بروسيا 5,642 مترًا، وتُعد أعلى قمة في أوروبا وفق الحدود التي تشملها.",
+        "تمتد السهول الأوروبية الشمالية عبر أجزاء من فرنسا وبلجيكا وهولندا وألمانيا والدنمارك وبولندا ودول البلطيق وبيلاروسيا.",
+        "يقع معظم السهل الأوروبي العظيم على ارتفاع أقل من 152 مترًا فوق مستوى سطح البحر.",
+        "تضم مرتفعات وسط أوروبا الغابة السوداء في ألمانيا وجبال الأردين في بلجيكا وجبال الفوج في فرنسا."
       ],
       "reviewStatus": "editorially_reviewed",
       "pointReviews": [
@@ -302,6 +306,38 @@
           "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Highest Elevation — Mount Elbrus, Russia (5,642 meters)",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "North European Plain — list of countries",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Most of the Great European Plain lies below 152 meters",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Central Uplands — Black Forest, Ardennes and Vosges",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "pointIds": [
@@ -313,7 +349,11 @@
         "landforms-7",
         "landforms-9",
         "landforms-10",
-        "landforms-11"
+        "landforms-11",
+        "landforms-12",
+        "landforms-13",
+        "landforms-14",
+        "landforms-15"
       ]
     },
     {
@@ -332,7 +372,8 @@
         "يمر نهر التايمز عبر لندن.",
         "تقع بحيرة جنيف على الحدود بين سويسرا وفرنسا.",
         "تقع بحيرة بالاتون في المجر.",
-        "تنتشر بحيرات كثيرة في فنلندا، وتضم بعض مناطقها تكوينات وبحيرات تأثرت بالعصر الجليدي."
+        "تنتشر بحيرات كثيرة في فنلندا، وتضم بعض مناطقها تكوينات وبحيرات تأثرت بالعصر الجليدي.",
+        "تبلغ مساحة حوض نهر الفولغا نحو 1.38 مليون كيلومتر مربع وفق National Geographic."
       ],
       "reviewStatus": "editorially_reviewed",
       "pointReviews": [
@@ -401,6 +442,14 @@
           "sourceUrl": "https://www.visitfinland.com/en/product/9598dfa9-55d8-4651-9ff7-834902671cfd/komio-nature-reserve/",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Rephrased to Finland only; glacial formations and kettle pools explicitly described"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Fast Fact — Largest Watershed: Volga River (1.38 million square km)",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "pointIds": [
@@ -414,7 +463,8 @@
         "rivers-lakes-7",
         "rivers-lakes-8",
         "rivers-lakes-9",
-        "rivers-lakes-10"
+        "rivers-lakes-10",
+        "rivers-lakes-11"
       ]
     },
     {
@@ -599,7 +649,12 @@
         "تنمو نباتات متكيفة مع الجفاف الصيفي في مناطق البحر المتوسط.",
         "تضم جبال الألب نطاقات نباتية تختلف باختلاف الارتفاع.",
         "توجد أراضٍ رطبة ومستنقعات في أجزاء من شمال أوروبا.",
-        "تضم أوروبا متنزهات وطنية ومحميات طبيعية متنوعة."
+        "تضم أوروبا متنزهات وطنية ومحميات طبيعية متنوعة.",
+        "ضمت شبكة ناتورا 2000 في عام 2024 عدد 27,173 موقعًا لحماية الموائل والأنواع في الاتحاد الأوروبي.",
+        "غطّت مواقع ناتورا 2000 في عام 2024 نحو 18.6% من مساحة اليابسة في الاتحاد الأوروبي.",
+        "غطّت شبكة ناتورا 2000 في عام 2024 نحو 10.5% من المساحة البحرية التابعة للاتحاد الأوروبي.",
+        "يمتد بحر وادن الساحلي عبر مناطق محمية في هولندا وألمانيا والدنمارك، ويشتهر بسهوله الطينية والرملية التي يكشفها الجزر.",
+        "يضم بحر وادن موائل بحرية وساحلية للفقمات الرمادية وفقمات المرافئ وخنازير البحر."
       ],
       "reviewStatus": "editorially_reviewed",
       "pointReviews": [
@@ -644,6 +699,46 @@
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/maps-and-charts/european-protected-areas-1/",
           "reviewedAt": "2026-11-15",
           "reviewNote": "EEA records protected areas designated at national levels across Europe"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/natura-2000-sites-designated-under",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "2024 — 27,173 Natura 2000 sites",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/natura-2000-sites-designated-under",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "2024 — 18.6% EU land area",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/natura-2000-sites-designated-under",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "2024 — 10.5% EU marine territory",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/1314",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Wadden Sea — Dutch, German, Danish areas and intertidal flats",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/1314",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Wadden Sea — harbour seal, grey seal, harbour porpoise",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "pointIds": [
@@ -653,7 +748,12 @@
         "nature-5",
         "nature-6",
         "nature-7",
-        "nature-8"
+        "nature-8",
+        "nature-9",
+        "nature-10",
+        "nature-11",
+        "nature-12",
+        "nature-13"
       ]
     },
     {
@@ -851,7 +951,8 @@
         "أيسلندا جزيرة تقع على حيد وسط الأطلسي، وهو نطاق نشط تكتونيًا.",
         "تُعرف النرويج بخلجانها البحرية العميقة الناتجة عن النحت الجليدي.",
         "تقع مدينة إسطنبول على جانبي مضيق البوسفور بين أوروبا وآسيا.",
-        "توجد دولة الفاتيكان داخل مدينة روما."
+        "توجد دولة الفاتيكان داخل مدينة روما.",
+        "تقوم مدينة البندقية الإيطالية التاريخية على 118 جزيرة صغيرة داخل بحيرتها الساحلية، وفق اليونسكو."
       ],
       "reviewStatus": "editorially_reviewed",
       "pointReviews": [
@@ -878,13 +979,22 @@
           "sourceUrl": "https://whc.unesco.org/en/list/286",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/394/",
+          "reviewedAt": "2026-11-15",
+          "sourceEvidence": "Venice founded in 5th century and spread over 118 small islands",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "pointIds": [
         "distinctive-facts-0",
         "distinctive-facts-1",
         "distinctive-facts-2",
-        "distinctive-facts-3"
+        "distinctive-facts-3",
+        "distinctive-facts-4"
       ]
     }
   ],
@@ -973,7 +1083,7 @@
       "verified": true
     }
   ],
-  "editorialNote": "مراجعة تحريرية: حذف 12 معلومة مكررة أو عامة مع الاحتفاظ بالتفصيل الأدق. كل معلومة متبقية مرتبطة بمصدر؛ ولا يعني وجود رابط وحده إثبات كفاية المرجع أو اكتمال مراجعة علمية مستقلة.",
+  "editorialNote": "أضيفت معلومات جديدة بعد فحص المصدر والاقتباس الداعم ومراجعة عدم تكرار الفكرة في الأقسام الأخرى؛ كل إحصاءات الاتحاد الأوروبي موضحة بأنها تخص الاتحاد لا القارة كلها.",
   "gallery": [
     {
       "title": "جبال الألب",
