@@ -749,12 +749,18 @@
       "points": [
         "آسيا أكثر قارات العالم سكانًا، ويعيش فيها نحو 60% من سكان العالم بحسب التقدير العام الذي تذكره ناشيونال جيوغرافيك.",
         "تضم آسيا مجتمعات بشرية متباينة في أنماط المعيشة، من الرعي في السهوب إلى الزراعة في الأودية والدلتا والمدن الكبرى.",
-        "تساعد أمطار الرياح الموسمية على دعم الزراعة في أجزاء واسعة من جنوب وجنوب شرق آسيا."
+        "تساعد أمطار الرياح الموسمية على دعم الزراعة في أجزاء واسعة من جنوب وجنوب شرق آسيا.",
+        "تتميز بلدان آسيوية كثيرة بتعدد اللغات المستخدمة فيها، وهو ما يجعل اختيار لغة التعليم قضية مهمة في المنطقة.",
+        "تُعد الهند من أكثر بلدان العالم تنوعًا في اللغات الأم، وتشير دراسة لليونسكو إلى وجود 1,369 لغة أم فيها.",
+        "تشير اليونسكو إلى أن بعض اللغات الصغيرة في الهند معرضة للخطر، ولا سيما ضمن عائلات لغوية مثل التبتية البورمية والأوستروآسيوية."
       ],
       "pointIds": [
         "population-languages-0",
         "population-languages-0",
-        "population-languages-0"
+        "population-languages-0",
+        "population-languages-1",
+        "population-languages-2",
+        "population-languages-3"
       ],
       "pointReviews": [
         {
@@ -780,6 +786,30 @@
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
           "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.unesco.org/en/articles/promoting-literacy-multilingual-settings",
+          "sourceEvidence": "Most Asian nations are linguistically diverse ... language issue is important across the region.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/03/Bhasha%20Matters%20State%20of%20the%20Education%20Report%20of%202025%20on%20Mother%20Tongue%20and%20Multilingual%20Education.pdf",
+          "sourceEvidence": "India’s linguistic landscape ... 1,369 mother tongues",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/03/Bhasha%20Matters%20State%20of%20the%20Education%20Report%20of%202025%20on%20Mother%20Tongue%20and%20Multilingual%20Education.pdf",
+          "sourceEvidence": "Language endangerment ... disproportionately affecting Tibeto-Burman, Austro-Asiatic",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -798,7 +828,12 @@
         "اشتهرت كيوتو بتطور العمارة الخشبية اليابانية وفنون الحدائق التي أثرت في تصميم الحدائق عالميًا.",
         "يقع وادي كاتماندو في سفوح جبال الهيمالايا بنيبال.",
         "يشمل تراث وادي كاتماندو المراكز التاريخية لثلاث مدن: كاتماندو وباتان وبهاكتابور.",
-        "يضم تراث وادي كاتماندو سبع مناطق أثرية تشمل ساحات مدن ومجموعات معابد ومواقع دينية."
+        "يضم تراث وادي كاتماندو سبع مناطق أثرية تشمل ساحات مدن ومجموعات معابد ومواقع دينية.",
+        "تضم بكين المدينة المحرمة، التي كانت مقر الحكم الإمبراطوري للصين خلال عهدي مينغ وتشينغ.",
+        "شُيّدت المدينة المحرمة في بكين بين عامي 1406 و1420 في عهد الإمبراطور تشو دي.",
+        "يمتد المحور المركزي التاريخي لبكين من الشمال إلى الجنوب، ويضم قصورًا وحدائق إمبراطورية ومباني احتفالية وعامة.",
+        "تأسست حديقة سنغافورة النباتية سنة 1859، وأصبحت مركزًا للبحث العلمي وحفظ النباتات والتعليم.",
+        "أسهمت حديقة سنغافورة النباتية في تطوير زراعة المطاط في جنوب شرق آسيا، إلى جانب دورها في أبحاث النباتات المدارية."
       ],
       "pointIds": [
         "cities-0",
@@ -809,7 +844,12 @@
         "cities-5",
         "cities-6",
         "cities-7",
-        "cities-8"
+        "cities-8",
+        "cities-9",
+        "cities-10",
+        "cities-11",
+        "cities-12",
+        "cities-13"
       ],
       "pointReviews": [
         {
@@ -883,6 +923,46 @@
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
           "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/439",
+          "sourceEvidence": "Seat of supreme power for over five centuries (1416-1911), the Forbidden City in Beijing",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/439",
+          "sourceEvidence": "constructed between 1406 and 1420 by the Ming emperor Zhu Di",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/1714",
+          "sourceEvidence": "Running north to south ... former imperial palaces and gardens, sacrificial structures, and ceremonial and public buildings",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/1483",
+          "sourceEvidence": "establishment in 1859 ... scientific institution and place of conservation ... education",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/1483",
+          "sourceEvidence": "contributing significantly to the expansion of plantation rubber ... tropical botany",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -934,6 +1014,26 @@
     {
       "name": "UNESCO — Kathmandu Valley",
       "url": "https://whc.unesco.org/en/list/121"
+    },
+    {
+      "name": "UNESCO — Promoting Literacy in Multilingual Settings",
+      "url": "https://www.unesco.org/en/articles/promoting-literacy-multilingual-settings"
+    },
+    {
+      "name": "UNESCO — Bhasha Matters India 2025",
+      "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/03/Bhasha%20Matters%20State%20of%20the%20Education%20Report%20of%202025%20on%20Mother%20Tongue%20and%20Multilingual%20Education.pdf"
+    },
+    {
+      "name": "UNESCO — Imperial Palaces Beijing",
+      "url": "https://whc.unesco.org/en/list/439"
+    },
+    {
+      "name": "UNESCO — Beijing Central Axis",
+      "url": "https://whc.unesco.org/en/list/1714"
+    },
+    {
+      "name": "UNESCO — Singapore Botanic Gardens",
+      "url": "https://whc.unesco.org/en/list/1483"
     }
   ],
   "lastReviewed": "2026-11-15",
