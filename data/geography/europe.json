@@ -72,13 +72,13 @@
         }
       ],
       "pointIds": [
+        "location-0",
         "location-1",
         "location-2",
         "location-3",
         "location-4",
         "location-5",
         "location-6",
-        "location-7",
         "location-8"
       ]
     },
@@ -212,6 +212,7 @@
         }
       ],
       "pointIds": [
+        "area-regions-0",
         "area-regions-1",
         "area-regions-2",
         "area-regions-3",
@@ -227,8 +228,7 @@
         "area-regions-13",
         "area-regions-14",
         "area-regions-15",
-        "area-regions-16",
-        "area-regions-17"
+        "area-regions-16"
       ]
     },
     {
@@ -307,13 +307,13 @@
       "pointIds": [
         "landforms-1",
         "landforms-2",
-        "landforms-3",
         "landforms-4",
         "landforms-5",
         "landforms-6",
         "landforms-7",
-        "landforms-8",
-        "landforms-9"
+        "landforms-9",
+        "landforms-10",
+        "landforms-11"
       ]
     },
     {
@@ -404,6 +404,7 @@
         }
       ],
       "pointIds": [
+        "rivers-lakes-0",
         "rivers-lakes-1",
         "rivers-lakes-2",
         "rivers-lakes-3",
@@ -413,8 +414,7 @@
         "rivers-lakes-7",
         "rivers-lakes-8",
         "rivers-lakes-9",
-        "rivers-lakes-10",
-        "rivers-lakes-11"
+        "rivers-lakes-10"
       ]
     },
     {
@@ -575,7 +575,7 @@
         }
       ],
       "pointIds": [
-        "climate-1",
+        "climate-0",
         "climate-2",
         "climate-3",
         "climate-4",
@@ -647,13 +647,13 @@
         }
       ],
       "pointIds": [
-        "nature-1",
-        "nature-2",
+        "nature-0",
         "nature-3",
         "nature-4",
         "nature-5",
         "nature-6",
-        "nature-7"
+        "nature-7",
+        "nature-8"
       ]
     },
     {
@@ -723,14 +723,14 @@
         }
       ],
       "pointIds": [
+        "population-languages-0",
         "population-languages-1",
         "population-languages-2",
         "population-languages-3",
         "population-languages-4",
         "population-languages-5",
         "population-languages-6",
-        "population-languages-7",
-        "population-languages-8"
+        "population-languages-7"
       ]
     },
     {
@@ -828,6 +828,7 @@
         }
       ],
       "pointIds": [
+        "countries-cities-0",
         "countries-cities-1",
         "countries-cities-2",
         "countries-cities-3",
@@ -838,8 +839,7 @@
         "countries-cities-8",
         "countries-cities-9",
         "countries-cities-10",
-        "countries-cities-11",
-        "countries-cities-12"
+        "countries-cities-11"
       ]
     },
     {
@@ -881,10 +881,10 @@
         }
       ],
       "pointIds": [
+        "distinctive-facts-0",
         "distinctive-facts-1",
         "distinctive-facts-2",
-        "distinctive-facts-3",
-        "distinctive-facts-4"
+        "distinctive-facts-3"
       ]
     }
   ],
