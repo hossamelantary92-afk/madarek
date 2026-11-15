@@ -1,0 +1,499 @@
+{
+  "id": "asia",
+  "title": "آسيا",
+  "status": "verified_initial_release",
+  "intro": "آسيا أكبر قارات العالم، وتجمع بين أعلى السلاسل الجبلية وأوسع السهوب والصحاري وأحواض أنهار كبرى. وتختلف الحدود الاصطلاحية بينها وبين أوروبا باختلاف المرجع.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والحدود",
+      "icon": "🧭",
+      "order": 1,
+      "points": [
+        "تشغل آسيا الجزء الشرقي من كتلة أوراسيا، بينما تقع أوروبا في جزئها الغربي.",
+        "يحد آسيا المحيط المتجمد الشمالي شمالًا، والهادئ شرقًا، والهندي جنوبًا.",
+        "الحدود الفاصلة بين آسيا وأوروبا اصطلاحية ويختلف تحديدها باختلاف المرجع الجغرافي.",
+        "تُستخدم جبال الأورال والقوقاز وبحرا قزوين والأسود ضمن التصورات الشائعة للحدود الغربية لآسيا."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Asia's Borders",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Asia's Borders",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Asia's Borders",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Asia's Borders",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "area-regions",
+      "title": "المساحة والأقاليم",
+      "icon": "🌏",
+      "order": 2,
+      "points": [
+        "آسيا أكبر قارات العالم مساحةً، وتمثل نحو 30% من مساحة اليابسة على الأرض.",
+        "يقسم تصنيف الأمم المتحدة M49 آسيا إلى خمسة أقاليم إحصائية: الوسطى والشرقية والجنوبية والجنوبية الشرقية والغربية.",
+        "تندرج كازاخستان وقيرغيزستان وطاجيكستان وتركمانستان وأوزبكستان ضمن آسيا الوسطى في M49.",
+        "تندرج الصين واليابان ومنغوليا والكوريتان ضمن آسيا الشرقية في M49.",
+        "تندرج إندونيسيا وماليزيا وسنغافورة وتايلاند وفيتنام ضمن آسيا الجنوبية الشرقية في M49.",
+        "تندرج الهند وباكستان وبنغلاديش ونيبال وسريلانكا ضمن آسيا الجنوبية في M49.",
+        "تندرج السعودية والإمارات وعُمان والعراق والأردن ضمن آسيا الغربية في M49."
+      ],
+      "pointIds": [
+        "area-regions-0",
+        "area-regions-1",
+        "area-regions-2",
+        "area-regions-3",
+        "area-regions-4",
+        "area-regions-5",
+        "area-regions-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Introduction",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "Asia sub-regions",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "Central Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "Eastern Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "South-eastern Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "Southern Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "sourceEvidence": "Western Asia",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "landforms",
+      "title": "الجبال والهضاب والسهول",
+      "icon": "⛰️",
+      "order": 3,
+      "points": [
+        "تمتد جبال الهيمالايا لنحو 2,500 كيلومتر وتفصل شبه القارة الهندية عن بقية آسيا.",
+        "تشكلت جبال الهيمالايا نتيجة اصطدام الصفيحة الهندية بالكتلة الأوراسية منذ نحو 50 إلى 55 مليون سنة.",
+        "تضم الهيمالايا أعلى قمة جبلية على الأرض، وهي إيفرست.",
+        "تمتد جبال تيان شان لنحو 2,400 كيلومتر على مناطق قرب حدود قيرغيزستان والصين.",
+        "تضم الهضبة الإيرانية أجزاء واسعة من إيران وأفغانستان وباكستان.",
+        "تشغل هضبة الدكن جزءًا كبيرًا من جنوب الهند.",
+        "يبلغ متوسط ارتفاع هضبة التبت أكثر من 4,500 متر فوق سطح البحر.",
+        "يمتد سهل سيبيريا الغربية لنحو 2,400 كيلومتر من الشمال إلى الجنوب."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Mountain Systems",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Mountain Systems",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Mountain Systems",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Mountain Systems",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plateaus",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plateaus",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plateaus",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plains, Steppes and Deserts",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "deserts",
+      "title": "الصحاري والسهوب",
+      "icon": "🏜️",
+      "order": 4,
+      "points": [
+        "تنتشر السهوب العشبية الواسعة في آسيا الوسطى، ولا سيما منغوليا.",
+        "تمتد صحراء الربع الخالي عبر أجزاء من السعودية وعُمان والإمارات واليمن.",
+        "تضم الهضبة الإيرانية صحراوي دشت كوير ودشت لوت.",
+        "تنتقل البيئات الطبيعية في منغوليا من سهوب الغابات شمالًا إلى السهوب الصحراوية قرب صحراء جوبي جنوبًا."
+      ],
+      "pointIds": [
+        "deserts-0",
+        "deserts-1",
+        "deserts-2",
+        "deserts-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plains, Steppes and Deserts",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plains, Steppes and Deserts",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plateaus",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plains, Steppes and Deserts",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "rivers-lakes",
+      "title": "الأنهار والبحيرات",
+      "icon": "💧",
+      "order": 5,
+      "points": [
+        "بحيرة بايكال في جنوب روسيا أعمق بحيرة في العالم.",
+        "تحتوي بحيرة بايكال على نحو 20% من المياه العذبة السطحية غير المتجمدة في العالم، وفق National Geographic.",
+        "يبلغ طول نهر اليانغتسي نحو 6,300 كيلومتر، وهو أطول أنهار آسيا.",
+        "يجري اليانغتسي شرقًا من هضبة التبت حتى بحر الصين الشرقي.",
+        "ينبع نهرا دجلة والفرات من مرتفعات شرقي تركيا ويمران باتجاه بلاد الرافدين.",
+        "تغذي الأنهار الجليدية في هضبة التبت عددًا من الأنهار الآسيوية الكبرى."
+      ],
+      "pointIds": [
+        "rivers-lakes-0",
+        "rivers-lakes-1",
+        "rivers-lakes-2",
+        "rivers-lakes-3",
+        "rivers-lakes-4",
+        "rivers-lakes-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Freshwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Freshwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Freshwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Freshwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Freshwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Plateaus",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "seas-oceans",
+      "title": "البحار والخلجان",
+      "icon": "🌊",
+      "order": 6,
+      "points": [
+        "يقع خليج البنغال في شمال شرق المحيط الهندي، وتصب فيه أنهار كبيرة بينها الغانج والبراهمابوترا.",
+        "يمتد بحر أوخوتسك بين اليابسة الروسية وشبه جزيرة كامتشاتكا.",
+        "يقع الخليج العربي بين شبه الجزيرة العربية وإيران.",
+        "تتكون عند مصب الغانج والبراهمابوترا في خليج البنغال دلتا واسعة."
+      ],
+      "pointIds": [
+        "seas-oceans-0",
+        "seas-oceans-1",
+        "seas-oceans-2",
+        "seas-oceans-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Saltwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Saltwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Saltwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Saltwater",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "nature",
+      "title": "الطبيعة والحياة البرية",
+      "icon": "🌿",
+      "order": 7,
+      "points": [
+        "تضم غابات سونداربانس الساحلية أشجار مانغروف تتحمل المياه المالحة وتيارات المد والجزر.",
+        "تعيش في منطقة سونداربانس نمور البنغال ضمن شبكة بيئية تشمل طيورًا وأسماكًا وقشريات.",
+        "تعيش فقمة بايكال في المياه العذبة للبحيرة، وهي من الأنواع القليلة للفقمات التي تعيش في المياه العذبة.",
+        "تُستخدم حيوانات الياك في بعض مجتمعات الهيمالايا للنقل والعمل وإنتاج الحليب والألياف.",
+        "تُعرف جمال باكتريا في سهوب منغوليا بسنامين وبقدرتها على تحمل الظروف القاسية."
+      ],
+      "pointIds": [
+        "nature-0",
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Aquatic Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Aquatic Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Aquatic Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Terrestrial Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Terrestrial Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    }
+  ],
+  "publicationPolicy": {
+    "version": 2,
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true,
+    "requiresQuestionAnswerAndDistractorReview": true,
+    "defaultStatus": "draft"
+  },
+  "sources": [
+    {
+      "name": "National Geographic Education — Asia Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/asia/"
+    },
+    {
+      "name": "United Nations Statistics Division — M49",
+      "url": "https://unstats.un.org/unsd/methodology/m49/overview/"
+    }
+  ]
+}
