@@ -1,0 +1,22 @@
+name: Editorial quality gate
+on:
+  push:
+    paths:
+      - 'data/geography/**'
+      - 'scripts/validate-editorial.js'
+      - '.github/workflows/editorial-quality.yml'
+  pull_request:
+    paths:
+      - 'data/geography/**'
+      - 'scripts/validate-editorial.js'
+      - '.github/workflows/editorial-quality.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check sourced facts, quiz answers and duplication
+        run: node scripts/validate-editorial.js
