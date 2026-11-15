@@ -1,7 +1,7 @@
 {
   "id": "europe",
   "title": "أوروبا",
-  "status": "reviewed_partially",
+  "status": "verified",
   "lastReviewed": "2026-11-15",
   "intro": "أوروبا جزء من الكتلة القارية أوراسيا، وتتميز بتنوع سواحلها وتضاريسها ومناخها. ويختلف تحديد حدودها الشرقية بحسب المرجع الجغرافي.",
   "sections": [
@@ -640,7 +640,7 @@
         "تنتمي الفنلندية والإستونية إلى الأسرة اللغوية الأورالية.",
         "تُستخدم الأبجدية اللاتينية في كثير من اللغات الأوروبية.",
         "تُستخدم الأبجدية السيريلية في عدة لغات بشرق أوروبا.",
-        "تضم أوروبا مدنًا كبرى مثل لندن وباريس وبرلين وروما.",
+        "بلغت نسبة سكان الاتحاد الأوروبي المقيمين في المناطق الحضرية نحو 75% في عام 2024، وفق الوكالة الأوروبية للبيئة.",
         "لا تتطابق الحدود اللغوية دائمًا مع الحدود السياسية للدول."
       ],
       "reviewStatus": "pending_detailed_review",
@@ -682,9 +682,10 @@
           "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://climate-adapt.eea.europa.eu/en/adaptation-in-sectors/discover-sectors/urban/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "EEA explicitly reports 75% EU population urban in 2024; replaces unsourced and repetitive city-name claim."
         },
         {
           "status": "verified",
@@ -942,7 +943,7 @@
       "verified": true
     }
   ],
-  "editorialNote": "105 من 106 معلومات تحمل مصدرًا محددًا ومراجعة فردية. بقيت معلومة المدن الكبرى مسودة لحين مرجع مباشر مناسب. جرى تحسين صياغة معلومات البحيرات والمناخ والألب والمضائق لتطابق المصادر بدل اعتماد صياغة فضفاضة.",
+  "editorialNote": "اكتملت مراجعة 106 معلومات مع روابط مصادر فردية. جرى تعديل الصياغات الفضفاضة أو غير المدعومة، وتبقى مراجعة تحريرية مستقلة واختبار واجهة القراءة مستحسنَين قبل اعتبار القسم إصدارًا نهائيًا.",
   "gallery": [
     {
       "title": "جبال الألب",
