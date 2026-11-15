@@ -12,8 +12,9 @@ for(const {file,data} of facts)for(const section of data.sections||[]){
 if(section.points.length!==section.pointReviews?.length||section.points.length!==section.pointIds?.length)errors.push(section.id+': misaligned review/id arrays');
 section.points.forEach((point,i)=>{
 const id=file+':'+section.pointIds?.[i],review=section.pointReviews?.[i]||{};
-if(!id||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
+if(!section.pointIds?.[i]||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
 if(review.status!=='verified'||!/^https:\/\//.test(review.sourceUrl||'')||!review.reviewedAt)errors.push('unapproved fact: '+id);
+if(file.endsWith('/asia.json')&&(!review.sourceEvidence||review.sourceEvidence.length<12))errors.push('missing source evidence: '+id);
 if(!point||point.length<20)errors.push('too short/empty fact: '+id);
 const key=norm(point);
 for(const [otherId,other] of seen){if(norm(other)===key)errors.push('exact duplicate: '+id+' / '+otherId);else if(similarity(point,other)>0.85&&tokens(point).size>=5)errors.push('possible semantic overlap (manual review required): '+id+' / '+otherId)}
