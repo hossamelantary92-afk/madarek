@@ -638,9 +638,40 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/Languages_of_Europe.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/Languages_of_Europe.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/Languages_of_Europe.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/Languages_of_Europe.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://diercke.de/content/europe-official-languages-and-linguistic-minorities-978-3-14-100890-6-68-3-1",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://diercke.de/content/europe-official-languages-and-linguistic-minorities-978-3-14-100890-6-68-3-1",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         },
         {
           "status": "draft",
@@ -648,34 +679,10 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://archive.espon.eu/sites/default/files/attachments/ANNEXES_Scientific_Report.pdf",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         }
       ]
     },
@@ -792,9 +799,10 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-land-of-ice-and-fire-1830/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         },
         {
           "status": "verified",
@@ -803,14 +811,16 @@
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/bosporus-strait-and-istanbul-turkey-2384/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/286",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         },
         {
           "status": "draft",
@@ -922,7 +932,7 @@
       "verified": true
     }
   ],
-  "editorialNote": "اعتمدت 44 معلومة بمراجع مرتبطة على مستوى كل معلومة. المعلومات الأخرى ما زالت مسودات غير منشورة. تحقق التدقيق الأخير من مسارات الأنهار والبحيرات والبحار باستخدام مصادر مؤسسية وتعليمية منشورة.",
+  "editorialNote": "تمت مراجعة 95 معلومة من أصل 106؛ العشر معلومات الجديدة تشمل سبع معلومات لغوية وثلاث حقائق عن أيسلندا وإسطنبول والفاتيكان، مع روابط مصادر فردية. ما تبقى مسودات غير منشورة.",
   "gallery": [
     {
       "title": "جبال الألب",
