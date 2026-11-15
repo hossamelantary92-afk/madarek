@@ -439,7 +439,9 @@
         "تزداد الفروق الموسمية في درجات الحرارة في المناطق الداخلية ذات المناخ القاري.",
         "يسود مناخ بارد في أجزاء من شمال إسكندنافيا.",
         "تنخفض درجات الحرارة عمومًا مع زيادة الارتفاع في الجبال.",
-        "تختلف كمية الأمطار بين السواحل الغربية والمناطق الواقعة خلف الحواجز الجبلية."
+        "تختلف كمية الأمطار بين السواحل الغربية والمناطق الواقعة خلف الحواجز الجبلية.",
+        "تؤثر موجات الحر والفيضانات والجفاف على مناطق مختلفة من أوروبا، وفق الوكالة الأوروبية للبيئة.",
+        "تحدد الوكالة الأوروبية للبيئة مخاطر مناخية على النظم البيئية والغذاء والصحة والبنية التحتية والاقتصاد."
       ],
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
@@ -487,6 +489,18 @@
           "status": "draft",
           "sourceUrl": null,
           "reviewedAt": null
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.eea.europa.eu/en/topics/in-depth/climate-change-impacts-risks-and-adaptation",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Explicitly stated on EEA climate risks and adaptation page"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.eea.europa.eu/en/topics/in-depth/climate-change-impacts-risks-and-adaptation",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Explicitly stated on EEA climate risks and adaptation page"
         }
       ]
     },
@@ -636,64 +650,76 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         }
       ]
     },
@@ -780,9 +806,21 @@
       "url": "https://www.britannica.com/place/Europe",
       "scope": "مرجع التدقيق التفصيلي القادم للتضاريس والمناخ والأنهار",
       "verified": false
+    },
+    {
+      "name": "Nations Online — Capital Cities of Europe",
+      "url": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+      "scope": "مراجعة 12 زوجًا من الدول والعواصم",
+      "verified": true
+    },
+    {
+      "name": "European Environment Agency — Climate change impacts",
+      "url": "https://www.eea.europa.eu/en/topics/in-depth/climate-change-impacts-risks-and-adaptation",
+      "scope": "معلومتان عن آثار تغير المناخ والمخاطر الأوروبية",
+      "verified": true
     }
   ],
-  "editorialNote": "تمت مراجعة 17 معلومة عن الأقاليم والتصنيف الإحصائي من جدول الأمم المتحدة M49. بقية المعلومات لا تزال مسودات غير منشورة في انتظار مراجعة مصادر متخصصة.",
+  "editorialNote": "تم توثيق 31 معلومة فردية: 17 عن الأقاليم وفق الأمم المتحدة M49، و12 عاصمة من Nations Online، ومعلومتين عن المخاطر المناخية من الوكالة الأوروبية للبيئة. تبقى بقية المسودات محجوبة لحين تدقيقها.",
   "gallery": [
     {
       "title": "جبال الألب",
