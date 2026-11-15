@@ -84,7 +84,15 @@
         "تُدرج الأمم المتحدة السويد والنرويج والدنمارك ضمن أوروبا الشمالية.",
         "تُدرج الأمم المتحدة بولندا ورومانيا وأوكرانيا ضمن أوروبا الشرقية.",
         "يختلف التصنيف الإحصائي للأمم المتحدة عن عضوية الاتحاد الأوروبي.",
-        "تُصنف روسيا ضمن أوروبا الشرقية في جدول M49 الإحصائي رغم امتدادها عبر قارتي أوروبا وآسيا."
+        "تُصنف روسيا ضمن أوروبا الشرقية في جدول M49 الإحصائي رغم امتدادها عبر قارتي أوروبا وآسيا.",
+        "تُدرج الأمم المتحدة فنلندا وأيسلندا وإستونيا ضمن أوروبا الشمالية.",
+        "تُدرج الأمم المتحدة أيرلندا والمملكة المتحدة ضمن أوروبا الشمالية.",
+        "تُدرج الأمم المتحدة البرتغال وكرواتيا ضمن أوروبا الجنوبية.",
+        "تُدرج الأمم المتحدة ألبانيا ومالطا وصربيا ضمن أوروبا الجنوبية.",
+        "تُدرج الأمم المتحدة النمسا وبلجيكا ولوكسمبورغ ضمن أوروبا الغربية.",
+        "تُدرج الأمم المتحدة هولندا وموناكو وليختنشتاين ضمن أوروبا الغربية.",
+        "تُدرج الأمم المتحدة بلغاريا والمجر وسلوفاكيا ضمن أوروبا الشرقية.",
+        "تُدرج الأمم المتحدة بيلاروسيا وتشيكيا ومولدوفا ضمن أوروبا الشرقية."
       ],
       "reviewStatus": "partially_verified",
       "pointReviews": [
@@ -101,9 +109,10 @@
           "reviewNote": "Checked against UN M49 region and country assignment table"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "UNSD M49 is a statistical geography classification; distinct from political EU membership."
         },
         {
           "status": "verified",
@@ -130,15 +139,64 @@
           "reviewNote": "Checked against UN M49 region and country assignment table"
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "UNSD M49 is a statistical geography classification; distinct from political EU membership."
         },
         {
           "status": "verified",
           "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Checked against UN M49 region and country assignment table"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
         }
       ]
     },
@@ -724,7 +782,7 @@
       "verified": false
     }
   ],
-  "editorialNote": "اعتمدت 7 معلومات عن الأقاليم من جدول الأمم المتحدة M49. بقيت المعلومات مسودات محجوبة حتى مراجعة مصادرها بندًا بندًا.",
+  "editorialNote": "تمت مراجعة 17 معلومة عن الأقاليم والتصنيف الإحصائي من جدول الأمم المتحدة M49. بقية المعلومات لا تزال مسودات غير منشورة في انتظار مراجعة مصادر متخصصة.",
   "gallery": [
     {
       "title": "جبال الألب",
