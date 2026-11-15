@@ -715,58 +715,65 @@
         {
           "status": "verified",
           "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
-          "sourceEvidence": "Climate characteristics in Asia are diverse covering all climate zones from tropical to polar, including mountain climate.",
+          "sourceEvidence": "IPCC AR6 WGII Ch10 §10.3.1: climate zones range from tropical to polar, including mountain climate.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
-          "sourceEvidence": "Monsoonal winds and associated precipitation are dominant in South, Southeast and East Asia.",
+          "sourceEvidence": "IPCC AR6 WGII Ch10 §10.3.1: monsoonal winds and associated precipitation dominate South, Southeast and East Asia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
-          "sourceEvidence": "West Asia is the driest and Southeast Asia is the wettest ... 220 mm ... 2570 mm ... 1981–2010.",
+          "sourceEvidence": "IPCC AR6 WGII Ch10 §10.3.1: 1981–2010 regional precipitation averages, West Asia 220 mm (driest), Southeast Asia 2570 mm (wettest).",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
-          "sourceEvidence": "Most of North Asia and higher altitude is underlain by permafrost.",
+          "sourceEvidence": "IPCC AR6 WGII Ch10 §10.3.1: most of North Asia and higher-altitude terrain is underlain by permafrost.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
-          "sourceEvidence": "Tropical Rainforest climate ... high and uniform rainfall ... Malaysia, Brunei, Singapore and some parts of Indonesian Archipelago.",
+          "sourceEvidence": "ASMC Regional Climate FAQ: near-equatorial Malaysia, Brunei, Singapore, Sumatra and Kalimantan experience high, relatively uniform year-round rainfall.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
-          "sourceEvidence": "Tropical Monsoon or Savanna climate ... distinct dry and wet seasons ... Thailand, Myanmar, Cambodia, Lao PDR, Vietnam and the Philippines.",
+          "sourceEvidence": "ASMC Regional Climate FAQ: tropical monsoon/savanna climate with distinct wet and dry seasons in Thailand, Myanmar, Cambodia, Lao PDR, Vietnam and Philippines.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
-          "sourceEvidence": "Our climate is influenced by maritime wind systems which originate in the South China Sea and the Indian Ocean.",
+          "sourceEvidence": "ASMC Regional Climate FAQ: maritime wind systems originating in South China Sea and Indian Ocean influence regional climate.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -779,7 +786,7 @@
       "points": [
         "آسيا أكثر قارات العالم سكانًا، ويعيش فيها نحو 60% من سكان العالم بحسب التقدير العام الذي تذكره ناشيونال جيوغرافيك.",
         "تتميز بلدان آسيوية كثيرة بتعدد اللغات المستخدمة فيها، وهو ما يجعل اختيار لغة التعليم قضية مهمة في المنطقة.",
-        "تُعد الهند من أكثر بلدان العالم تنوعًا في اللغات الأم، وتشير دراسة لليونسكو إلى وجود 1,369 لغة أم فيها.",
+        "تشير اليونسكو، استنادًا إلى تعداد الهند لعام 2011، إلى وجود 1,369 لغة أم في الهند، ما يعكس تنوعها اللغوي الكبير.",
         "تشير اليونسكو إلى أن بعض اللغات الصغيرة في الهند معرضة للخطر، ولا سيما ضمن عائلات لغوية مثل التبتية البورمية والأوستروآسيوية."
       ],
       "pointIds": [
@@ -800,26 +807,29 @@
         {
           "status": "verified",
           "sourceUrl": "https://www.unesco.org/en/articles/promoting-literacy-multilingual-settings",
-          "sourceEvidence": "Most Asian nations are linguistically diverse ... language issue is important across the region.",
+          "sourceEvidence": "UNESCO Promoting Literacy in Multilingual Settings: most Asian nations are linguistically diverse, making language choice in education important.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/03/Bhasha%20Matters%20State%20of%20the%20Education%20Report%20of%202025%20on%20Mother%20Tongue%20and%20Multilingual%20Education.pdf",
-          "sourceEvidence": "India’s linguistic landscape ... 1,369 mother tongues",
+          "sourceEvidence": "UNESCO Bhasha Matters (2025), executive summary: India has 1,369 mother tongues (Census 2011).",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/03/Bhasha%20Matters%20State%20of%20the%20Education%20Report%20of%202025%20on%20Mother%20Tongue%20and%20Multilingual%20Education.pdf",
-          "sourceEvidence": "Language endangerment ... disproportionately affecting Tibeto-Burman, Austro-Asiatic",
+          "sourceEvidence": "UNESCO Bhasha Matters (2025), summary: endangerment disproportionately affects Tibeto-Burman and Austro-Asiatic language families.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -1047,7 +1057,7 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "المراجعة مستمرة. تمت في الجولة الحالية مطابقة 10 نقاط إضافية مع نصوص اليونسكو الأصلية، دون اعتبار القارة معتمدة نهائيًا.",
+  "editorialNote": "2026-11-15: طوبقت سبع معلومات مناخية وثلاث لغوية مع مصادر IPCC وASMC واليونسكو؛ وضّحنا تاريخ تعداد اللغات في الهند. لم تكتمل مراجعة السكان والطبيعة والمدن.",
   "editorialAudit": {
     "date": "2026-11-15",
     "phase": "source_verification_in_progress",
@@ -1101,7 +1111,17 @@
       "distinctive-facts-1",
       "distinctive-facts-2",
       "distinctive-facts-3",
-      "distinctive-facts-4"
+      "distinctive-facts-4",
+      "climate-0",
+      "climate-1",
+      "climate-2",
+      "climate-3",
+      "climate-4",
+      "climate-5",
+      "climate-6",
+      "population-languages-3",
+      "population-languages-4",
+      "population-languages-5"
     ],
     "removedUnsupported": [
       {
@@ -1110,7 +1130,7 @@
         "reason": "الاقتباس المرفق يثبت انتشار الرياح الموسمية، لكنه لا يثبت مباشرةً أثرها الزراعي الوارد في العبارة."
       }
     ],
-    "note": "تمت مطابقة 5 نقاط سونداربانس و5 نقاط ممر تشانغآن-تيان شان مع نص اليونسكو؛ بقية الطبيعة والمناخ والسكان والمدن لم تستكمل مراجعتها.",
+    "note": "Verified seven climate claims against IPCC/ASMC and three language claims against UNESCO; the population estimate, remaining nature facts and city facts still require source-level review.",
     "verifiedSections": [
       "location",
       "area-regions",
@@ -1118,16 +1138,22 @@
       "deserts",
       "rivers-lakes",
       "seas-oceans",
-      "distinctive-facts"
+      "distinctive-facts",
+      "climate"
     ],
     "corrections": [
       {
         "id": "rivers-lakes-1",
         "reason": "Removed 'surface' qualifier not present in cited National Geographic text."
+      },
+      {
+        "id": "population-languages-4",
+        "reason": "Clarified UNESCO 1,369 mother tongues figure derives from India's 2011 census, rather than implying a current count."
       }
     ],
     "partialSections": [
-      "nature"
+      "nature",
+      "population-languages"
     ]
   }
 }
