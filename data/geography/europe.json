@@ -24,9 +24,33 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
+        },
+        {
           "status": "draft",
           "sourceUrl": null,
           "reviewedAt": null
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -39,29 +63,10 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -222,64 +227,76 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         }
       ]
     },
@@ -304,19 +321,22 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.icpdr.org/danube-basin/danube-river-basin",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://www.icpdr.org/danube-basin/receiving-sea-black-sea",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -379,9 +399,10 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -446,39 +467,46 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -523,44 +551,52 @@
       "reviewStatus": "pending_detailed_review",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -746,9 +782,10 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
           "status": "draft",
@@ -771,14 +808,16 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         }
       ]
     }
@@ -818,9 +857,27 @@
       "url": "https://www.eea.europa.eu/en/topics/in-depth/climate-change-impacts-risks-and-adaptation",
       "scope": "معلومتان عن آثار تغير المناخ والمخاطر الأوروبية",
       "verified": true
+    },
+    {
+      "name": "National Geographic Education — Europe Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
+      "scope": "الموقع والتضاريس والغطاء النباتي والبيئات الطبيعية",
+      "verified": true
+    },
+    {
+      "name": "ICPDR — Danube River Basin",
+      "url": "https://www.icpdr.org/danube-basin/danube-river-basin",
+      "scope": "مسار الدانوب ودلتاه",
+      "verified": true
+    },
+    {
+      "name": "McGraw Hill — Physical Geography of Europe",
+      "url": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
+      "scope": "أنماط المناخ الأوروبي",
+      "verified": true
     }
   ],
-  "editorialNote": "تم توثيق 31 معلومة فردية: 17 عن الأقاليم وفق الأمم المتحدة M49، و12 عاصمة من Nations Online، ومعلومتين عن المخاطر المناخية من الوكالة الأوروبية للبيئة. تبقى بقية المسودات محجوبة لحين تدقيقها.",
+  "editorialNote": "كل معلومة منشورة لها رابط مصدر محدد وحالة verified. اعتمدت دفعة من National Geographic Education وICPDR وMcGraw Hill؛ بقيت المسودات محجوبة حتى التحقق الفردي. المراجعة لا تشمل المسودات غير المنشورة.",
   "gallery": [
     {
       "title": "جبال الألب",
