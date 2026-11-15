@@ -1075,10 +1075,10 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "2026-11-15: استكملت مطابقة 78 معلومة منشورة مع المصادر الأصلية المحددة؛ المراجعة التحريرية النهائية والتدقيق المستقل للتكرار لم يكتملَا بعد.",
+  "editorialNote": "2026-11-15: اكتملت مراجعة بنية بيانات آسيا ومقارنة حالات التداخل النصي الأبرز؛ لم يظهر خلل بنيوي في الملف. لا يزال نجاح تشغيل فحص GitHub الآلي غير مؤكد، ولذلك لم يُمنح الاعتماد النهائي.",
   "editorialAudit": {
     "date": "2026-11-15",
-    "phase": "source_comparison_completed_pending_final_editorial_audit",
+    "phase": "editorial_structure_and_overlap_review_completed_ci_unconfirmed",
     "verifiedAgainstOriginalSource": [
       "area-regions-1",
       "area-regions-7",
@@ -1191,6 +1191,38 @@
       }
     ],
     "partialSections": [],
-    "pendingSourceVerification": []
+    "pendingSourceVerification": [],
+    "finalEditorialReview": {
+      "date": "2026-11-15",
+      "checkedFacts": 78,
+      "structuralIssues": [],
+      "semanticOverlapDecisions": [
+        {
+          "ids": [
+            "seas-oceans-3",
+            "nature-5"
+          ],
+          "decision": "retain",
+          "reason": "الأولى تصف تشكّل الدلتا، والثانية تحدد موضع غابات سونداربانس عليها؛ معلومتان متكاملتان."
+        },
+        {
+          "ids": [
+            "area-regions-10",
+            "area-regions-12"
+          ],
+          "decision": "retain",
+          "reason": "كل معلومة تسرد دولًا مختلفة ضمن الإقليم نفسه، ولا تكرر أسماء الدول."
+        },
+        {
+          "ids": [
+            "area-regions-8",
+            "area-regions-11"
+          ],
+          "decision": "retain",
+          "reason": "مجموعتان مختلفتان من دول آسيا الغربية."
+        }
+      ],
+      "limitations": "Review of close word-overlap pairs is not an independent scientific fact check; GitHub CI execution not confirmed. Automated validator is not a substitute for manual source verification."
+    }
   }
 }
