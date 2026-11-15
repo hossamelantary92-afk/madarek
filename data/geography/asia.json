@@ -492,14 +492,24 @@
         "تعيش في منطقة سونداربانس نمور البنغال ضمن شبكة بيئية تشمل طيورًا وأسماكًا وقشريات.",
         "تعيش فقمة بايكال في المياه العذبة للبحيرة، وهي من الأنواع القليلة للفقمات التي تعيش في المياه العذبة.",
         "تُستخدم حيوانات الياك في بعض مجتمعات الهيمالايا للنقل والعمل وإنتاج الحليب والألياف.",
-        "تُعرف جمال باكتريا في سهوب منغوليا بسنامين وبقدرتها على تحمل الظروف القاسية."
+        "تُعرف جمال باكتريا في سهوب منغوليا بسنامين وبقدرتها على تحمل الظروف القاسية.",
+        "تقع غابات سونداربانس عند دلتا أنهار الغانج والبراهمابوترا والميغنا على خليج البنغال.",
+        "تضم سونداربانس شبكة معقدة من المجاري المائية المدية والسهول الطينية والجزر الصغيرة.",
+        "تؤدي غابات المانغروف في سونداربانس دورًا في حماية المناطق الساحلية من العواصف والأعاصير والمد البحري.",
+        "توجد في سونداربانس تماسيح المصبات وثعابين البايثون الهندية إلى جانب أنواع عديدة من الطيور.",
+        "تُعد سونداربانس الممتدة بين الهند وبنغلاديش أكبر غابات المانغروف في العالم."
       ],
       "pointIds": [
         "nature-0",
         "nature-1",
         "nature-2",
         "nature-3",
-        "nature-4"
+        "nature-4",
+        "nature-5",
+        "nature-6",
+        "nature-7",
+        "nature-8",
+        "nature-9"
       ],
       "pointReviews": [
         {
@@ -538,6 +548,46 @@
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
           "sourceEvidence": "Terrestrial Flora and Fauna",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/798",
+          "sourceEvidence": "lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/798",
+          "sourceEvidence": "complex network of tidal waterways, mudflats and small islands",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/798",
+          "sourceEvidence": "acts as a shelter belt to protect the people from storms, cyclones, tidal surges",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/798",
+          "sourceEvidence": "including 260 bird species, the Bengal tiger ... estuarine crocodile and the Indian python.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.unesco.org/en/articles/sundarbans",
+          "sourceEvidence": "straddling ... between India and Bangladesh, is the world's largest mangrove forest.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
           "duplicateReviewedAt": "2026-11-15"
@@ -607,6 +657,132 @@
         }
       ],
       "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "climate",
+      "title": "المناخ والرياح الموسمية",
+      "icon": "🌦️",
+      "order": 9,
+      "points": [
+        "تضم آسيا جميع النطاقات المناخية الرئيسية، من الاستوائية إلى القطبية، إلى جانب المناخ الجبلي.",
+        "تؤثر الرياح الموسمية والأمطار المرتبطة بها بصورة رئيسية في جنوب آسيا وجنوب شرقها وشرقها.",
+        "تُعد آسيا الغربية أكثر أقاليم آسيا جفافًا في المتوسط، بينما يُعد جنوب شرق آسيا أشدها مطرًا، وفق بيانات مناخية للفترة 1981–2010.",
+        "تنتشر التربة الصقيعية في أجزاء واسعة من شمال آسيا والمناطق المرتفعة.",
+        "تتميز المناطق القريبة من خط الاستواء في ماليزيا وبروناي وسنغافورة وأجزاء من إندونيسيا بأمطار مرتفعة موزعة على مدار العام.",
+        "تتميز مناطق واسعة من تايلاند وميانمار وكمبوديا ولاوس وفيتنام والفلبين بتعاقب موسمين أكثر رطوبة وأكثر جفافًا.",
+        "تؤثر الرياح القادمة من بحر الصين الجنوبي والمحيط الهندي في مناخ جنوب شرق آسيا."
+      ],
+      "pointIds": [
+        "climate-0",
+        "climate-0",
+        "climate-0",
+        "climate-0",
+        "climate-0",
+        "climate-0",
+        "climate-0"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+          "sourceEvidence": "Climate characteristics in Asia are diverse covering all climate zones from tropical to polar, including mountain climate.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+          "sourceEvidence": "Monsoonal winds and associated precipitation are dominant in South, Southeast and East Asia.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+          "sourceEvidence": "West Asia is the driest and Southeast Asia is the wettest ... 220 mm ... 2570 mm ... 1981–2010.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+          "sourceEvidence": "Most of North Asia and higher altitude is underlain by permafrost.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
+          "sourceEvidence": "Tropical Rainforest climate ... high and uniform rainfall ... Malaysia, Brunei, Singapore and some parts of Indonesian Archipelago.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
+          "sourceEvidence": "Tropical Monsoon or Savanna climate ... distinct dry and wet seasons ... Thailand, Myanmar, Cambodia, Lao PDR, Vietnam and the Philippines.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://asmc.asean.org/faq-regional-climate/",
+          "sourceEvidence": "Our climate is influenced by maritime wind systems which originate in the South China Sea and the Indian Ocean.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "population-languages",
+      "title": "السكان والمجتمعات",
+      "icon": "👥",
+      "order": 10,
+      "points": [
+        "آسيا أكثر قارات العالم سكانًا، ويعيش فيها نحو 60% من سكان العالم بحسب التقدير العام الذي تذكره ناشيونال جيوغرافيك.",
+        "تضم آسيا مجتمعات بشرية متباينة في أنماط المعيشة، من الرعي في السهوب إلى الزراعة في الأودية والدلتا والمدن الكبرى.",
+        "تساعد أمطار الرياح الموسمية على دعم الزراعة في أجزاء واسعة من جنوب وجنوب شرق آسيا."
+      ],
+      "pointIds": [
+        "population-languages-0",
+        "population-languages-0",
+        "population-languages-0"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "It is also the world’s most populous continent, with roughly 60 percent of the global population.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
+          "sourceEvidence": "Human Geography; Herding Sheep; physical regions and human geography",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+          "sourceEvidence": "Monsoonal winds and associated precipitation are dominant in South, Southeast and East Asia.",
+          "reviewedAt": "2026-11-15",
+          "editorialReviewedAt": "2026-11-15",
+          "duplicateReviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
     }
   ],
   "publicationPolicy": {
@@ -631,6 +807,18 @@
     {
       "name": "UNESCO World Heritage Centre — Silk Roads: Chang'an–Tianshan Corridor",
       "url": "https://whc.unesco.org/en/list/1442"
+    },
+    {
+      "name": "IPCC AR6 WGII — Asia Climate",
+      "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/"
+    },
+    {
+      "name": "ASEAN Specialised Meteorological Centre — Regional Climate",
+      "url": "https://asmc.asean.org/faq-regional-climate/"
+    },
+    {
+      "name": "UNESCO — Sundarbans",
+      "url": "https://whc.unesco.org/en/list/798"
     }
   ],
   "lastReviewed": "2026-11-15",
