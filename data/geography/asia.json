@@ -257,66 +257,74 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Mountain Systems",
+          "sourceEvidence": "Mountain Systems: Himalayas extend about 2,500 km and separate the Indian subcontinent from the rest of Asia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Mountain Systems",
+          "sourceEvidence": "Mountain Systems: collision with Eurasia approximately 50–55 million years ago formed the Himalayas.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Mountain Systems",
+          "sourceEvidence": "Mountain Systems: Mount Everest is identified as the world's highest mountain summit.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Mountain Systems",
+          "sourceEvidence": "Mountain Systems: Tien Shan extends about 2,400 km along the Kyrgyzstan–China border.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plateaus",
+          "sourceEvidence": "Plateaus: Iranian Plateau encompasses most of Iran, Afghanistan and Pakistan.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plateaus",
+          "sourceEvidence": "Plateaus: Deccan Plateau covers most of southern India.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plateaus",
+          "sourceEvidence": "Plateaus: Tibetan Plateau averages over 4,500 m above sea level.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plains, Steppes and Deserts",
+          "sourceEvidence": "Plains, Steppes and Deserts: West Siberian Plain extends approximately 2,400 km north to south.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -342,34 +350,38 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plains, Steppes and Deserts",
+          "sourceEvidence": "Plains, Steppes and Deserts: Central Asia is dominated by steppes, including zones in Mongolia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plains, Steppes and Deserts",
+          "sourceEvidence": "Plains, Steppes and Deserts: Rub' al Khali spans Saudi Arabia, Oman, UAE and Yemen.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plateaus",
+          "sourceEvidence": "Plateaus: Iranian Plateau includes Dasht-e Kavir and Dasht-e Lut.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plains, Steppes and Deserts",
+          "sourceEvidence": "Plains, Steppes and Deserts: Mongolia's steppe zones transition from mountain forest to desert steppe toward the Gobi.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -381,7 +393,7 @@
       "order": 5,
       "points": [
         "بحيرة بايكال في جنوب روسيا أعمق بحيرة في العالم.",
-        "تحتوي بحيرة بايكال على نحو 20% من المياه العذبة السطحية غير المتجمدة في العالم، وفق National Geographic.",
+        "تحتوي بحيرة بايكال على نحو 20% من المياه العذبة غير المتجمدة في العالم، وفق ناشيونال جيوغرافيك.",
         "يبلغ طول نهر اليانغتسي نحو 6,300 كيلومتر، وهو أطول أنهار آسيا.",
         "يجري اليانغتسي شرقًا من هضبة التبت حتى بحر الصين الشرقي.",
         "ينبع نهرا دجلة والفرات من مرتفعات شرقي تركيا ويمران باتجاه بلاد الرافدين.",
@@ -399,50 +411,56 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Freshwater",
+          "sourceEvidence": "Freshwater: Lake Baikal in southern Russia is described as the deepest lake.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Freshwater",
+          "sourceEvidence": "Freshwater: Lake Baikal contains 20 percent of the world's unfrozen fresh water; the source does not specify surface water.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Freshwater",
+          "sourceEvidence": "Freshwater: Yangtze is Asia's longest river, about 6,300 km.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Freshwater",
+          "sourceEvidence": "Freshwater: Yangtze runs east from Tibetan Plateau glaciers to the East China Sea.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Freshwater",
+          "sourceEvidence": "Freshwater: Tigris and Euphrates originate in the highlands of eastern Turkey and run through Mesopotamia.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Plateaus",
+          "sourceEvidence": "Plateaus: Tibetan Plateau glaciers feed Asia's major rivers.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -468,34 +486,38 @@
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Saltwater",
+          "sourceEvidence": "Saltwater: Bay of Bengal receives major rivers including the Ganges and Brahmaputra.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Saltwater",
+          "sourceEvidence": "Saltwater: Sea of Okhotsk lies between Russian mainland and Kamchatka Peninsula.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Saltwater",
+          "sourceEvidence": "Saltwater: Persian Gulf borders Iran and countries of the Arabian Peninsula.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/asia/",
-          "sourceEvidence": "Saltwater",
+          "sourceEvidence": "Saltwater: Ganges-Brahmaputra wetlands form a large delta on the Bay of Bengal.",
           "reviewedAt": "2026-11-15",
           "editorialReviewedAt": "2026-11-15",
-          "duplicateReviewedAt": "2026-11-15"
+          "duplicateReviewedAt": "2026-11-15",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -1015,7 +1037,7 @@
     }
   ],
   "lastReviewed": "2026-11-15",
-  "editorialNote": "2026-11-15: اكتملت مطابقة 18 معلومة في قسمي الموقع والحدود والمساحة والأقاليم بالمصادر الأصلية، مع أدلة نصية محددة لكل معلومة. تستمر مراجعة الأقسام التسعة الأخرى قبل الاعتماد النهائي.",
+  "editorialNote": "2026-11-15: طوبقت 40 معلومة من أصل 78 مع مصادرها الأصلية في ستة أقسام، وصُححت صياغة معلومة بايكال. لا تزال المراجعة العلمية لبقية الأقسام مطلوبة قبل الاعتماد النهائي.",
   "editorialAudit": {
     "date": "2026-11-15",
     "phase": "source_verification_in_progress",
@@ -1041,7 +1063,29 @@
       "area-regions-4",
       "area-regions-5",
       "area-regions-6",
-      "area-regions-13"
+      "area-regions-13",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "landforms-6",
+      "landforms-7",
+      "deserts-0",
+      "deserts-1",
+      "deserts-2",
+      "deserts-3",
+      "rivers-lakes-0",
+      "rivers-lakes-1",
+      "rivers-lakes-2",
+      "rivers-lakes-3",
+      "rivers-lakes-4",
+      "rivers-lakes-5",
+      "seas-oceans-0",
+      "seas-oceans-1",
+      "seas-oceans-2",
+      "seas-oceans-3"
     ],
     "removedUnsupported": [
       {
@@ -1050,10 +1094,20 @@
         "reason": "الاقتباس المرفق يثبت انتشار الرياح الموسمية، لكنه لا يثبت مباشرةً أثرها الزراعي الوارد في العبارة."
       }
     ],
-    "note": "تمت مطابقة جميع نقاط الموقع والحدود والمساحة والأقاليم مع نص National Geographic وجدول الأمم المتحدة M49 مباشرةً. لا يعني ذلك اعتماد باقي الأقسام.",
+    "note": "مراجعة المصدر الأصلي لأقسام التضاريس والصحاري والمياه؛ لا تزال الأقسام الأخرى بانتظار التحقق.",
     "verifiedSections": [
       "location",
-      "area-regions"
+      "area-regions",
+      "landforms",
+      "deserts",
+      "rivers-lakes",
+      "seas-oceans"
+    ],
+    "corrections": [
+      {
+        "id": "rivers-lakes-1",
+        "reason": "Removed 'surface' qualifier not present in cited National Geographic text."
+      }
     ]
   }
 }
