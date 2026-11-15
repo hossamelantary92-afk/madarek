@@ -18,10 +18,9 @@
         "تقع أيسلندا في شمال المحيط الأطلسي وتُعد جزءًا من أوروبا جغرافيًا.",
         "تفصل جبال البرانس شبه الجزيرة الإيبيرية عن بقية اليابسة الأوروبية.",
         "يمتد البحر الأسود إلى الجنوب الشرقي من أوروبا.",
-        "تتصل أوروبا بآسيا برًا ولا يفصل بينهما محيط.",
         "يحد بحر الشمال أجزاء من سواحل شمال غرب أوروبا."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -67,16 +66,20 @@
         },
         {
           "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
           "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Statement checked against explicit geographical description in source."
         }
+      ],
+      "pointIds": [
+        "location-1",
+        "location-2",
+        "location-3",
+        "location-4",
+        "location-5",
+        "location-6",
+        "location-7",
+        "location-8"
       ]
     },
     {
@@ -103,7 +106,7 @@
         "تُدرج الأمم المتحدة بلغاريا والمجر وسلوفاكيا ضمن أوروبا الشرقية.",
         "تُدرج الأمم المتحدة بيلاروسيا وتشيكيا ومولدوفا ضمن أوروبا الشرقية."
       ],
-      "reviewStatus": "partially_verified",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -207,6 +210,25 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Country-to-subregion mapping checked in UNSD M49 overview."
         }
+      ],
+      "pointIds": [
+        "area-regions-1",
+        "area-regions-2",
+        "area-regions-3",
+        "area-regions-4",
+        "area-regions-5",
+        "area-regions-6",
+        "area-regions-7",
+        "area-regions-8",
+        "area-regions-9",
+        "area-regions-10",
+        "area-regions-11",
+        "area-regions-12",
+        "area-regions-13",
+        "area-regions-14",
+        "area-regions-15",
+        "area-regions-16",
+        "area-regions-17"
       ]
     },
     {
@@ -215,20 +237,17 @@
       "icon": "⛰️",
       "order": 3,
       "points": [
-        "من أشهر سلاسلها: الألب والبرانس والكاربات.",
         "تمتد سهول واسعة في شمال القارة وشرقها.",
         "من أشباه جزرها: الإيبيرية والإيطالية والإسكندنافية.",
-        "تتنوع تضاريسها بين الجبال والسهول والسواحل.",
         "تقع جبال الألب في جنوب وسط أوروبا.",
         "تمتد جبال البرانس على الحدود بين فرنسا وإسبانيا.",
         "يمتد نطاق جبال الكاربات في وسط أوروبا وشرقها.",
         "تقع جبال الأبينيني على امتداد شبه الجزيرة الإيطالية.",
-        "تضم النرويج سواحل متعرجة تشتهر بالفيوردات.",
         "توجد أراضٍ منخفضة واسعة في هولندا.",
         "تتميز شبه الجزيرة الإسكندنافية بمرتفعات وجبال وسهول ساحلية.",
         "توجد براكين نشطة في أيسلندا وإيطاليا."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -283,25 +302,18 @@
           "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         }
+      ],
+      "pointIds": [
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8",
+        "landforms-9"
       ]
     },
     {
@@ -322,7 +334,7 @@
         "تقع بحيرة بالاتون في المجر.",
         "تنتشر بحيرات كثيرة في فنلندا، وتضم بعض مناطقها تكوينات وبحيرات تأثرت بالعصر الجليدي."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -390,6 +402,19 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Rephrased to Finland only; glacial formations and kettle pools explicitly described"
         }
+      ],
+      "pointIds": [
+        "rivers-lakes-1",
+        "rivers-lakes-2",
+        "rivers-lakes-3",
+        "rivers-lakes-4",
+        "rivers-lakes-5",
+        "rivers-lakes-6",
+        "rivers-lakes-7",
+        "rivers-lakes-8",
+        "rivers-lakes-9",
+        "rivers-lakes-10",
+        "rivers-lakes-11"
       ]
     },
     {
@@ -398,7 +423,6 @@
       "icon": "🌊",
       "order": 5,
       "points": [
-        "تطل على المحيط الأطلسي والبحر المتوسط وبحار أخرى.",
         "يقع بحر البلطيق بين شبه الجزيرة الإسكندنافية وأجزاء من شمال أوروبا وشرقها.",
         "يفصل بحر الشمال بريطانيا عن أجزاء من أوروبا القارية.",
         "يقع البحر الأدرياتيكي بين إيطاليا وشبه جزيرة البلقان.",
@@ -408,14 +432,8 @@
         "تفصل القناة الإنجليزية بريطانيا عن فرنسا.",
         "يصل مضيق البوسفور البحر الأسود ببحر مرمرة."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
         {
           "status": "verified",
           "sourceUrl": "https://www.educa2.madrid.org/web/6_ceip_puerto_rico/social-science/-/visor/2-the-seas-and-coasts-of-europe",
@@ -464,6 +482,16 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Statement checked against explicit geographical description in source."
         }
+      ],
+      "pointIds": [
+        "seas-oceans-1",
+        "seas-oceans-2",
+        "seas-oceans-3",
+        "seas-oceans-4",
+        "seas-oceans-5",
+        "seas-oceans-6",
+        "seas-oceans-7",
+        "seas-oceans-8"
       ]
     },
     {
@@ -473,7 +501,6 @@
       "order": 6,
       "points": [
         "يسود المناخ البحري المعتدل أجزاء من الغرب.",
-        "توجد مناخات متوسطية وقارية وقطبية في مناطق مختلفة.",
         "يتأثر غرب أوروبا بالرياح الغربية القادمة من الأطلسي.",
         "يساعد التأثير البحري على اعتدال درجات الحرارة نسبيًا في أجزاء من غرب أوروبا.",
         "تتميز مناطق البحر المتوسط بصيف جاف نسبيًا وشتاء أكثر مطرًا.",
@@ -484,14 +511,8 @@
         "تؤثر موجات الحر والفيضانات والجفاف على مناطق مختلفة من أوروبا، وفق الوكالة الأوروبية للبيئة.",
         "تحدد الوكالة الأوروبية للبيئة مخاطر مناخية على النظم البيئية والغذاء والصحة والبنية التحتية والاقتصاد."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
-        {
-          "status": "verified",
-          "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
         {
           "status": "verified",
           "sourceUrl": "https://glencoe.mheducation.com/sites/0078745780/student_view0/unit2/chapter4/chapter_overviews.html",
@@ -552,6 +573,18 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Explicitly stated on EEA climate risks and adaptation page"
         }
+      ],
+      "pointIds": [
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4",
+        "climate-5",
+        "climate-6",
+        "climate-7",
+        "climate-8",
+        "climate-9",
+        "climate-10"
       ]
     },
     {
@@ -561,8 +594,6 @@
       "order": 7,
       "points": [
         "توجد غابات معتدلة في مناطق واسعة من القارة.",
-        "تختلف النباتات مع الارتفاع ودرجات الحرارة والأمطار.",
-        "تشمل البيئات الطبيعية مناطق جبلية ومراعٍ وبيئات متوسطية.",
         "تنتشر الغابات الصنوبرية في أجزاء من شمال أوروبا.",
         "توجد غابات عريضة الأوراق في مناطق معتدلة من وسط أوروبا وغربها.",
         "تنمو نباتات متكيفة مع الجفاف الصيفي في مناطق البحر المتوسط.",
@@ -570,20 +601,8 @@
         "توجد أراضٍ رطبة ومستنقعات في أجزاء من شمال أوروبا.",
         "تضم أوروبا متنزهات وطنية ومحميات طبيعية متنوعة."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
         {
           "status": "verified",
           "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
@@ -626,6 +645,15 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "EEA records protected areas designated at national levels across Europe"
         }
+      ],
+      "pointIds": [
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4",
+        "nature-5",
+        "nature-6",
+        "nature-7"
       ]
     },
     {
@@ -643,7 +671,7 @@
         "بلغت نسبة سكان الاتحاد الأوروبي المقيمين في المناطق الحضرية نحو 75% في عام 2024، وفق الوكالة الأوروبية للبيئة.",
         "لا تتطابق الحدود اللغوية دائمًا مع الحدود السياسية للدول."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -693,6 +721,16 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
         }
+      ],
+      "pointIds": [
+        "population-languages-1",
+        "population-languages-2",
+        "population-languages-3",
+        "population-languages-4",
+        "population-languages-5",
+        "population-languages-6",
+        "population-languages-7",
+        "population-languages-8"
       ]
     },
     {
@@ -714,7 +752,7 @@
         "فيينا عاصمة النمسا.",
         "براغ عاصمة التشيك."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -788,6 +826,20 @@
           "reviewedAt": "2026-11-15",
           "reviewNote": "Direct country-capital pairing in Nations Online European Capitals list"
         }
+      ],
+      "pointIds": [
+        "countries-cities-1",
+        "countries-cities-2",
+        "countries-cities-3",
+        "countries-cities-4",
+        "countries-cities-5",
+        "countries-cities-6",
+        "countries-cities-7",
+        "countries-cities-8",
+        "countries-cities-9",
+        "countries-cities-10",
+        "countries-cities-11",
+        "countries-cities-12"
       ]
     },
     {
@@ -799,13 +851,9 @@
         "أيسلندا جزيرة تقع على حيد وسط الأطلسي، وهو نطاق نشط تكتونيًا.",
         "تُعرف النرويج بخلجانها البحرية العميقة الناتجة عن النحت الجليدي.",
         "تقع مدينة إسطنبول على جانبي مضيق البوسفور بين أوروبا وآسيا.",
-        "توجد دولة الفاتيكان داخل مدينة روما.",
-        "تضم جبال الألب قممًا شاهقة وبيئات جبلية، وتوجد فيها مناطق جليدية.",
-        "تربط مضائق البوسفور والدردنيل البحر الأسود بالبحر المتوسط عبر بحر مرمرة وبحر إيجة.",
-        "تمتد سهول أوروبا الشمالية عبر أجزاء من عدة دول.",
-        "تتباين البيئات الأوروبية بين القطبية والمعتدلة والمتوسطية."
+        "توجد دولة الفاتيكان داخل مدينة روما."
       ],
-      "reviewStatus": "pending_detailed_review",
+      "reviewStatus": "editorially_reviewed",
       "pointReviews": [
         {
           "status": "verified",
@@ -830,31 +878,13 @@
           "sourceUrl": "https://whc.unesco.org/en/list/286",
           "reviewedAt": "2026-11-15",
           "reviewNote": "Direct supporting passage checked in source; published with section-level provenance."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://www.ipcc.ch/site/assets/uploads/2020/11/The-Regional-Impact.pdf",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Replaced subjective study destination with physical description of Alpine mountains"
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://s3.amazonaws.com/scschoolfiles/84/national_geographic_atlas.pdf",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Replaced vague generality with named geographic straits from National Geographic reference atlas"
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
-        },
-        {
-          "status": "verified",
-          "sourceUrl": "https://education.nationalgeographic.org/resource/europe-physical-geography/",
-          "reviewedAt": "2026-11-15",
-          "reviewNote": "Checked against named source discussion of physical geography, climate, rivers or ecosystems."
         }
+      ],
+      "pointIds": [
+        "distinctive-facts-1",
+        "distinctive-facts-2",
+        "distinctive-facts-3",
+        "distinctive-facts-4"
       ]
     }
   ],
@@ -943,7 +973,7 @@
       "verified": true
     }
   ],
-  "editorialNote": "اكتملت مراجعة 106 معلومات مع روابط مصادر فردية. جرى تعديل الصياغات الفضفاضة أو غير المدعومة، وتبقى مراجعة تحريرية مستقلة واختبار واجهة القراءة مستحسنَين قبل اعتبار القسم إصدارًا نهائيًا.",
+  "editorialNote": "مراجعة تحريرية: حذف 12 معلومة مكررة أو عامة مع الاحتفاظ بالتفصيل الأدق. كل معلومة متبقية مرتبطة بمصدر؛ ولا يعني وجود رابط وحده إثبات كفاية المرجع أو اكتمال مراجعة علمية مستقلة.",
   "gallery": [
     {
       "title": "جبال الألب",
@@ -970,10 +1000,82 @@
   "taxonomyVersion": "europe-v2",
   "targetFacts": 110,
   "publicationPolicy": {
-    "version": 1,
+    "version": 2,
     "requiresVerifiedSourcePerFact": true,
     "requiresQuestionAnswerAndDistractorReview": true,
     "defaultStatus": "draft",
-    "note": "Only facts with an explicit reviewed source and status=verified may be rendered publicly."
+    "note": "Only facts with an explicit reviewed source and status=verified may be rendered publicly.",
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "editorialReview": {
+    "date": "2026-11-15",
+    "scope": "Europe facts and quiz question overlap",
+    "removedCount": 12,
+    "removed": [
+      {
+        "section": "location",
+        "point": "تتصل أوروبا بآسيا برًا ولا يفصل بينهما محيط.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "landforms",
+        "point": "من أشهر سلاسلها: الألب والبرانس والكاربات.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "landforms",
+        "point": "تتنوع تضاريسها بين الجبال والسهول والسواحل.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "landforms",
+        "point": "تضم النرويج سواحل متعرجة تشتهر بالفيوردات.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "seas-oceans",
+        "point": "تطل على المحيط الأطلسي والبحر المتوسط وبحار أخرى.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "climate",
+        "point": "توجد مناخات متوسطية وقارية وقطبية في مناطق مختلفة.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "nature",
+        "point": "تختلف النباتات مع الارتفاع ودرجات الحرارة والأمطار.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "nature",
+        "point": "تشمل البيئات الطبيعية مناطق جبلية ومراعٍ وبيئات متوسطية.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "distinctive-facts",
+        "point": "تضم جبال الألب قممًا شاهقة وبيئات جبلية، وتوجد فيها مناطق جليدية.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "distinctive-facts",
+        "point": "تربط مضائق البوسفور والدردنيل البحر الأسود بالبحر المتوسط عبر بحر مرمرة وبحر إيجة.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "distinctive-facts",
+        "point": "تمتد سهول أوروبا الشمالية عبر أجزاء من عدة دول.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      },
+      {
+        "section": "distinctive-facts",
+        "point": "تتباين البيئات الأوروبية بين القطبية والمعتدلة والمتوسطية.",
+        "reason": "معلومة تمهيدية أو مكررة مع تفصيل أدق في قسم آخر"
+      }
+    ],
+    "notes": "Removed broad summaries and cross-section repetitions while retaining more specific sourced statements. Per-fact source metadata preserved. Future entries require source evidence and independent editorial review before verified publication."
   }
 }
