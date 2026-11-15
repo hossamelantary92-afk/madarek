@@ -14,13 +14,15 @@ section.points.forEach((point,i)=>{
 const id=file+':'+section.pointIds?.[i],review=section.pointReviews?.[i]||{};
 if(!section.pointIds?.[i]||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
 if(review.status!=='verified'||!/^https:\/\//.test(review.sourceUrl||'')||!review.reviewedAt)errors.push('unapproved fact: '+id);
-if(file.endsWith('/asia.json')&&(!review.sourceEvidence||review.sourceEvidence.length<12))errors.push('missing source evidence: '+id);
+if(file.endsWith('/asia.json')){if(!review.sourceEvidence||review.sourceEvidence.length<12)errors.push('missing source evidence: '+id);if(review.verificationMethod!=='direct_original_source_comparison')errors.push('missing documented original-source comparison: '+id);if(!/^\d{4}-\d{2}-\d{2}$/.test(review.editorialReviewedAt||''))errors.push('missing editorial review date: '+id)}
 if(!point||point.length<20)errors.push('too short/empty fact: '+id);
 const key=norm(point);
 for(const [otherId,other] of seen){if(norm(other)===key)errors.push('exact duplicate: '+id+' / '+otherId);else if(similarity(point,other)>0.85&&tokens(point).size>=5)errors.push('possible semantic overlap (manual review required): '+id+' / '+otherId)}
 seen.set(id,point);
 });
 }
+const asia=facts.find(f=>f.file.endsWith('/asia.json'))?.data;
+if(asia){const ids=asia.sections.flatMap(section=>section.pointIds||[]);const audited=new Set(asia.editorialAudit?.verifiedAgainstOriginalSource||[]);for(const id of ids)if(!audited.has(id))errors.push('Asia fact missing from source audit register: '+id);if(audited.size!==new Set([...audited].filter(id=>ids.includes(id))).size)errors.push('Asia audit register contains obsolete or duplicate IDs');}
 const qSeen=new Set();
 for(const q of quiz.questions||[]){
 const k=norm(q.question);
