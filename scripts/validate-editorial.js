@@ -1,16 +1,17 @@
 #!/usr/bin/env node
 // MADARIK editorial release gate. Run before any geography fact or quiz change.
 const fs=require('node:fs');
-const facts=JSON.parse(fs.readFileSync('data/geography/europe.json','utf8'));
+const factFiles=['data/geography/europe.json','data/geography/asia.json'];
+const facts=factFiles.map(file=>({file,data:JSON.parse(fs.readFileSync(file,'utf8'))}));
 const quiz=JSON.parse(fs.readFileSync('data/geography/europe-questions.json','utf8'));
 const errors=[],seen=new Map();
 const norm=s=>s.normalize('NFKC').replace(/[\u064B-\u065F\u0670]/g,'').replace(/[أإآ]/g,'ا').replace(/ى/g,'ي').replace(/[^\p{L}\p{N}]+/gu,' ').trim().toLowerCase();
 const tokens=s=>new Set(norm(s).split(' ').filter(w=>w.length>2));
 const similarity=(a,b)=>{const x=tokens(a),y=tokens(b);return [...x].filter(v=>y.has(v)).length/Math.max(1,Math.min(x.size,y.size))};
-for(const section of facts.sections||[]){
+for(const {file,data} of facts)for(const section of data.sections||[]){
 if(section.points.length!==section.pointReviews?.length||section.points.length!==section.pointIds?.length)errors.push(section.id+': misaligned review/id arrays');
 section.points.forEach((point,i)=>{
-const id=section.pointIds?.[i],review=section.pointReviews?.[i]||{};
+const id=file+':'+section.pointIds?.[i],review=section.pointReviews?.[i]||{};
 if(!id||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
 if(review.status!=='verified'||!/^https:\/\//.test(review.sourceUrl||'')||!review.reviewedAt)errors.push('unapproved fact: '+id);
 if(!point||point.length<20)errors.push('too short/empty fact: '+id);
