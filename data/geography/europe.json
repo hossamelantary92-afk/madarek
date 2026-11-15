@@ -89,9 +89,16 @@
       "reviewStatus": "partially_verified",
       "pointReviews": [
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
         },
         {
           "status": "draft",
@@ -99,9 +106,28 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
         },
         {
           "status": "draft",
@@ -109,29 +135,10 @@
           "reviewedAt": null
         },
         {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
-        },
-        {
-          "status": "draft",
-          "sourceUrl": null,
-          "reviewedAt": null
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview/",
+          "reviewedAt": "2026-11-15",
+          "reviewNote": "Checked against UN M49 region and country assignment table"
         }
       ]
     },
@@ -717,7 +724,7 @@
       "verified": false
     }
   ],
-  "editorialNote": "تم توسيع المادة وتصنيفها تعليميًا. تمت مطابقة أمثلة الأقاليم مع UN M49، أما المعلومات الجغرافية واللغوية الأخرى فهي مسودة تحريرية تحتاج مراجعة بندية من Britannica والمراجع المتخصصة قبل الاعتماد النهائي.",
+  "editorialNote": "اعتمدت 7 معلومات عن الأقاليم من جدول الأمم المتحدة M49. بقيت المعلومات مسودات محجوبة حتى مراجعة مصادرها بندًا بندًا.",
   "gallery": [
     {
       "title": "جبال الألب",
