@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // MADARIK editorial release gate. Run before any geography fact or quiz change.
 const fs=require('node:fs');
-const factFiles=['data/geography/europe.json','data/geography/asia.json'];
+const factFiles=['data/geography/europe.json','data/geography/asia.json','data/geography/africa.json'];
 const facts=factFiles.map(file=>({file,data:JSON.parse(fs.readFileSync(file,'utf8'))}));
 const quiz=JSON.parse(fs.readFileSync('data/geography/europe-questions.json','utf8'));
 const errors=[],seen=new Map();
@@ -14,7 +14,7 @@ section.points.forEach((point,i)=>{
 const id=file+':'+section.pointIds?.[i],review=section.pointReviews?.[i]||{};
 if(!section.pointIds?.[i]||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
 if(review.status!=='verified'||!/^https:\/\//.test(review.sourceUrl||'')||!review.reviewedAt)errors.push('unapproved fact: '+id);
-if(file.endsWith('/asia.json')){if(!review.sourceEvidence||review.sourceEvidence.length<12)errors.push('missing source evidence: '+id);if(review.verificationMethod!=='direct_original_source_comparison')errors.push('missing documented original-source comparison: '+id);if(!/^\d{4}-\d{2}-\d{2}$/.test(review.editorialReviewedAt||''))errors.push('missing editorial review date: '+id)}
+if(file.endsWith('/asia.json')||file.endsWith('/africa.json')){if(!review.sourceEvidence||review.sourceEvidence.length<12)errors.push('missing source evidence: '+id);if(review.verificationMethod!=='direct_original_source_comparison')errors.push('missing documented original-source comparison: '+id);if(!/^\d{4}-\d{2}-\d{2}$/.test(review.editorialReviewedAt||''))errors.push('missing editorial review date: '+id)}
 // Short, complete capital facts are valid; reject only near-empty entries.
 if(!point||point.trim().length<12)errors.push('too short/empty fact: '+id);
 const key=norm(point);
