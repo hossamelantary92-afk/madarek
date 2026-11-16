@@ -2,7 +2,7 @@
   "id": "ancient-egypt",
   "title": "الحضارة المصرية القديمة",
   "subtitle": "من وادي النيل إلى العصرين البطلمي والروماني",
-  "status": "substantive_editorial_revision_pending_independent_review",
+  "status": "expanded_editorial_release_pending_independent_review",
   "sections": [
     {
       "id": "foundations",
@@ -127,6 +127,100 @@
           "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
         }
       ]
+    },
+    {
+      "id": "state-society",
+      "title": "كيف عملت الدولة والمجتمع؟",
+      "points": [
+        {
+          "title": "الفيضان والضرائب: كيف موّلت الدولة نفسها؟",
+          "text": "كانت الأراضي الزراعية والمحاصيل أساسًا رئيسيًا للثروة، وارتبطت الإدارة بقياس الأراضي وتسجيل الإنتاج وتحصيل الموارد. ساعدت السجلات والكتبة على تحويل الفائض الزراعي إلى قدرة على تمويل المعابد والموظفين والمشروعات العامة؛ لكن تفاصيل الجباية تغيرت عبر العصور.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        },
+        {
+          "title": "لماذا كان الكاتب صاحب نفوذ؟",
+          "text": "أتاحت مهارات القراءة والحساب وتسجيل المعاملات للكتبة أداء أدوار محورية في الإدارة والاقتصاد والقضاء. لم تكن الكتابة مجرد إنجاز ثقافي؛ بل أداة لتنظيم توزيع الموارد وتوثيق القرارات واستمرار المؤسسات عبر الأجيال.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        },
+        {
+          "title": "الوزير وحكام الأقاليم",
+          "text": "اعتمد الملك على جهاز إداري ضم كبار المسؤولين وحكام الأقاليم، لكن توزيع النفوذ بين البلاط والأقاليم لم يكن ثابتًا. ساعدت الإدارة المحلية على تشغيل الدولة، وفي فترات الضعف أصبحت قوة الأقاليم أحد عوامل الانقسام السياسي.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        },
+        {
+          "title": "عمال الأهرامات: ماذا تخبرنا الآثار؟",
+          "text": "تشير الشواهد الأثرية في الجيزة إلى وجود تجمعات سكنية ومنشآت لإعداد الطعام وتنظيم العمل مرتبطة بمشروعات البناء الملكية. لذلك لا يصح اختزال بناء الأهرامات في صورة واحدة عن عمالة غير منظمة؛ فقد احتاج إلى إمداد وتخطيط ومهارات متخصصة.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        }
+      ]
+    },
+    {
+      "id": "trade-empire",
+      "title": "التجارة والحروب والدبلوماسية",
+      "points": [
+        {
+          "title": "النوبة والذهب والحدود الجنوبية",
+          "text": "كانت النوبة منطقة مهمة للتبادل التجاري والموارد، ومنها الذهب، وشهدت العلاقات معها مراحل من التجارة والتنافس والهيمنة المصرية. وتوضح الحصون والحملات على الحدود الجنوبية كيف ارتبط الأمن الاقتصادي بالسياسة الخارجية.",
+          "sourceUrl": "https://www.metmuseum.org/pt/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
+        },
+        {
+          "title": "التجارة مع بلاد بونت",
+          "text": "تُظهر مناظر بعثة حتشبسوت إلى بلاد بونت في معبدها بالدير البحري اهتمام البلاط بالحصول على سلع ثمينة، مثل البخور والمواد العطرية. وتكشف البعثة عن دور التجارة والرمزية الملكية معًا، بينما يظل تحديد موقع بونت الدقيق محل نقاش.",
+          "sourceUrl": "https://whc.unesco.org/en/list/87"
+        },
+        {
+          "title": "الجيش والعربات الحربية",
+          "text": "شهدت الدولة الحديثة تطورًا في تنظيم الحملات العسكرية واستخدام العربات الحربية ضمن القوات. وساعد هذا على توسيع النفوذ المصري في بلاد الشام والنوبة، لكنه خلق أيضًا حاجة مستمرة إلى إدارة المناطق التابعة وحماية طرق الاتصال.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        },
+        {
+          "title": "تحتمس الثالث وصناعة النفوذ",
+          "text": "ارتبط عهد تحتمس الثالث بحملات عسكرية في بلاد الشام، ومن أشهرها حملة مجدو. وتُظهر سجلات الحملات أن بناء النفوذ لم يعتمد على الانتصار الميداني فقط، بل على شبكة من الحلفاء والجزية والإدارة السياسية للمناطق الخاضعة.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        },
+        {
+          "title": "قادش: لماذا لا تكفي رواية المنتصر؟",
+          "text": "خلّدت نقوش رمسيس الثاني معركة قادش ضد الحيثيين بصياغة ملكية تمجّد دوره. لكن دراسة الحدث تحتاج مقارنة الدعاية الرسمية بالمصادر الأخرى؛ فلم تكن المعركة نهاية الصراع، وتلتها لاحقًا ترتيبات دبلوماسية بين القوتين.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        },
+        {
+          "title": "المعاهدة المصرية الحيثية",
+          "text": "توصلت مصر والحيثيون في عهد رمسيس الثاني وحتوسيلي الثالث إلى اتفاق سلام وتحالف معروف من نصوص مصرية وحيثية. أهميته أنه يكشف أن العلاقات الدولية القديمة شملت التفاوض والالتزامات المتبادلة، لا الحرب وحدها.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        }
+      ]
+    },
+    {
+      "id": "everyday-life",
+      "title": "الناس والعمل والحقوق",
+      "points": [
+        {
+          "title": "حقوق المرأة وحدود السلطة",
+          "text": "امتلكت نساء في مصر القديمة إمكانات قانونية للتملك والتصرف في الممتلكات وإبرام بعض العقود، مع اختلاف الواقع الاجتماعي بحسب المكانة والعصر. ومن المهم التمييز بين الحقوق القانونية الموثقة وبين المساواة الفعلية في كل مجالات الحياة.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        },
+        {
+          "title": "دير المدينة: الحياة خلف المقابر الملكية",
+          "text": "توفر آثار ونصوص دير المدينة، قرية العاملين في المقابر الملكية قرب طيبة، صورة استثنائية عن الأجور والنزاعات والحياة الأسرية والعمل اليومي. وتُظهر هذه السجلات أن تاريخ مصر لا يُكتب من قصور الملوك وحدها.",
+          "sourceUrl": "https://whc.unesco.org/en/list/87"
+        },
+        {
+          "title": "إضراب عمال دير المدينة",
+          "text": "تُسجل برديات من عهد رمسيس الثالث احتجاجات لعمال المقابر الملكية بسبب تأخر حصصهم الغذائية. تكمن أهمية الحدث في توثيق علاقة العمال بالإدارة ومطالبتهم بحقوقهم، وليس في الادعاء بأنه أول احتجاج عمالي في التاريخ على نحو قاطع.",
+          "sourceUrl": "https://whc.unesco.org/en/list/87"
+        }
+      ]
+    },
+    {
+      "id": "late-changes",
+      "title": "أزمات السلطة والتحولات",
+      "points": [
+        {
+          "title": "التحول من القوة الإمبراطورية إلى الانقسام",
+          "text": "مع نهاية الدولة الحديثة تراجعت قدرة السلطة المركزية على السيطرة على الموارد والأقاليم، وبرزت قوى دينية ومحلية متعددة. لم يكن الانحدار حادثة واحدة؛ بل عملية طويلة تداخلت فيها السياسة والاقتصاد والضغوط الخارجية.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        }
+      ]
     }
   ],
   "sources": [
@@ -167,8 +261,8 @@
   "editorialPolicy": "Prefer historically consequential, explanatory, sourced facts; reject generic filler and repetition; distinguish approximations and disputed interpretations.",
   "editorialAudit": {
     "reviewedAt": "2026-11-16",
-    "previousCount": 12,
-    "newCount": 20,
-    "notes": "Replaced generic one-sentence summaries with consequential explanatory passages. Sources checked for key chronology and themes; not a full independent line-by-line fact certification."
+    "previousCount": 20,
+    "newCount": 34,
+    "notes": "Added 14 substantial explanatory insights on bureaucracy, labor, Nubia, Punt, military diplomacy, legal agency and late-state change. Claims remain pending independent source-by-source validation."
   }
 }
