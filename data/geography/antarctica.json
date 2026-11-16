@@ -1,0 +1,1061 @@
+{
+  "id": "antarctica",
+  "title": "أنتاركتيكا",
+  "status": "verified_source_based_release",
+  "intro": "القارة القطبية الجنوبية: الجليد والمحيط الجنوبي والحياة البرية والبحث العلمي ونظام المعاهدة الدولية.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والمساحة",
+      "order": 1,
+      "points": [
+        "أنتاركتيكا قارة صخرية تحيط بها مياه المحيط الجنوبي.",
+        "يختلف القطب الجنوبي عن الشمالي؛ فالأول يابسة محاطة بمحيط والثاني محيط متجمد.",
+        "تشمل مساحة أنتاركتيكا قرابة 13.94 مليون كيلومتر مربع مع جزرها وجروفها الجليدية.",
+        "أما اليابسة القارية دون الجزر والجروف فتمتد على نحو 12.16 مليون كيلومتر مربع.",
+        "تبلغ المناطق المكشوفة من الجليد نحو 45,616 كيلومترًا مربعًا وفق بيانات 2026.",
+        "تقع نقطة القطب الجنوبي على هضبة مرتفعة نحو 2800 متر.",
+        "تبعد نقطة القطب الجنوبي نحو 1235 كيلومترًا عن أقرب ساحل."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3",
+        "location-4",
+        "location-5",
+        "location-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "rocky continent capped by an ice sheet",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "Arctic is an ocean covered by thick sea-ice",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "13,942,065km2",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "12,162,579km2",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "45,616km2",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "2800m above sea level",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "1235km from the closest coastline",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "ice",
+      "title": "الصفائح الجليدية",
+      "order": 2,
+      "points": [
+        "تمتلك أنتاركتيكا أكبر كتلة جليدية منفردة على الأرض.",
+        "يبلغ متوسط سمك الغطاء الجليدي نحو كيلومترين.",
+        "قد يصل سمك الجليد في مواضع من القارة إلى 4.8 كيلومتر.",
+        "تختزن الصفيحة الجليدية نحو 60% من مياه العالم العذبة.",
+        "ينشأ الجليد القاري من تراكم الثلوج وانضغاطها عبر آلاف السنين.",
+        "تحفظ فقاعات الهواء داخل الجليد معلومات عن الغلاف الجوي القديم.",
+        "تتيح عينات الجليد دراسة المناخ قبل أكثر من مئة ألف سنة.",
+        "يُعد نهر ثويتس من الأنهار الجليدية سريعة الحركة.",
+        "تكوّن الأنهار الجليدية جروفًا عائمة عند امتدادها فوق البحر.",
+        "تنفصل الجبال الجليدية طبيعيًا عن أطراف الجروف الجليدية.",
+        "تبلغ مساحة جرف روس الجليدي نحو 505,547 كيلومترًا مربعًا.",
+        "تبلغ مساحة جرف رون–فيلشنر الجليدي نحو 450,634 كيلومترًا مربعًا."
+      ],
+      "pointIds": [
+        "ice-0",
+        "ice-1",
+        "ice-2",
+        "ice-3",
+        "ice-4",
+        "ice-5",
+        "ice-6",
+        "ice-7",
+        "ice-8",
+        "ice-9",
+        "ice-10",
+        "ice-11"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "largest single mass of ice on Earth",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "on average 2km thick",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "up to 4.8km thick",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "contains 60% of the world’s fresh water",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "accumulation and compression of snow and frost over thousands of years",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "traps air bubbles",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "over 100,000 years ago",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Rapidly moving ice streams, such as Thwaites Glacier",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "extend out over the sea as massive ice shelves",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "break off as icebergs",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "505,547km2",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "450,634km2",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "landforms",
+      "title": "الجبال والتضاريس",
+      "order": 3,
+      "points": [
+        "تفصل جبال ترانس أنتاركتيكا بين شرقي القارة وغربها.",
+        "يبلغ طول جبال ترانس أنتاركتيكا نحو 3300 كيلومتر.",
+        "تُعد قمة فينسون أعلى قمة في أنتاركتيكا بارتفاع يقارب 4892 مترًا.",
+        "تصل قمة تايري في جبال إلسورث إلى نحو 4852 مترًا.",
+        "يبلغ ارتفاع جبل شين نحو 4661 مترًا.",
+        "يبلغ ارتفاع جبل كيركباتريك نحو 4528 مترًا.",
+        "تُسمى القمم الصخرية البارزة فوق الجليد بالنوناتاك.",
+        "تضم القارة أودية جافة تكشف صخورًا وحفريات قديمة.",
+        "توجد براكين نشطة رغم المناخ القطبي القاسي.",
+        "تقع مساحات واسعة من القاعدة الصخرية لغرب أنتاركتيكا دون مستوى سطح البحر."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8",
+        "landforms-9"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "dividing the two major regions of East and West Antarctica",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "3,300km",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "Mount Vinson (Ellsworth Mts.) 4,892m",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "Mount Tyree (Ellsworth Mts.) 4,852m",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "Mount Shinn (Ellsworth Mts.) 4,661m",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf",
+          "sourceEvidence": "Mount Kirkpatrick (Queen Alexandra Range) 4,528m",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "nunataks (rocky outcrops emerging from ice)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "ice-free dry valleys with ancient rocks and fossils",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "and active volcanoes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "much of the underlying bedrock is below sea level",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "title": "المناخ والطقس",
+      "order": 4,
+      "points": [
+        "أنتاركتيكا أبرد القارات وأشدها رياحًا وأكثرها جفافًا.",
+        "تُصنف القارة صحراء قطبية بسبب انخفاض الهطول.",
+        "يعادل الهطول السنوي نحو 150 مليمترًا من المطر.",
+        "سُجلت أدنى حرارة أرضية في محطة فوستوك بنحو 89.2 درجة تحت الصفر.",
+        "تقترب حرارة السواحل في الصيف من درجة التجمد.",
+        "يتراوح متوسط حرارة الشتاء الساحلي بين 10 و30 درجة تحت الصفر.",
+        "نادرًا ما تتجاوز حرارة الداخل صيفًا 20 درجة تحت الصفر.",
+        "قد تنخفض حرارة داخل القارة شتاءً عن 60 درجة تحت الصفر."
+      ],
+      "pointIds": [
+        "climate-0",
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4",
+        "climate-5",
+        "climate-6",
+        "climate-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "coldest, highest, driest and windiest continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "Antarctica is a desert",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "150mm of annual rain",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "-89.2°C at Vostok station",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Coastal summer: Near freezing",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Coastal winter: -10°C to -30°C monthly averages",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Interior summer: Rarely exceeds -20°C",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Interior winter: Below -60°C",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "المحيط الجنوبي",
+      "order": 5,
+      "points": [
+        "المحيط الجنوبي نطاق بحري متصل يحيط بالقارة.",
+        "يتجمد أكثر من نصف المحيط الجنوبي شتاءً.",
+        "يذوب معظم الجليد البحري الموسمي في الصيف.",
+        "يؤثر الجليد البحري في دوران الغلاف الجوي والمحيطات.",
+        "يساعد التيار القطبي الجنوبي المحيط على عزل القارة عن المياه الدافئة.",
+        "ينقل المحيط الجنوبي المغذيات والكربون بين محيطات العالم.",
+        "تؤثر المياه القاعية الباردة والكثيفة المتكوّنة قرب القارة في دوران المحيط العالمي."
+      ],
+      "pointIds": [
+        "ocean-0",
+        "ocean-1",
+        "ocean-2",
+        "ocean-3",
+        "ocean-4",
+        "ocean-5",
+        "ocean-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "continuous belt of sea surrounding Antarctica",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "In winter, over half of the Southern Ocean freezes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "Nearly all the sea-ice melts in summer",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "significant effect on ocean and atmospheric circulation",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Antarctic Circumpolar Current",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "links all of the world’s oceans together, transporting nutrients and carbon",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Antarctic Bottom Water, a cold, dense water mass",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "wildlife",
+      "title": "الحياة البرية والنباتات",
+      "order": 6,
+      "points": [
+        "تعيش الحيتان في المياه الباردة حول أنتاركتيكا.",
+        "تستخدم الفقمات الكتل الجليدية البحرية للراحة.",
+        "تنتشر طيور بحرية متنوعة فوق مياه المحيط الجنوبي.",
+        "تُعد طيور البطريق من أشهر الحيوانات المقيمة في القارة.",
+        "تغطس طيور البطريق في المياه الباردة بحثًا عن غذائها.",
+        "يشكل الكريل الشبيه بالروبيان ركيزة مهمة للشبكة الغذائية البحرية.",
+        "قد تُرصد أسراب الكريل الهائلة من الفضاء.",
+        "تنمو الأشنات والحزازيات والحشائش الكبدية في مناطق محدودة خالية من الجليد.",
+        "تتحمل النباتات القليلة أشهرًا من الظلام والبرودة الشديدة."
+      ],
+      "pointIds": [
+        "wildlife-0",
+        "wildlife-1",
+        "wildlife-2",
+        "wildlife-3",
+        "wildlife-4",
+        "wildlife-5",
+        "wildlife-6",
+        "wildlife-7",
+        "wildlife-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "Whales cruise through its icy waters",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "seals haul themselves onto ice floes to rest",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "seabirds wheel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "penguins, Antarctica’s most iconic residents",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "plunging in to hunt",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "tiny shrimp-like creatures called krill",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "swarms so vast they can be seen from space",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "mosses, lichens, and liverworts",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "endure months of darkness and sub zero temperatures",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "title": "العلوم والاستكشاف",
+      "order": 7,
+      "points": [
+        "البحث العلمي هو النشاط البشري الأساسي في أنتاركتيكا منذ إبرام المعاهدة.",
+        "ساعدت السنة الجيوفيزيائية الدولية 1957–1958 في تعزيز التعاون العلمي.",
+        "تساعد الصخور وقاع البحر والجليد في إعادة بناء تاريخ مناخ الأرض.",
+        "اكتشف علماء المسح البريطاني ثقب الأوزون فوق أنتاركتيكا سنة 1985.",
+        "ترتبط ظاهرة استنزاف الأوزون بمركبات الكلوروفلوروكربون والهالونات.",
+        "ساهم اكتشاف ثقب الأوزون في إقرار بروتوكول مونتريال عام 1987.",
+        "تتبادل الدول الأطراف الملاحظات والنتائج العلمية وفق أحكام المعاهدة."
+      ],
+      "pointIds": [
+        "science-0",
+        "science-1",
+        "science-2",
+        "science-3",
+        "science-4",
+        "science-5",
+        "science-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/science.html",
+          "sourceEvidence": "scientific research has been the main activity",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/science.html",
+          "sourceEvidence": "International Geophysical Year (IGY, 1957-58)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "evidence from Antarctica’s bedrock, sea floor and ice",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "discovered the Antarctic ozone hole",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "caused by CFCs (chlorofluorocarbons) and halons",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+          "sourceEvidence": "led to the 1987 Montreal Protocol",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/science.html",
+          "sourceEvidence": "scientific observations and results ... exchanged and made freely available",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "treaty",
+      "title": "المعاهدة وحماية البيئة",
+      "order": 8,
+      "points": [
+        "تعود معاهدة أنتاركتيكا إلى عام 1959.",
+        "تُخصص المعاهدة القارة للأغراض السلمية.",
+        "تكفل المعاهدة حرية البحث العلمي والتعاون بين الدول.",
+        "وُقع بروتوكول مدريد لحماية البيئة في 4 أكتوبر 1991.",
+        "دخل بروتوكول الحماية البيئية حيز النفاذ سنة 1998.",
+        "يصف البروتوكول أنتاركتيكا بمحمية طبيعية مخصصة للسلام والعلم.",
+        "يحظر البروتوكول استغلال الموارد المعدنية إلا للأبحاث العلمية.",
+        "لا تنتهي المعاهدة أو بروتوكولها البيئي تلقائيًا عام 2048."
+      ],
+      "pointIds": [
+        "treaty-0",
+        "treaty-1",
+        "treaty-2",
+        "treaty-3",
+        "treaty-4",
+        "treaty-5",
+        "treaty-6",
+        "treaty-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "Antarctic Treaty System, dating back to 1959",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/topics.html",
+          "sourceEvidence": "Antarctica shall be used for peaceful purposes only",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/topics.html",
+          "sourceEvidence": "Freedom of scientific investigation in Antarctica",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/protocol.html",
+          "sourceEvidence": "signed in Madrid on October 4, 1991",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/protocol.html",
+          "sourceEvidence": "entered into force in 1998",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/protocol.html",
+          "sourceEvidence": "natural reserve, devoted to peace and science",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/protocol.html",
+          "sourceEvidence": "prohibits all activities relating to Antarctic mineral resources, except for scientific research",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/protocol.html",
+          "sourceEvidence": "Neither the Protocol, nor the Antarctic Treaty, have a termination date",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "visitors",
+      "title": "الباحثون والزوار",
+      "order": 9,
+      "points": [
+        "لا توجد جماعات بشرية أصلية دائمة في أنتاركتيكا.",
+        "تقيم فرق البحث في المحطات العلمية خلال مواسم العمل.",
+        "يقل عدد العاملين المقيمين شتاءً مقارنة بالصيف.",
+        "تنظم ترتيبات المعاهدة السياحة والأنشطة غير الحكومية.",
+        "تشارك الرابطة الدولية لمنظمي الرحلات إلى أنتاركتيكا في النقاشات المتخصصة.",
+        "تهدف إرشادات الزوار إلى حماية البيئة والقيم العلمية والجمالية.",
+        "تشترط ترتيبات المعاهدة تقديم تقارير بعد الزيارات المنظمة."
+      ],
+      "pointIds": [
+        "visitors-0",
+        "visitors-1",
+        "visitors-2",
+        "visitors-3",
+        "visitors-4",
+        "visitors-5",
+        "visitors-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "no native population of humans",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "scientists ... live in Antarctica during the summer",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/",
+          "sourceEvidence": "Only about 1000 scientists stay for winter",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/tourism.html",
+          "sourceEvidence": "regulations and guidelines for tourists and expedition organizers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/tourism.html",
+          "sourceEvidence": "International Association of Antarctica Tour Operators (IAATO)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/tourism.html",
+          "sourceEvidence": "do not adversely impact the Antarctic environment or its scientific and aesthetic values",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://www.ats.aq/e/tourism.html",
+          "sourceEvidence": "submission of post-visit reports",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    }
+  ],
+  "publicationPolicy": {
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "sources": [
+    {
+      "name": "British Antarctic Survey — Antarctica",
+      "url": "https://www.bas.ac.uk/about/where-we-work/antarctica/"
+    },
+    {
+      "name": "British Antarctic Survey — Antarctic factsheet",
+      "url": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/"
+    },
+    {
+      "name": "British Antarctic Survey — 2026 Geographical Statistics",
+      "url": "https://www.bas.ac.uk/wp-content/uploads/2026/05/Antarctic-factsheet_A4_Feb26-1.pdf"
+    },
+    {
+      "name": "Antarctic Treaty — Topics",
+      "url": "https://www.ats.aq/e/topics.html"
+    },
+    {
+      "name": "Antarctic Treaty — Environmental Protocol",
+      "url": "https://www.ats.aq/e/protocol.html"
+    },
+    {
+      "name": "Antarctic Treaty — Science",
+      "url": "https://www.ats.aq/e/science.html"
+    },
+    {
+      "name": "Antarctic Treaty — Tourism",
+      "url": "https://www.ats.aq/e/tourism.html"
+    }
+  ],
+  "lastReviewed": "2026-11-16",
+  "editorialAudit": {
+    "date": "2026-11-16",
+    "verifiedAgainstOriginalSource": [
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "location-4",
+      "location-5",
+      "location-6",
+      "ice-0",
+      "ice-1",
+      "ice-2",
+      "ice-3",
+      "ice-4",
+      "ice-5",
+      "ice-6",
+      "ice-7",
+      "ice-8",
+      "ice-9",
+      "ice-10",
+      "ice-11",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "landforms-6",
+      "landforms-7",
+      "landforms-8",
+      "landforms-9",
+      "climate-0",
+      "climate-1",
+      "climate-2",
+      "climate-3",
+      "climate-4",
+      "climate-5",
+      "climate-6",
+      "climate-7",
+      "ocean-0",
+      "ocean-1",
+      "ocean-2",
+      "ocean-3",
+      "ocean-4",
+      "ocean-5",
+      "ocean-6",
+      "wildlife-0",
+      "wildlife-1",
+      "wildlife-2",
+      "wildlife-3",
+      "wildlife-4",
+      "wildlife-5",
+      "wildlife-6",
+      "wildlife-7",
+      "wildlife-8",
+      "science-0",
+      "science-1",
+      "science-2",
+      "science-3",
+      "science-4",
+      "science-5",
+      "science-6",
+      "treaty-0",
+      "treaty-1",
+      "treaty-2",
+      "treaty-3",
+      "treaty-4",
+      "treaty-5",
+      "treaty-6",
+      "treaty-7",
+      "visitors-0",
+      "visitors-1",
+      "visitors-2",
+      "visitors-3",
+      "visitors-4",
+      "visitors-5",
+      "visitors-6"
+    ],
+    "verifiedSections": [
+      "location",
+      "ice",
+      "landforms",
+      "climate",
+      "ocean",
+      "wildlife",
+      "science",
+      "treaty",
+      "visitors"
+    ]
+  }
+}
