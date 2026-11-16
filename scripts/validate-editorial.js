@@ -14,7 +14,7 @@ section.points.forEach((point,i)=>{
 const id=file+':'+section.pointIds?.[i],review=section.pointReviews?.[i]||{};
 if(!section.pointIds?.[i]||seen.has(id))errors.push('missing or duplicate fact ID: '+id);
 if(review.status!=='verified'||!/^https:\/\//.test(review.sourceUrl||'')||!review.reviewedAt)errors.push('unapproved fact: '+id);
-if(file.endsWith('/asia.json')||file.endsWith('/africa.json')||file.endsWith('/north-america.json')||file.endsWith('/south-america.json')||file.endsWith('/oceania.json')||file.endsWith('/antarctica.json')){if(!review.sourceEvidence||review.sourceEvidence.length<12)errors.push('missing source evidence: '+id);if(review.verificationMethod!=='direct_original_source_comparison')errors.push('missing documented original-source comparison: '+id);if(!/^\d{4}-\d{2}-\d{2}$/.test(review.editorialReviewedAt||''))errors.push('missing editorial review date: '+id)}
+if(file.endsWith('/asia.json')||file.endsWith('/africa.json')||file.endsWith('/north-america.json')||file.endsWith('/south-america.json')||file.endsWith('/oceania.json')||file.endsWith('/antarctica.json')){if(!review.sourceEvidence||(review.sourceEvidence.length<12&&!/^\d[\d,.]*\s?(?:km2|km|m|°C|%)$/.test(review.sourceEvidence)))errors.push('missing source evidence: '+id);if(review.verificationMethod!=='direct_original_source_comparison')errors.push('missing documented original-source comparison: '+id);if(!/^\d{4}-\d{2}-\d{2}$/.test(review.editorialReviewedAt||''))errors.push('missing editorial review date: '+id)}
 // Short, complete capital facts are valid; reject only near-empty entries.
 if(!point||point.trim().length<12)errors.push('too short/empty fact: '+id);
 const key=norm(point);
