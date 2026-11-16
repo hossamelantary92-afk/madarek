@@ -1,0 +1,1249 @@
+{
+  "id": "oceania",
+  "title": "أستراليا وأوقيانوسيا",
+  "status": "verified_source_based_release",
+  "intro": "رحلة عبر أستراليا ونيوزيلندا وجزر المحيط الهادئ، من الصحاري والجبال إلى الشعاب المرجانية والثقافات البحرية.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والأقاليم",
+      "order": 1,
+      "points": [
+        "تضم أوقيانوسيا آلاف الجزر في وسط المحيط الهادئ وجنوبه.",
+        "أستراليا أصغر القارات اليابسة من حيث المساحة.",
+        "المحيط الهادئ هو العنصر الجغرافي الأبرز في أوقيانوسيا.",
+        "تشمل أوقيانوسيا أستراليا ونيوزيلندا وبابوا غينيا الجديدة ومجموعات جزر المحيط الهادئ.",
+        "تُقسم جزر أوقيانوسيا إقليميًا إلى ميلانيزيا وميكرونيزيا وبولينيزيا.",
+        "تضم ميلانيزيا فيجي وفانواتو وجزر سليمان وبابوا غينيا الجديدة.",
+        "تضم ميكرونيزيا بالاو وناورو وجزر مارشال وولايات ميكرونيزيا المتحدة.",
+        "تضم بولينيزيا ساموا وتونغا وتوفالو."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3",
+        "location-4",
+        "location-5",
+        "location-6",
+        "location-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "thousands of islands throughout the Central and South Pacific",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Australia, the smallest continent in terms of total land area",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Pacific Ocean as the defining characteristic",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Australia ... New Zealand ... Papua New Guinea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Melanesia, Micronesia, and Polynesia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Papua New Guinea, Fiji, Vanuatu, the Solomon Islands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Marshall Islands, Federated States of Micronesia, Palau, Kiribati and Nauru",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Samoa, Tonga and Tuvalu",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "islands",
+      "title": "أنواع الجزر",
+      "order": 2,
+      "points": [
+        "تُصنف جزر أوقيانوسيا إلى جزر قارية وجزر بركانية مرتفعة وجزر مرجانية منخفضة.",
+        "كانت الجزر القارية متصلة بكتل قارية قبل تغير مستويات البحار وحركة الصفائح.",
+        "تُعد أستراليا وزيلانديا وغينيا الجديدة كتلًا جزرية قارية.",
+        "تتكون الجزر البركانية المرتفعة من تراكم الحمم البركانية المتصلبة عبر الزمن.",
+        "تتميز بعض الجزر البركانية بقمة مركزية شديدة الانحدار ووديان تتجه نحو الساحل.",
+        "تتكون الجزر المرجانية المنخفضة من هياكل المرجان والكائنات المرجانية الحية.",
+        "قد تتخذ الجزر المرجانية شكل حلقة تحيط ببحيرة ساحلية داخلية تُسمى أتولًا.",
+        "يضم أتول كواجالين في جزر مارشال عشرات الجزر الصغيرة.",
+        "تتوزع جزر كيريباتي على مساحة بحرية شاسعة رغم صغر مساحة اليابسة."
+      ],
+      "pointIds": [
+        "islands-0",
+        "islands-1",
+        "islands-2",
+        "islands-3",
+        "islands-4",
+        "islands-5",
+        "islands-6",
+        "islands-7",
+        "islands-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "continental islands, high islands, and low islands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "once attached to continents before sea-level changes and tectonic activity",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Australia, Zealandia, and New Guinea are continental islands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "created as volcanic eruptions build up land over time",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "steep central peak ... Ridges and valleys radiate outward",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "skeletons and living bodies of small marine animals called corals",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "irregular ring ... called an atoll, surrounding a lagoon",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Kwajalein Atoll ... composed of 97 islands and islets",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Kiribati ... dispersed over 3.5 million square kilometers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "landforms",
+      "title": "الجبال والبراكين",
+      "order": 3,
+      "points": [
+        "تمتد سلسلة الحاجز العظيم الجبلية عبر شرق أستراليا.",
+        "توجد جبال الألب الجنوبية في الجزيرة الجنوبية من نيوزيلندا.",
+        "تضم الجزيرة الشمالية من نيوزيلندا هضبة بركانية.",
+        "تتميز بابوا غينيا الجديدة بمرتفعات جبلية واسعة.",
+        "تضم نيوزيلندا وبابوا غينيا الجديدة تضاريس بركانية نشأت بفعل حركة الصفائح.",
+        "تقع جزر ميلانيزيا البركانية قرب جزء من حزام النار المحيط بالهادئ.",
+        "يُعد جبل ياسور في فانواتو من الجبال البركانية البارزة في ميلانيزيا.",
+        "يقع جبل لامينغتون البركاني في بابوا غينيا الجديدة.",
+        "يقع جبل تومانيفي في فيجي."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Great Dividing Range in Australia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Southern Alps in New Zealand",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "North Island Volcanic Plateau",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "New Guinea Highlands in Papua New Guinea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "New Zealand and Papua New Guinea also have volcanic features",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Melanesia ... major part of the Ring of Fire",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Mount Yasur, Vanuatu",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Mount Lamington, Papua New Guinea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Mount Tomanivi, Fiji",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "deserts",
+      "title": "الصحاري والمناخ",
+      "order": 4,
+      "points": [
+        "تهيمن المناطق الصحراوية وشبه الجافة على أجزاء واسعة من داخل أستراليا.",
+        "يسهم مرور مدار الجدي عبر أستراليا في جفاف أجزاء من داخلها.",
+        "تسهم السهول الداخلية الواسعة والرياح الجافة في تكوين بيئات الأوتباك.",
+        "تتمتع سواحل أستراليا الشمالية بمناخ مداري.",
+        "يسود مناخ متوسطي في مناطق من جنوب أستراليا.",
+        "تتمتع نيوزيلندا بمناخ ألطف من مناطق واسعة من أستراليا بسبب تأثير المحيط.",
+        "يسود مناخ مداري رطب في معظم بابوا غينيا الجديدة.",
+        "يسود المناخ المداري في كثير من الجزر المرتفعة والمنخفضة بأوقيانوسيا.",
+        "تؤثر مساحة الجزيرة وموقعها والرياح المحيطة بها في مناخها."
+      ],
+      "pointIds": [
+        "deserts-0",
+        "deserts-1",
+        "deserts-2",
+        "deserts-3",
+        "deserts-4",
+        "deserts-5",
+        "deserts-6",
+        "deserts-7",
+        "deserts-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Outback, a region of deserts and semi-arid land",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "location along the dry Tropic of Capricorn",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "large inland plains ... cool, dry, southerly winds",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Australia’s northern coast is tropical",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "southern region has a Mediterranean climate",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "milder climate than Australia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Almost all of the country has a tropical wet climate",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Most high and low islands have tropical climates",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "land area, latitude, relation to different winds",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "rivers",
+      "title": "المياه والأنهار الجليدية",
+      "order": 5,
+      "points": [
+        "يُعد نظام موراي–دارلينغ من أهم الأحواض النهرية في أستراليا.",
+        "تضم نيوزيلندا أنهارًا جليدية تكونت في المرتفعات المعرضة لرياح باردة رطبة.",
+        "تساعد الأمطار المدارية على نمو الغابات المطيرة في مرتفعات بابوا غينيا الجديدة.",
+        "تحتوي حلقات الأتولات المرجانية على بحيرات داخلية متصلة بالبيئة البحرية.",
+        "تُعد بحيرة أتول كواجالين من البحيرات الساحلية المرجانية الكبيرة.",
+        "تسهم المياه الباردة الغنية بالمغذيات حول نيوزيلندا وجنوب أستراليا في دعم الحياة البحرية."
+      ],
+      "pointIds": [
+        "rivers-0",
+        "rivers-1",
+        "rivers-2",
+        "rivers-3",
+        "rivers-4",
+        "rivers-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Murray-Darling river system",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "New Zealand’s glaciers ... high elevations and proximity to cool, moisture-bearing winds",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Papua New Guinea’s highland rainforests",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "atoll, surrounding a lagoon",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "one of the largest lagoons in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "cold, nutrient-rich waters support a diversity of plants and fish",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "marine",
+      "title": "المحيطات والشعاب المرجانية",
+      "order": 6,
+      "points": [
+        "تقع منطقة الحاجز المرجاني العظيم قبالة الساحل الشمالي الشرقي لأستراليا.",
+        "تبلغ مساحة الحاجز المرجاني العظيم نحو 344 ألف كيلومتر مربع وفق ناشيونال جيوغرافيك.",
+        "يُعد حاجز كاليدونيا الجديدة المرجاني من أكبر التكوينات المرجانية في العالم.",
+        "تُعد مياه المنطقة الهندية الهادئة الوسطى من أغنى مناطق العالم بتنوع المرجان المداري.",
+        "يعيش في الحاجز المرجاني العظيم أكثر من 1500 نوع من الأسماك بحسب المرجع.",
+        "توجد ستة أنواع من السلاحف البحرية في الحاجز المرجاني العظيم بحسب المرجع.",
+        "تدعم مياه أوقيانوسيا المعتدلة طيور القطرس والنوء والطيور البحرية الأخرى.",
+        "تضم المنطقة الهندية الهادئة الشرقية جزر مارشال وأجزاء من بولينيزيا.",
+        "تُعد مصايد التونة مصدرًا مهمًا للغذاء والدخل في كثير من جزر المحيط الهادئ."
+      ],
+      "pointIds": [
+        "marine-0",
+        "marine-1",
+        "marine-2",
+        "marine-3",
+        "marine-4",
+        "marine-5",
+        "marine-6",
+        "marine-7",
+        "marine-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Great Barrier Reef ... off the coast of northeast Australia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "344,400 square kilometers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "New Caledonia Barrier Reef",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "greatest diversity of tropical coral in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "more than 1,500 species of fish",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "six species of sea turtles",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "albatross, petrel, and shearwater",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Marshall Islands through central and southeastern Polynesia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Pacific Island countries catch ... tuna",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "النباتات والحيوانات",
+      "order": 7,
+      "points": [
+        "تتميز أوقيانوسيا بنسبة مرتفعة من الأنواع المتوطنة التي لا تعيش طبيعيًا في مناطق أخرى.",
+        "تنتشر أشجار جوز الهند والمانغروف في مناطق كثيرة من أوقيانوسيا.",
+        "تساعد التيارات البحرية على نقل بذور بعض النباتات بين الجزر.",
+        "تنتقل بذور نباتات أخرى بين الجزر بواسطة الطيور.",
+        "يعيش طائر الكيوي غير القادر على الطيران في نيوزيلندا.",
+        "يعيش طائر الإيمو غير القادر على الطيران في أستراليا.",
+        "تعيش طيور الشبنم في مناطق من غينيا الجديدة وأستراليا.",
+        "توجد أنواع عديدة من طيور الجنة في جزر المحيط الهادئ.",
+        "تُعد خفافيش الفاكهة من الثدييات الموجودة في أوقيانوسيا.",
+        "يعيش خلد الماء وآكل النمل الشوكي في أستراليا وغينيا الجديدة.",
+        "تُعد الثدييات الأولية التي تبيض بدلًا من الولادة من الخصائص الحيوانية المميزة للمنطقة.",
+        "الكنغر والكوالا والولب من الثدييات الجرابية الأصلية في أوقيانوسيا.",
+        "الكنغر الأحمر أكبر الجرابيات الحية في العالم."
+      ],
+      "pointIds": [
+        "nature-0",
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4",
+        "nature-5",
+        "nature-6",
+        "nature-7",
+        "nature-8",
+        "nature-9",
+        "nature-10",
+        "nature-11",
+        "nature-12"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "high number of endemic species",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Coconut palms ... and mangroves",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Plants traveled between islands by riding wind or ocean currents",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "Birds carried the seeds of fruits and plants",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "kiwis ... native to ... New Zealand",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "emus ... native to Australia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "cassowaries ... Australia, Papua New Guinea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "more than 25 species of birds of paradise",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "more than a hundred different species of fruit bats",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "platypus ... echidna",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "monotremes—mammals that lay eggs",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "koala ... kangaroo, and wallaby",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-physical-geography/",
+          "sourceEvidence": "red kangaroo ... world’s largest marsupial",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "السكان والملاحة والثقافات",
+      "order": 8,
+      "points": [
+        "طورت شعوب بولينيزيا تقاليد ملاحية بحرية متقدمة لعبور المحيط الهادئ.",
+        "اعتمد ملاحو بولينيزيا على النجوم والأمواج وأنماط طيران الطيور.",
+        "استخدم البحارة البولينيزيون قوارب مزدوجة البدن للرحلات الطويلة.",
+        "انتقلت جماعات بحرية قديمة شرقًا من منطقة غينيا الجديدة إلى جزر المحيط الهادئ.",
+        "ساعد نقل النباتات والحيوانات المستأنسة على استقرار المجتمعات في الجزر النائية.",
+        "ارتبطت تقاليد الشعوب الأصلية في أستراليا بعلاقة روحية عميقة بالبيئة الطبيعية.",
+        "تضم بابوا غينيا الجديدة مئات المجموعات الأصلية واللغات المحلية.",
+        "يعترف النظام القانوني في بابوا غينيا الجديدة بحقوق ملكية عرفية للأراضي القبلية.",
+        "تُعد رياضة الرجبي من الرياضات الشعبية المهمة في أوقيانوسيا.",
+        "تجمع مهرجانات فنون المحيط الهادئ جماعات ثقافية من بلدان وجزر مختلفة.",
+        "أثرت السيطرة الاستعمارية الأوروبية في الحدود والمؤسسات واللغات بالمنطقة.",
+        "تركت الحرب العالمية الثانية آثارًا عميقة في تاريخ جزر المحيط الهادئ."
+      ],
+      "pointIds": [
+        "people-0",
+        "people-1",
+        "people-2",
+        "people-3",
+        "people-4",
+        "people-5",
+        "people-6",
+        "people-7",
+        "people-8",
+        "people-9",
+        "people-10",
+        "people-11"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "sophisticated navigation system",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "stars, ocean swells and the flight patterns of birds",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "large, double-hulled vessels",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "sailors began moving east from the island of New Guinea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "domesticate plants and animals and transport them",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "strong spiritual relationships with the local environment",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "more than 700 Indigenous groups and 850 Indigenous languages",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "customary land title",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Rugby is a very popular sport throughout the continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Festival of Pacific Arts",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "European colonization ... political geography",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "Pacific theater was the major battle zone",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "الموارد والاقتصاد",
+      "order": 9,
+      "points": [
+        "تُزرع الحبوب والبقول والبذور الزيتية في مناطق من جنوب أستراليا.",
+        "تنتشر تربية الأغنام في مراعي أستراليا المحيطة بمناطقها الجافة.",
+        "تُعد تربية الأغنام نشاطًا زراعيًا مهمًا في نيوزيلندا.",
+        "تُزرع القهوة والكاكاو وجوز الهند والبطاطا الحلوة في بابوا غينيا الجديدة.",
+        "تشمل المحاصيل التقليدية في جزر المحيط الهادئ الموز وجوز الهند والكافا وقصب السكر.",
+        "تُعد صناعة الغابات من الأنشطة الاقتصادية المهمة في أستراليا ونيوزيلندا وغينيا الجديدة.",
+        "تُعد مصايد الأسماك نشاطًا اقتصاديًا مهمًا في أوقيانوسيا.",
+        "تُنتج أستراليا معادن مثل خام الحديد والذهب والنيكل والزنك.",
+        "يُعد النحاس والذهب من الموارد المعدنية المهمة في بابوا غينيا الجديدة.",
+        "تُعد السياحة قطاعًا اقتصاديًا مهمًا في جزر المحيط الهادئ."
+      ],
+      "pointIds": [
+        "economy-0",
+        "economy-1",
+        "economy-2",
+        "economy-3",
+        "economy-4",
+        "economy-5",
+        "economy-6",
+        "economy-7",
+        "economy-8",
+        "economy-9"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Wheat and other cereals, oilseeds, and legumes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sheep ranching is common in grassland areas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sheep ... most importantly",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "sweet potatoes, sugar cane, copra ... coffee, cocoa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "banana, coconut, kava ... and sugar cane",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Forestry ... important economic activity",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "commercial fishing industry is an important contributor",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "iron ore, nickel, gold ... and zinc",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "main exports are copper, gold",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-human-geography/",
+          "sourceEvidence": "tourism industry ... Pacific Islands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    },
+    {
+      "id": "cities",
+      "title": "المدن والمعالم",
+      "order": 10,
+      "points": [
+        "تُعد سيدني من أهم المراكز الاقتصادية والثقافية في أستراليا.",
+        "يقع مبنى أوبرا سيدني على ميناء سيدني ويتميز بأسقفه البيضاء الشبيهة بالأشرعة.",
+        "أُدرج مبنى أوبرا سيدني على قائمة التراث العالمي لليونسكو عام 2007.",
+        "تُعد بورت مورسبي من أبرز المراكز الحضرية في بابوا غينيا الجديدة.",
+        "تُعد سوفا من أبرز المراكز الحضرية في جزر فيجي.",
+        "تُظهر مدن سيدني وبورت مورسبي وسوفا تنوع أنماط العمران في أوقيانوسيا."
+      ],
+      "pointIds": [
+        "cities-0",
+        "cities-1",
+        "cities-2",
+        "cities-3",
+        "cities-4",
+        "cities-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sydney ... international center of culture, arts",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sydney Opera House ... large, white triangular shells",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "UNESCO World Heritage Site in 2007",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sydney, Port Moresby, and Suva",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "Sydney, Port Moresby, and Suva",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/oceania-resources/",
+          "sourceEvidence": "illustrate the diversity of the built environment",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ]
+    }
+  ],
+  "publicationPolicy": {
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "sources": [
+    {
+      "name": "National Geographic — Australia and Oceania Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/oceania-physical-geography/"
+    },
+    {
+      "name": "National Geographic — Australia and Oceania Human Geography",
+      "url": "https://education.nationalgeographic.org/resource/oceania-human-geography/"
+    },
+    {
+      "name": "National Geographic — Australia and Oceania Resources",
+      "url": "https://education.nationalgeographic.org/resource/oceania-resources/"
+    }
+  ],
+  "lastReviewed": "2026-11-16",
+  "editorialAudit": {
+    "date": "2026-11-16",
+    "verifiedAgainstOriginalSource": [
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "location-4",
+      "location-5",
+      "location-6",
+      "location-7",
+      "islands-0",
+      "islands-1",
+      "islands-2",
+      "islands-3",
+      "islands-4",
+      "islands-5",
+      "islands-6",
+      "islands-7",
+      "islands-8",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "landforms-6",
+      "landforms-7",
+      "landforms-8",
+      "deserts-0",
+      "deserts-1",
+      "deserts-2",
+      "deserts-3",
+      "deserts-4",
+      "deserts-5",
+      "deserts-6",
+      "deserts-7",
+      "deserts-8",
+      "rivers-0",
+      "rivers-1",
+      "rivers-2",
+      "rivers-3",
+      "rivers-4",
+      "rivers-5",
+      "marine-0",
+      "marine-1",
+      "marine-2",
+      "marine-3",
+      "marine-4",
+      "marine-5",
+      "marine-6",
+      "marine-7",
+      "marine-8",
+      "nature-0",
+      "nature-1",
+      "nature-2",
+      "nature-3",
+      "nature-4",
+      "nature-5",
+      "nature-6",
+      "nature-7",
+      "nature-8",
+      "nature-9",
+      "nature-10",
+      "nature-11",
+      "nature-12",
+      "people-0",
+      "people-1",
+      "people-2",
+      "people-3",
+      "people-4",
+      "people-5",
+      "people-6",
+      "people-7",
+      "people-8",
+      "people-9",
+      "people-10",
+      "people-11",
+      "economy-0",
+      "economy-1",
+      "economy-2",
+      "economy-3",
+      "economy-4",
+      "economy-5",
+      "economy-6",
+      "economy-7",
+      "economy-8",
+      "economy-9",
+      "cities-0",
+      "cities-1",
+      "cities-2",
+      "cities-3",
+      "cities-4",
+      "cities-5"
+    ],
+    "verifiedSections": [
+      "location",
+      "islands",
+      "landforms",
+      "deserts",
+      "rivers",
+      "marine",
+      "nature",
+      "people",
+      "economy",
+      "cities"
+    ]
+  }
+}
