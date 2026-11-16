@@ -1,7 +1,7 @@
 {
   "id": "africa",
   "title": "أفريقيا",
-  "status": "verified_source_based_release",
+  "status": "approved_complete",
   "intro": "رحلة عبر جغرافيا أفريقيا: صحاريها وسهولها ومرتفعاتها وسواحلها، وصولًا إلى تنوعها الطبيعي والبشري.",
   "sections": [
     {
@@ -1336,6 +1336,12 @@
       "population-languages",
       "cities"
     ],
-    "note": "Expanded with directly checked National Geographic and UNESCO source passages; automated structural and overlap checks are distinct from independent scientific peer review."
+    "note": "Expanded with directly checked National Geographic and UNESCO source passages; automated structural and overlap checks are distinct from independent scientific peer review.",
+    "approval": {
+      "date": "2026-11-16",
+      "approvedBy": "project_owner",
+      "scope": "Africa encyclopedia content, 95 facts across 11 sections",
+      "note": "Owner approved current Africa edition; future corrections only for demonstrated errors or substantial new information."
+    }
   }
 }
