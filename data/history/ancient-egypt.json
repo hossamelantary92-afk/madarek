@@ -1,0 +1,101 @@
+{
+  "id": "ancient-egypt",
+  "title": "الحضارة المصرية القديمة",
+  "subtitle": "من وادي النيل إلى العصرين البطلمي والروماني",
+  "status": "initial_editorial_release_pending_independent_review",
+  "sections": [
+    {
+      "id": "timeline",
+      "title": "رحلة عبر الحضارة",
+      "points": [
+        {
+          "title": "النشأة ونهر النيل",
+          "text": "ساعدت مياه النيل وفيضانه السنوي على قيام مجتمعات زراعية مستقرة في وادي النيل.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "Nile River"
+        },
+        {
+          "title": "توحيد البلاد",
+          "text": "تُربط بدايات الدولة المصرية الموحدة تقليديًا بالملك نارمر وبداية عصر الأسرات نحو 3100 قبل الميلاد.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "Narmer"
+        },
+        {
+          "title": "الدولة القديمة",
+          "text": "شهدت الدولة القديمة تشييد الأهرامات الكبرى في الجيزة خلال عصر الأسرة الرابعة.",
+          "sourceUrl": "https://whc.unesco.org/en/list/86",
+          "sourceHint": "Pyramids of Giza"
+        },
+        {
+          "title": "الكتابة",
+          "text": "استخدم المصريون القدماء الكتابة الهيروغليفية في النقوش الدينية والملكية، إلى جانب أنظمة كتابة أخرى.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "hieroglyphic writing"
+        },
+        {
+          "title": "المعتقدات",
+          "text": "ارتبطت المعتقدات الجنائزية بفكرة الحياة بعد الموت، وأسهمت في تطور التحنيط وبناء المقابر.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "afterlife"
+        },
+        {
+          "title": "الدولة الوسطى",
+          "text": "شهدت الدولة الوسطى إعادة توحيد السلطة بعد فترة من الانقسام السياسي.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "Middle Kingdom"
+        },
+        {
+          "title": "الدولة الحديثة",
+          "text": "برزت الدولة الحديثة بوصفها عصرًا للقوة السياسية والعسكرية والتوسع خارج وادي النيل.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "New Kingdom"
+        },
+        {
+          "title": "المعابد",
+          "text": "تُعد معابد الكرنك والأقصر من أبرز الآثار الدينية المرتبطة بمدينة طيبة القديمة.",
+          "sourceUrl": "https://whc.unesco.org/en/list/86",
+          "sourceHint": "Karnak and Luxor"
+        },
+        {
+          "title": "العلوم والحياة اليومية",
+          "text": "اعتمدت الزراعة المصرية على تنظيم الري ودورة النيل، وازدهرت حرف مثل صناعة الفخار والنسيج.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "agriculture"
+        },
+        {
+          "title": "نهاية الحكم الفرعوني",
+          "text": "خضعت مصر للحكم المقدوني بعد دخول الإسكندر الأكبر سنة 332 قبل الميلاد.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "Alexander the Great"
+        },
+        {
+          "title": "العصر البطلمي",
+          "text": "حكمت الأسرة البطلمية مصر بعد تفكك إمبراطورية الإسكندر، وكانت الإسكندرية مركزًا ثقافيًا مهمًا.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "Ptolemaic dynasty"
+        },
+        {
+          "title": "مصر الرومانية",
+          "text": "أصبحت مصر ولاية رومانية بعد هزيمة كليوباترا السابعة ومارك أنطونيوس سنة 30 قبل الميلاد.",
+          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
+          "sourceHint": "30 bce"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Encyclopaedia Britannica — Ancient Egypt",
+      "url": "https://www.britannica.com/place/ancient-Egypt"
+    },
+    {
+      "name": "UNESCO — Ancient Thebes with its Necropolis",
+      "url": "https://whc.unesco.org/en/list/86"
+    },
+    {
+      "name": "The Metropolitan Museum of Art — Egypt",
+      "url": "https://www.metmuseum.org/toah/hd/egyp/hd_egyp.htm"
+    }
+  ],
+  "lastUpdated": "2026-11-16"
+}
