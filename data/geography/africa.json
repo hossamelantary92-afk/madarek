@@ -13,13 +13,15 @@
         "أفريقيا ثاني أكبر قارات العالم من حيث المساحة.",
         "يحد أفريقيا البحر المتوسط شمالًا، والبحر الأحمر والمحيط الهندي شرقًا، والمحيط الأطلسي غربًا.",
         "يقسم خط الاستواء أفريقيا إلى جزأين متقاربين في المساحة.",
-        "تتصل أفريقيا بآسيا عبر برزخ السويس في مصر."
+        "تتصل أفريقيا بآسيا عبر برزخ السويس في مصر.",
+        "تضم أفريقيا جزرًا ودولًا جزرية منها مدغشقر وموريشيوس وسيشل وجزر القمر والرأس الأخضر."
       ],
       "pointIds": [
         "location-0",
         "location-1",
         "location-2",
-        "location-3"
+        "location-3",
+        "location-4"
       ],
       "pointReviews": [
         {
@@ -57,6 +59,15 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "islands of Cape Verde, Madagascar, Mauritius, Seychelles and Comoros",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -70,13 +81,19 @@
         "يُميّز المرجع الجغرافي ثمانية أقاليم طبيعية رئيسية في أفريقيا.",
         "من الأقاليم الطبيعية الصحراء الكبرى والساحل الأفريقي والمرتفعات الإثيوبية.",
         "تشمل الأقاليم الطبيعية كذلك السافانا وساحل السواحلي والغابات المطيرة.",
-        "تُعد البحيرات العظمى والجنوب الأفريقي من الأقاليم الطبيعية الرئيسية أيضًا."
+        "تُعد البحيرات العظمى والجنوب الأفريقي من الأقاليم الطبيعية الرئيسية أيضًا.",
+        "تمتد السافانا الأفريقية على مساحات واسعة جنوب الصحراء الكبرى ومنطقة الساحل.",
+        "تضم أفريقيا مناطق غابات مطيرة ذات تنوع كبير من الطيور والفراشات والبرمائيات.",
+        "تضم منطقة البحيرات العظمى أجزاء من عشر دول حول نظام الأخدود الأفريقي."
       ],
       "pointIds": [
         "area-regions-0",
         "area-regions-1",
         "area-regions-2",
-        "area-regions-3"
+        "area-regions-3",
+        "area-regions-4",
+        "area-regions-5",
+        "area-regions-6"
       ],
       "pointReviews": [
         {
@@ -114,6 +131,33 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "beginning south of the Sahara and the Sahel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "rainforests have a rich variety of animal life",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "located in ten countries that surround the Great Rift Valley",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -129,7 +173,10 @@
         "تضم جبال سيمين الإثيوبية موائل صخرية للوعل الواليا وقرد الجيلادا.",
         "تمتد جبال الأطلس من جنوب غرب المغرب نحو شمال شرق تونس.",
         "تقع جبال تيبستي في جنوب ليبيا وشمال تشاد.",
-        "تقع جبال الهقار في جنوب الجزائر."
+        "تقع جبال الهقار في جنوب الجزائر.",
+        "تُعد جبال دراكنزبرغ من أبرز السلاسل الجبلية في الجنوب الأفريقي.",
+        "تقوم أجزاء من جنوب أفريقيا على صخور قديمة جدًا تُعرف بكراتون كابفال.",
+        "تضم تضاريس الجنوب الأفريقي هضابًا وجبالًا إلى جانب السهول."
       ],
       "pointIds": [
         "landforms-0",
@@ -137,7 +184,10 @@
         "landforms-2",
         "landforms-3",
         "landforms-4",
-        "landforms-5"
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8"
       ],
       "pointReviews": [
         {
@@ -193,6 +243,33 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "such as the Drakensberg range",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Kaapvaal craton, a shelf of bedrock",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Rocky features of Southern Africa include plateaus and mountains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -209,7 +286,10 @@
         "تُسمى السهول الحصوية والصخرية في الصحراء «الرقوق» أو Regs.",
         "تُعد الواحات مراكز للمياه والحياة وسط البيئات الصحراوية الجافة.",
         "الساحل الأفريقي نطاق شبه جاف يفصل الصحراء الكبرى شمالًا عن السافانا جنوبًا.",
-        "يمتد حزام الساحل الأفريقي تقريبًا من السنغال غربًا إلى السودان شرقًا."
+        "يمتد حزام الساحل الأفريقي تقريبًا من السنغال غربًا إلى السودان شرقًا.",
+        "تُسمى الهضاب الصخرية المرتفعة في الصحراء الكبرى «الحمادات».",
+        "تُعد صناعة الملح نشاطًا تاريخيًا في بعض مناطق الصحراء الكبرى.",
+        "تساعد الجذور النباتية العميقة بعض نباتات الصحراء على الوصول إلى المياه."
       ],
       "pointIds": [
         "deserts-0",
@@ -218,7 +298,10 @@
         "deserts-3",
         "deserts-4",
         "deserts-5",
-        "deserts-6"
+        "deserts-6",
+        "deserts-7",
+        "deserts-8",
+        "deserts-9"
       ],
       "pointReviews": [
         {
@@ -283,6 +366,33 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Hamadas are elevated plateaus of rock and stone",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "producing salt for thousands of years",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "root systems that plunge deep into the ground",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -296,13 +406,25 @@
         "يجري نهر النيل شمالًا حتى يصب في البحر المتوسط.",
         "ارتبط نهر النيل تاريخيًا بالماء والغذاء والنقل في الحضارة المصرية القديمة.",
         "يُعد نهر النيجر من أطول أنهار أفريقيا، ويمر نطاق دلتا النيجر الداخلية بمنطقة الساحل.",
-        "تُعد البحيرات العظمى الأفريقية إقليمًا طبيعيًا مستقلًا في التصنيف الجغرافي."
+        "تُعد البحيرات العظمى الأفريقية إقليمًا طبيعيًا مستقلًا في التصنيف الجغرافي.",
+        "بحيرة فيكتوريا أكبر بحيرة في أفريقيا، وترتبط بأحد منابع نهر النيل.",
+        "تضم البحيرات العظمى الأفريقية بحيرات ألبرت وإدوارد وكيفو.",
+        "وتضم المجموعة أيضًا بحيرات ملاوي وتنجانيقا وتوركانا وفيكتوريا.",
+        "نشأت بعض البحيرات الأفريقية العميقة حين امتلأت شقوق جيولوجية بالمياه.",
+        "تعيش أفراس النهر والتماسيح في بيئات مائية ضمن منطقة البحيرات العظمى.",
+        "تُستخدم مياه البحيرات العظمى في مشروعات توليد الطاقة الكهرومائية."
       ],
       "pointIds": [
         "rivers-lakes-0",
         "rivers-lakes-1",
         "rivers-lakes-2",
-        "rivers-lakes-3"
+        "rivers-lakes-3",
+        "rivers-lakes-4",
+        "rivers-lakes-5",
+        "rivers-lakes-6",
+        "rivers-lakes-7",
+        "rivers-lakes-8",
+        "rivers-lakes-9"
       ],
       "pointReviews": [
         {
@@ -340,6 +462,60 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Lake Victoria, the largest lake in Africa, is the southern source of the Nile River",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Lake Albert, Lake Edward, Lake Kivu",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Lake Malawi, Lake Tanganyika, Lake Turkana, and Lake Victoria",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "large, deep cracks ... later filled with water",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Hippos and crocodiles also call the region their home",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "build more hydroelectric power plants",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -353,13 +529,19 @@
         "يمتد ساحل السواحلي على أجزاء من سواحل كينيا وتنزانيا وموزمبيق.",
         "تساعد الشعاب المرجانية والجزر الحاجزة قرب ساحل السواحلي على تخفيف أثر العواصف.",
         "من الموانئ المهمة على ساحل السواحلي دار السلام ومومباسا.",
-        "تنتشر غابات المانغروف في أجزاء نباتية من ساحل السواحلي."
+        "تنتشر غابات المانغروف في أجزاء نباتية من ساحل السواحلي.",
+        "يمتد ساحل السواحلي لمسافة تقارب 2900 كيلومتر في شرق أفريقيا.",
+        "تساعد الجذور الهوائية لأشجار المانغروف على التكيف مع التربة الساحلية الفقيرة بالمغذيات.",
+        "اشتهرت جزيرة كيلوا كيسيواني بموقعها على طرق التجارة البحرية في شرق أفريقيا."
       ],
       "pointIds": [
         "seas-oceans-0",
         "seas-oceans-1",
         "seas-oceans-2",
-        "seas-oceans-3"
+        "seas-oceans-3",
+        "seas-oceans-4",
+        "seas-oceans-5",
+        "seas-oceans-6"
       ],
       "pointReviews": [
         {
@@ -397,6 +579,33 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "stretches about 2,900 kilometers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "exposed root systems ... absorb oxygen directly from the air",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "island of Kilwa Kisiwani ... centers for trade and water travel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -412,7 +621,12 @@
         "تعيش الغوريلا والأوكابي وفيلة الغابات الأفريقية في الغابات المطيرة بالقارة.",
         "تساعد جذور أشجار السنط العميقة على التكيف مع مناخ الساحل شبه الجاف.",
         "تتحمل أشجار الباوباب ظروف الجفاف والحرائق في مناطق الساحل.",
-        "الذئب الإثيوبي حيوان مفترس نادر يعيش في المرتفعات الإثيوبية."
+        "الذئب الإثيوبي حيوان مفترس نادر يعيش في المرتفعات الإثيوبية.",
+        "يُعد حيوان الأوكابي من ثدييات الغابات المطيرة الأفريقية، وهو قريب للزرافة.",
+        "تتميز منطقة الكاب النباتية بجنوب أفريقيا بتنوع نباتي مرتفع رغم صغر مساحتها.",
+        "تنمو زهرة البروتيا العملاقة في منطقة الكاب النباتية بجنوب أفريقيا.",
+        "توجد أنواع من الأسماك البلطيّة الصغيرة في بحيرات أفريقيا العظمى.",
+        "تعيش قرود الجلاجو في المناطق النباتية قرب ساحل السواحلي وتنشط ليلًا."
       ],
       "pointIds": [
         "nature-0",
@@ -420,7 +634,12 @@
         "nature-2",
         "nature-3",
         "nature-4",
-        "nature-5"
+        "nature-5",
+        "nature-6",
+        "nature-7",
+        "nature-8",
+        "nature-9",
+        "nature-10"
       ],
       "pointReviews": [
         {
@@ -476,6 +695,51 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "the okapi, a donkey-like giraffe",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Cape Floral Region ... richest areas for plants",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "giant protea ... found in the Cape Floral Region",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "2.5-centimeter (1-inch) cichlid",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "bush baby or galago ... hunt at night",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -489,13 +753,23 @@
         "تضم أفريقيا أدلة أحفورية مهمة على مراحل مبكرة من تطور الإنسان.",
         "تُعد سيرينغيتي من أشهر السهول الأفريقية المعروفة بتركيز الثدييات الكبيرة.",
         "شكّلت مدن ساحل السواحلي مراكز للتجارة والملاحة عبر قرون.",
-        "تكيفت بعض حيوانات الصحراء مع الجفاف عبر تقليل فقد الماء والنشاط الليلي."
+        "تكيفت بعض حيوانات الصحراء مع الجفاف عبر تقليل فقد الماء والنشاط الليلي.",
+        "أسهمت إمبراطورية غانا التاريخية في تنشيط تجارة الذهب في غرب أفريقيا.",
+        "وسعت إمبراطورية مالي تجارة غرب أفريقيا لتشمل الملح والنحاس.",
+        "دعمت ثروة إمبراطورية مالي مراكز علمية استقطبت علماء من مناطق مختلفة.",
+        "جمعت إمبراطورية صنغاي بين التجارة والمؤسسات السياسية والحياة العلمية.",
+        "أثرت تجارة الرقيق عبر الأطلسي تأثيرًا بالغًا في مجتمعات أفريقيا وتاريخها."
       ],
       "pointIds": [
         "distinctive-facts-0",
         "distinctive-facts-1",
         "distinctive-facts-2",
-        "distinctive-facts-3"
+        "distinctive-facts-3",
+        "distinctive-facts-4",
+        "distinctive-facts-5",
+        "distinctive-facts-6",
+        "distinctive-facts-7",
+        "distinctive-facts-8"
       ],
       "pointReviews": [
         {
@@ -533,6 +807,51 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Kingdom of Ghana ... powerful empire through its gold trade",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Mali ... trade in salt and copper",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "creation of learning centers where Muslim scholars",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Songhai ... commercial trade and scholarship",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "impacts of slavery on Africa are widespread and diverse",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -547,14 +866,22 @@
         "يمتاز المناخ المتوسطي بصيف جاف وشتاء معتدل ممطر نسبيًا.",
         "تكون المرتفعات الإثيوبية أبرد من الأراضي المنخفضة المحيطة بها.",
         "يعتمد الغطاء النباتي في الساحل الأفريقي على موسم الأمطار القصير.",
-        "يسهم الجفاف وإزالة الغابات والزراعة المكثفة في تدهور الأراضي بمنطقة الساحل."
+        "يسهم الجفاف وإزالة الغابات والزراعة المكثفة في تدهور الأراضي بمنطقة الساحل.",
+        "يرتبط موسم نمو المحاصيل في منطقة الساحل بقصر موسم الأمطار.",
+        "قد يؤدي الرعي الجائر إلى تدهور التربة في أجزاء من منطقة الساحل.",
+        "تساعد قدرة أشجار الباوباب على تحمل الجفاف والحرائق على بقائها في بيئة الساحل.",
+        "تتبع هجرة قطعان النو في سيرينغيتي تغير مواسم الأمطار."
       ],
       "pointIds": [
         "climate-0",
         "climate-1",
         "climate-2",
         "climate-3",
-        "climate-4"
+        "climate-4",
+        "climate-5",
+        "climate-6",
+        "climate-7",
+        "climate-8"
       ],
       "pointReviews": [
         {
@@ -601,6 +928,42 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "short growing season",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "years of overgrazing ... quality of the soil to decline",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "drought- and fire-resistant tree",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "following seasonal rains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -615,14 +978,24 @@
         "ساهمت هجرات المجتمعات الناطقة بلغات البانتو في انتقال المعارف الزراعية وصناعة المعادن.",
         "انتشرت هجرات البانتو عبر مناطق من وسط أفريقيا وشرقها وجنوبها.",
         "يرتبط شعب الماساي تاريخيًا بمناطق جنوب كينيا وشمال تنزانيا.",
-        "تعيش جماعات من مبوتي وأكا وباكا وتوا في نطاق الغابات الاستوائية الأفريقية."
+        "تعيش جماعات من مبوتي وأكا وباكا وتوا في نطاق الغابات الاستوائية الأفريقية.",
+        "يعيش الطوارق تاريخيًا في مناطق من شمال أفريقيا وغربها.",
+        "تؤدي الأغطية التقليدية للرأس لدى الطوارق دورًا في الحماية من شمس الصحراء.",
+        "تُعد تربية الماشية جزءًا مهمًا من التراث المعيشي لجماعات الماساي.",
+        "تاريخيًا، انتقلت المعارف بين المجتمعات الأفريقية خلال الهجرات والتجارة.",
+        "أدت الحدود الاستعمارية الحديثة إلى تقسيم بعض المجتمعات والمجموعات الثقافية."
       ],
       "pointIds": [
         "population-languages-0",
         "population-languages-1",
         "population-languages-2",
         "population-languages-3",
-        "population-languages-4"
+        "population-languages-4",
+        "population-languages-5",
+        "population-languages-6",
+        "population-languages-7",
+        "population-languages-8",
+        "population-languages-9"
       ],
       "pointReviews": [
         {
@@ -669,6 +1042,51 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Tuareg are a pastoralist society in North and West Africa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Head wraps called cheches protect the Tuareg from the Saharan sun",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Maasai are nomadic pasturalists",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "exchange of skills and ideas ... cultural landscape",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "new political borders that divided established governments and cultural groups",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -682,13 +1100,21 @@
         "كانت كيلوا كيسيواني قبالة ساحل تنزانيا من مراكز التجارة والملاحة في ساحل السواحلي.",
         "دار السلام أحد الموانئ الدولية المهمة على ساحل شرق أفريقيا.",
         "مومباسا ميناء دولي مهم على ساحل كينيا الشرقي.",
-        "تأثرت مراكز التجارة الساحلية في شرق أفريقيا بعلاقاتها البحرية الممتدة عبر قرون."
+        "تأثرت مراكز التجارة الساحلية في شرق أفريقيا بعلاقاتها البحرية الممتدة عبر قرون.",
+        "تأسست قرطاج في القرن التاسع قبل الميلاد عند خليج تونس.",
+        "تحولت قرطاج منذ القرن السادس قبل الميلاد إلى مركز تجاري مؤثر في المتوسط.",
+        "دمرت روما قرطاج سنة 146 قبل الميلاد، ثم قامت مدينة رومانية على أنقاضها.",
+        "تضم آثار قرطاج بقايا موانئ فينيقية بونية ومنشآت رومانية."
       ],
       "pointIds": [
         "cities-0",
         "cities-1",
         "cities-2",
-        "cities-3"
+        "cities-3",
+        "cities-4",
+        "cities-5",
+        "cities-6",
+        "cities-7"
       ],
       "pointReviews": [
         {
@@ -726,6 +1152,42 @@
           "editorialReviewedAt": "2026-11-16",
           "duplicateReviewedAt": "2026-11-16",
           "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/37",
+          "sourceEvidence": "Carthage was founded in the 9th century B.C. on the Gulf of Tunis",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/37",
+          "sourceEvidence": "From the 6th century onwards ... great trading empire",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/37",
+          "sourceEvidence": "destroyed its rival in 146 B.C. ... Roman Carthage",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/37",
+          "sourceEvidence": "Punic ports ... theatre ... Antonin baths",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
         }
       ],
       "reviewStatus": "editorially_reviewed"
@@ -755,6 +1217,10 @@
     {
       "name": "National Geographic — Africa Resources",
       "url": "https://education.nationalgeographic.org/resource/africa-resources/"
+    },
+    {
+      "name": "UNESCO World Heritage Centre — Archaeological Site of Carthage",
+      "url": "https://whc.unesco.org/en/list/37"
     }
   ],
   "lastReviewed": "2026-11-16",
@@ -813,7 +1279,49 @@
       "cities-0",
       "cities-1",
       "cities-2",
-      "cities-3"
+      "cities-3",
+      "location-4",
+      "area-regions-4",
+      "area-regions-5",
+      "area-regions-6",
+      "landforms-6",
+      "landforms-7",
+      "landforms-8",
+      "deserts-7",
+      "deserts-8",
+      "deserts-9",
+      "rivers-lakes-4",
+      "rivers-lakes-5",
+      "rivers-lakes-6",
+      "rivers-lakes-7",
+      "rivers-lakes-8",
+      "rivers-lakes-9",
+      "seas-oceans-4",
+      "seas-oceans-5",
+      "seas-oceans-6",
+      "nature-6",
+      "nature-7",
+      "nature-8",
+      "nature-9",
+      "nature-10",
+      "distinctive-facts-4",
+      "distinctive-facts-5",
+      "distinctive-facts-6",
+      "distinctive-facts-7",
+      "distinctive-facts-8",
+      "climate-5",
+      "climate-6",
+      "climate-7",
+      "climate-8",
+      "population-languages-5",
+      "population-languages-6",
+      "population-languages-7",
+      "population-languages-8",
+      "population-languages-9",
+      "cities-4",
+      "cities-5",
+      "cities-6",
+      "cities-7"
     ],
     "verifiedSections": [
       "location",
@@ -828,6 +1336,6 @@
       "population-languages",
       "cities"
     ],
-    "note": "Facts curated from directly inspected National Geographic source passages; sourceEvidence is an excerpt for audit, not displayed in the interface."
+    "note": "Expanded with directly checked National Geographic and UNESCO source passages; automated structural and overlap checks are distinct from independent scientific peer review."
   }
 }
