@@ -1,0 +1,1257 @@
+{
+  "id": "north-america",
+  "title": "أمريكا الشمالية",
+  "status": "verified_source_based_release",
+  "intro": "من جليد غرينلاند إلى الجزر الكاريبية: رحلة عبر جبال أمريكا الشمالية وسهولها ومدنها وتاريخ مجتمعاتها.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والحدود",
+      "icon": "🧭",
+      "order": 1,
+      "points": [
+        "أمريكا الشمالية ثالث أكبر قارات العالم من حيث المساحة.",
+        "تمتد القارة من جزر ألوشيان في الشمال الغربي إلى برزخ بنما جنوبًا.",
+        "تقع غرينلاند، أكبر جزر القارة، في شمالها الشرقي.",
+        "تضم أمريكا الشمالية جزرًا ودولًا في البحر الكاريبي وغرب المحيط الأطلسي.",
+        "يبلغ عرض اليابسة عند أضيق مواضع بنما نحو 50 كيلومترًا."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3",
+        "location-4"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "third-largest continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Aleutian Islands in the northwest to the Isthmus of Panama",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "island of Greenland in the northeast",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "island countries and territories that dot the Caribbean Sea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "just 50 kilometers (31 miles) across",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "area-regions",
+      "title": "الأقاليم والدول",
+      "icon": "🗺️",
+      "order": 2,
+      "points": [
+        "تقسم ناشيونال جيوغرافيك القارة طبيعيًا إلى خمسة أقاليم رئيسية.",
+        "يُعد الغرب الجبلي أحد الأقاليم الطبيعية الخمسة في القارة.",
+        "تحتل السهول الكبرى جزءًا واسعًا من وسط أمريكا الشمالية.",
+        "الدرع الكندي إقليم صخري يمتد عبر أجزاء واسعة من كندا.",
+        "يشمل الإقليم الشرقي المتنوع جبال الأبلاش والسهل الساحلي الأطلسي.",
+        "يضم الإقليم الكاريبي آلاف الجزر والشعاب والنتوءات البحرية.",
+        "تُدرج الأمم المتحدة المكسيك ضمن أمريكا الوسطى في تصنيفها الإحصائي M49.",
+        "تُدرج الأمم المتحدة كندا والولايات المتحدة وغرينلاند ضمن إقليم أمريكا الشمالية الإحصائي."
+      ],
+      "pointIds": [
+        "area-regions-0",
+        "area-regions-1",
+        "area-regions-2",
+        "area-regions-3",
+        "area-regions-4",
+        "area-regions-5",
+        "area-regions-6",
+        "area-regions-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "divided into five physical regions",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "the mountainous west",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "The Great Plains lie in the middle of the continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "extends over eastern, central, and northwestern Canada",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "includes the Appalachian Mountains and the Atlantic coastal plain",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "more than 7,000 islands, islets, reefs, and cays",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "Central America  | Mexico",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "Northern America  | Canada",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "landforms",
+      "title": "الجبال والتضاريس",
+      "icon": "⛰️",
+      "order": 3,
+      "points": [
+        "تمتد جبال الروكي من مقاطعة كولومبيا البريطانية في كندا إلى نيو مكسيكو بالولايات المتحدة.",
+        "جبال الروكي جزء من نظام جبلي أوسع يُعرف بالكورديليرا.",
+        "يمتد نظام الكورديليرا في أمريكا الشمالية من كندا إلى برزخ بنما.",
+        "تُعد سييرا مادري في المكسيك جزءًا من نظام الكورديليرا.",
+        "توجد سلاسل جبلية بركانية في غواتيمالا وهندوراس ونيكاراغوا وكوستاريكا وبنما.",
+        "تقع سلسلة كاسكيد في ولايات واشنطن وأوريغون وكاليفورنيا الأمريكية.",
+        "تُعد جبال الأبلاش من السلاسل الأقدم قرب الساحل الشرقي للولايات المتحدة وكندا.",
+        "توجد قمة دينالي، أعلى قمة في القارة، داخل ولاية ألاسكا الأمريكية.",
+        "يقع وادي النحاس العميق في ولاية تشيهواهوا المكسيكية."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "British Columbia, Canada, to the U.S. state of New Mexico",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "part of a system of parallel mountain ranges known as the Cordilleras",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "extend from Canada all the way to the Isthmus of Panama",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Sierra Madre mountain system is part of the Cordilleras",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Volcanic mountain ranges in Guatemala, Honduras, Nicaragua, Costa Rica, and Panama",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Cascade Range of the U.S. states of Washington, Oregon, and California",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "older mountain ranges, including the Appalachians",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Denali, the continent’s highest peak",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Copper Canyon in the Mexican state of Chihuahua",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "deserts",
+      "title": "الصحاري والسهول",
+      "icon": "🏜️",
+      "order": 4,
+      "points": [
+        "من صحاري أمريكا الشمالية الكبرى صحراء سونورا وصحراء موهافي وصحراء تشيهواهوا.",
+        "تقع الصحاري الكبرى في جنوب غرب الولايات المتحدة وشمال المكسيك.",
+        "تقع صحراء موهافي في منطقة ظل المطر لسلسلة سييرا نيفادا.",
+        "تقع صحراء تشيهواهوا في ظل المطر لجبال سييرا مادري.",
+        "من نباتات الصحاري الأمريكية صبار الساغوارو وشجرة جوشوا والمسكيت.",
+        "تضم السهول الكبرى تربة خصبة ساهمت الترسبات الجليدية القديمة في تكوينها.",
+        "تُعرف السهول الكبرى بأهميتها في زراعة الحبوب، ولذلك توصف بسلة خبز القارة.",
+        "تنتشر في البراري أعشاب طويلة وأخرى قصيرة بحسب الظروف البيئية."
+      ],
+      "pointIds": [
+        "deserts-0",
+        "deserts-1",
+        "deserts-2",
+        "deserts-3",
+        "deserts-4",
+        "deserts-5",
+        "deserts-6",
+        "deserts-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "the Sonoran, Mojave, and Chihuahuan",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "American southwest and northern Mexico",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Mojave is in the shadow of the Sierra Nevada",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Chihuahuan is in the shadow of the Sierra Madre",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "saguaro cactus ... Joshua tree ... and mesquite",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "As glaciers retreated, streams of melted ice dropped sediment",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Breadbasket of North America",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "tallgrass prairies ... shortgrass prairies",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "rivers-lakes",
+      "title": "الأنهار والبحيرات",
+      "icon": "🌊",
+      "order": 5,
+      "points": [
+        "تكوّن البحيرات العظمى أكبر تجمع للمياه العذبة السطحية في العالم بحسب المرجع الجغرافي.",
+        "يُعد نهر المسيسيبي أحد أطول الأنظمة النهرية في العالم.",
+        "يصرف حوض المسيسيبي المياه من أجزاء من 31 ولاية أمريكية.",
+        "تنتشر بحيرات كثيرة بين الصخور القديمة في منطقة الدرع الكندي.",
+        "توجد بحيرات وبرك ومستنقعات ضحلة في مناطق التندرا خلال الصيف.",
+        "تقع مدينة تورونتو على بحيرة أونتاريو وترتبط بممر سانت لورانس الملاحي.",
+        "تلتقي شبكة نهري المسيسيبي والميسوري عند مدينة سانت لويس."
+      ],
+      "pointIds": [
+        "rivers-lakes-0",
+        "rivers-lakes-1",
+        "rivers-lakes-2",
+        "rivers-lakes-3",
+        "rivers-lakes-4",
+        "rivers-lakes-5",
+        "rivers-lakes-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "The Great Lakes form the planet’s largest area of freshwater",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "one of the longest river systems in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "drains all or parts of 31 U.S. states",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "rocky landscape pocked by an astounding number of lakes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "forming numerous shallow lakes, ponds, and bogs",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Toronto: On Lake Ontario",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "St. Louis: Mississippi and Missouri River junction",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "seas-oceans",
+      "title": "السواحل والبحار",
+      "icon": "⛵",
+      "order": 6,
+      "points": [
+        "تطل سواحل الكاريبي على شعاب مرجانية غنية بالحياة البحرية.",
+        "تحيط الشعاب المرجانية ببعض جزر البهاما وأنتيغوا وبربادوس.",
+        "توجد شعاب مرجانية قرب جزر فلوريدا كيز جنوب ولاية فلوريدا.",
+        "يعيش قرب الشعاب المرجانية في الكاريبي السلاحف البحرية وأسماك القرش وفرس البحر.",
+        "تشتهر منطقة خليج فندي الكندية بأكبر مدى للمد والجزر في العالم.",
+        "تقع هافانا في كوبا على ميناء عميق المياه متصل بطرق تجارة بحرية.",
+        "تقع سان دييغو على ميناء عميق المياه في المحيط الهادئ."
+      ],
+      "pointIds": [
+        "seas-oceans-0",
+        "seas-oceans-1",
+        "seas-oceans-2",
+        "seas-oceans-3",
+        "seas-oceans-4",
+        "seas-oceans-5",
+        "seas-oceans-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "coral reefs and cays of the Caribbean Sea",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Bahamas, Antigua, and Barbados",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "off the Florida Keys",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "sharks, sea turtles, sea stars, and sea horses",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Bay of Fundy has the greatest tidal range in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Havana: Deep-water port",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "San Diego: Deep-water Pacific Ocean port",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "nature",
+      "title": "الطبيعة والحياة البرية",
+      "icon": "🌿",
+      "order": 7,
+      "points": [
+        "تضم الغابات المطيرة المعتدلة في شمال غرب القارة أشجار التنوب والسرو والأرز الغربي.",
+        "تعيش الدببة السوداء والأيائل والمرموط في غابات شمال غرب أمريكا الشمالية.",
+        "تعيش ثيران البيسون وكلاب البراري والجنادب في مناطق السهول الكبرى.",
+        "تنمو الأشنات والحزازيات والطحالب في مناطق التندرا الشمالية.",
+        "تستفيد حيوانات الرنة وثيران المسك من نباتات التندرا في غذائها.",
+        "تُعد مستنقعات إيفرغلادز في فلوريدا بيئة غنية بالتنوع الحيوي.",
+        "تعيش التماسيح الأمريكية في مستنقعات الأعشاب بمنطقة إيفرغلادز.",
+        "تستخدم طيور البلشون وأبو ملعقة وأبو منجل الأراضي الرطبة في فلوريدا للتكاثر.",
+        "من حيوانات صحاري القارة سحلية جيلا المسمومة والأفاعي الجرسية."
+      ],
+      "pointIds": [
+        "nature-0",
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4",
+        "nature-5",
+        "nature-6",
+        "nature-7",
+        "nature-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Sitka spruce ... western red cedar ... and Douglas fir",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Black bears ... Roosevelt elk ... and marmots",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "bison, prairie dogs, and grasshoppers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Lichens, mosses, algae, and succulents",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "provide food for the caribou ... and musk ox",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Everglades is a biologically diverse region",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Alligators ... nest in the sawgrass",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "herons, spoonbills, and ibises",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Gila monster ... and rattlesnake",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "distinctive-facts",
+      "title": "حقائق طبيعية مميزة",
+      "icon": "✨",
+      "order": 8,
+      "points": [
+        "تضم حديقة يلوستون بعضًا من أكثر الينابيع الحارة الفوارة نشاطًا في العالم.",
+        "تقع حديقة يلوستون عبر أجزاء من وايومنغ ومونتانا وأيداهو.",
+        "تتفاوت جزر الكاريبي بين جزر رملية منخفضة وجزر جبلية بركانية.",
+        "تتشكل الشعاب المرجانية من كائنات حيوانية صغيرة تبني هياكل صلبة.",
+        "تتميز منطقة الدرع الكندي بسطح صخري مرتفع نسبيًا وقليل التضرس.",
+        "تكوّن الأراضي الرطبة مناطق تتشبع تربتها بالمياه بصورة موسمية أو دائمة."
+      ],
+      "pointIds": [
+        "distinctive-facts-0",
+        "distinctive-facts-1",
+        "distinctive-facts-2",
+        "distinctive-facts-3",
+        "distinctive-facts-4",
+        "distinctive-facts-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "some of the world’s most active geysers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "Wyoming, Montana, and Idaho",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "flat and sandy terrain while others are rugged, mountainous, and volcanic",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "millions of tiny animals—corals",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "raised but relatively flat plateau",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "soil is saturated with permanent or seasonal moisture",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "climate",
+      "title": "المناخ والموارد",
+      "icon": "☀️",
+      "order": 9,
+      "points": [
+        "تتنوع بيئات القارة من التندرا القطبية إلى الغابات المدارية والشعاب المرجانية.",
+        "يساعد الشتاء البارد والصيف المعتدل على نمو الحزازيات والسرخسيات في الغابات المطيرة المعتدلة.",
+        "يُعد الجليد الدائم في التندرا تربة متجمدة لسنتين متتاليتين أو أكثر.",
+        "تحد البرودة وقلة الهطول من نمو الأشجار في نطاق التندرا.",
+        "تزرع محاصيل مثل البن والكاكاو والموز وقصب السكر في المناطق المدارية بالقارة.",
+        "تُعد الزراعة الأحادية للمحاصيل عاملًا قد يزيد خطر استنزاف التربة وانتشار الأمراض الزراعية.",
+        "تشتهر منطقة حزام الذرة في الولايات المتحدة بزراعة الذرة وفول الصويا.",
+        "يمتد حزام القمح من كانساس إلى مقاطعات البراري الكندية."
+      ],
+      "pointIds": [
+        "climate-0",
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4",
+        "climate-5",
+        "climate-6",
+        "climate-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-resources/",
+          "sourceEvidence": "freezing Arctic to the tropical jungles of Central America",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "cool winters and mild summers promote the growth of mosses, ferns",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "soil that is frozen for two or more years",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-physical-geography/",
+          "sourceEvidence": "low temperatures and precipitation levels hinder tree growth",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-resources/",
+          "sourceEvidence": "oranges, sugar cane, coffee, cocoa and bananas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-resources/",
+          "sourceEvidence": "Monoculture is a risky way of farming for two reasons",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-resources/",
+          "sourceEvidence": "ideal for corn and soybeans",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-resources/",
+          "sourceEvidence": "Wheat Belt stretches from the U.S. state of Kansas through the Canadian Prairie provinces",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "population-languages",
+      "title": "السكان والحضارات",
+      "icon": "👥",
+      "order": 10,
+      "points": [
+        "شكّلت ثقافات السكان الأصليين تاريخ أمريكا الشمالية وتأثرت ببيئاتها الطبيعية.",
+        "تشير فرضية تاريخية معروفة إلى انتقال جماعات بشرية قديمة من سيبيريا عبر منطقة بيرينغ.",
+        "طورت حضارات المايا أنظمة حساب وتقويم لرصد الظواهر الفلكية.",
+        "استخدمت حضارات المايا رموزًا للنقاط والخطوط والصفر في الحساب.",
+        "أسهمت زراعة الذرة والقرع والفاصوليا في نشوء مجتمعات مستقرة في جنوب القارة.",
+        "من مجتمعات السهول الأصلية لاكوتا وبلاكفوت ونيز بيرس.",
+        "ارتبطت حياة بعض جماعات السهول تاريخيًا بحركة قطعان البيسون.",
+        "تعيش جماعات الإنويت الأصلية في مناطق القطب الشمالي بأمريكا الشمالية.",
+        "ساهمت الهجرات من أوروبا وآسيا وأفريقيا وأمريكا الجنوبية في تنوع مجتمعات القارة.",
+        "تُعد السياحة المرتبطة بالشعاب المرجانية نشاطًا اقتصاديًا مهمًا في دول الكاريبي."
+      ],
+      "pointIds": [
+        "population-languages-0",
+        "population-languages-1",
+        "population-languages-2",
+        "population-languages-3",
+        "population-languages-4",
+        "population-languages-5",
+        "population-languages-6",
+        "population-languages-7",
+        "population-languages-8",
+        "population-languages-9"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "Indigenous cultures shaped, and were shaped by, the geography",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "migrated from Siberia ... crossing a land bridge over the Bering Strait",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "Mayan calendars and almanacs recorded celestial events",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "dots, lines, and a football-shaped symbol that indicated a zero",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "harvested corn, squash, and beans",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "Lakota, Blackfoot, and Nez Perce",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "followed the seasonal grazing and migration of the American bison",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "Inuit, native to the Arctic",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "Immigrants from Europe, Asia, Africa, and South America",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/north-america-human-geography/",
+          "sourceEvidence": "multicolored coral reefs are one of the premier diving destinations",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "cities",
+      "title": "المدن والمراكز الحضرية",
+      "icon": "🏙️",
+      "order": 11,
+      "points": [
+        "تقع دنفر عند الحافة الغربية للسهول الكبرى والشرقية لجبال الروكي.",
+        "ترتبط شيكاغو بالبحيرات العظمى وشبكات السكك الحديدية والنقل.",
+        "تقع مدينة مكسيكو على ارتفاع مرتفع نسبيًا في وسط المكسيك.",
+        "تُعد لوس أنجلوس مركزًا ساحليًا على المحيط الهادئ للتجارة مع آسيا.",
+        "يرتبط ميناء هيوستن بساحل خليج المكسيك وتجارة الطاقة.",
+        "تقع مونتريال على ممر سانت لورانس الملاحي المتصل بالبحيرات العظمى.",
+        "ترتبط نيويورك بميناء أطلسي ونهر هدسون للتجارة والنقل.",
+        "تقع ماناغوا عاصمة نيكاراغوا قرب بحيرة وعلى مسافة غير بعيدة من المحيط الهادئ.",
+        "تقع بيتسبرغ عند ملتقى ثلاثة أنهار قرب موارد الفحم وخام الحديد.",
+        "تتميز غوادالاخارا بموقع مرتفع نسبيًا قرب أنهار وبحيرة وموارد معدنية.",
+        "تطل سانتو دومينغو على ميناء في منطقة الكاريبي."
+      ],
+      "pointIds": [
+        "cities-0",
+        "cities-1",
+        "cities-2",
+        "cities-3",
+        "cities-4",
+        "cities-5",
+        "cities-6",
+        "cities-7",
+        "cities-8",
+        "cities-9",
+        "cities-10"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Denver: Location at the western end of the Great Plains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Chicago: The Great Lakes; start of the Great Plains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Mexico City: Central location; high elevation",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Los Angeles: Pacific Ocean; trade with Pacific Rim countries",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Houston: Port on the Gulf Coast; near oil",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Montreal: On St. Lawrence Seaway",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "New York: Port on Atlantic Ocean; trade with Europe and Africa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Managua: One of Central America’s warmest capitals, located on a lake",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Pittsburgh: Three-river junction",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Guadalajara: Near rivers and lake; high elevation",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf",
+          "sourceEvidence": "Santo Domingo: Caribbean deep-water port",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    }
+  ],
+  "publicationPolicy": {
+    "version": 2,
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "sources": [
+    {
+      "name": "National Geographic — North America Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/north-america-physical-geography/"
+    },
+    {
+      "name": "National Geographic — North America Human Geography",
+      "url": "https://education.nationalgeographic.org/resource/north-america-human-geography/"
+    },
+    {
+      "name": "National Geographic — North America Resources",
+      "url": "https://education.nationalgeographic.org/resource/north-america-resources/"
+    },
+    {
+      "name": "National Geographic — A Tale of Twenty Cities",
+      "url": "https://media.nationalgeographic.org/assets/file/North_America_Tale_of_Twenty_Cities.pdf"
+    },
+    {
+      "name": "UN Statistics — M49",
+      "url": "https://unstats.un.org/unsd/methodology/m49/overview"
+    }
+  ],
+  "lastReviewed": "2026-11-16",
+  "editorialAudit": {
+    "date": "2026-11-16",
+    "verifiedAgainstOriginalSource": [
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "location-4",
+      "area-regions-0",
+      "area-regions-1",
+      "area-regions-2",
+      "area-regions-3",
+      "area-regions-4",
+      "area-regions-5",
+      "area-regions-6",
+      "area-regions-7",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "landforms-6",
+      "landforms-7",
+      "landforms-8",
+      "deserts-0",
+      "deserts-1",
+      "deserts-2",
+      "deserts-3",
+      "deserts-4",
+      "deserts-5",
+      "deserts-6",
+      "deserts-7",
+      "rivers-lakes-0",
+      "rivers-lakes-1",
+      "rivers-lakes-2",
+      "rivers-lakes-3",
+      "rivers-lakes-4",
+      "rivers-lakes-5",
+      "rivers-lakes-6",
+      "seas-oceans-0",
+      "seas-oceans-1",
+      "seas-oceans-2",
+      "seas-oceans-3",
+      "seas-oceans-4",
+      "seas-oceans-5",
+      "seas-oceans-6",
+      "nature-0",
+      "nature-1",
+      "nature-2",
+      "nature-3",
+      "nature-4",
+      "nature-5",
+      "nature-6",
+      "nature-7",
+      "nature-8",
+      "distinctive-facts-0",
+      "distinctive-facts-1",
+      "distinctive-facts-2",
+      "distinctive-facts-3",
+      "distinctive-facts-4",
+      "distinctive-facts-5",
+      "climate-0",
+      "climate-1",
+      "climate-2",
+      "climate-3",
+      "climate-4",
+      "climate-5",
+      "climate-6",
+      "climate-7",
+      "population-languages-0",
+      "population-languages-1",
+      "population-languages-2",
+      "population-languages-3",
+      "population-languages-4",
+      "population-languages-5",
+      "population-languages-6",
+      "population-languages-7",
+      "population-languages-8",
+      "population-languages-9",
+      "cities-0",
+      "cities-1",
+      "cities-2",
+      "cities-3",
+      "cities-4",
+      "cities-5",
+      "cities-6",
+      "cities-7",
+      "cities-8",
+      "cities-9",
+      "cities-10"
+    ],
+    "verifiedSections": [
+      "location",
+      "area-regions",
+      "landforms",
+      "deserts",
+      "rivers-lakes",
+      "seas-oceans",
+      "nature",
+      "distinctive-facts",
+      "climate",
+      "population-languages",
+      "cities"
+    ],
+    "note": "All source evidence excerpts checked against original reference pages. Automated validation is separate from independent scientific review."
+  }
+}
