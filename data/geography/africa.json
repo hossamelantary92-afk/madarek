@@ -1,0 +1,833 @@
+{
+  "id": "africa",
+  "title": "أفريقيا",
+  "status": "verified_source_based_release",
+  "intro": "رحلة عبر جغرافيا أفريقيا: صحاريها وسهولها ومرتفعاتها وسواحلها، وصولًا إلى تنوعها الطبيعي والبشري.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والحدود",
+      "icon": "🧭",
+      "order": 1,
+      "points": [
+        "أفريقيا ثاني أكبر قارات العالم من حيث المساحة.",
+        "يحد أفريقيا البحر المتوسط شمالًا، والبحر الأحمر والمحيط الهندي شرقًا، والمحيط الأطلسي غربًا.",
+        "يقسم خط الاستواء أفريقيا إلى جزأين متقاربين في المساحة.",
+        "تتصل أفريقيا بآسيا عبر برزخ السويس في مصر."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Africa, the second-largest continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "bounded by the Mediterranean Sea, the Red Sea, the Indian Ocean, and the Atlantic Ocean",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "divided in half almost equally by the Equator",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/Continent/",
+          "sourceEvidence": "connected to Asia by the Isthmus of Suez in Egypt",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "area-regions",
+      "title": "الأقاليم الطبيعية",
+      "icon": "🗺️",
+      "order": 2,
+      "points": [
+        "يُميّز المرجع الجغرافي ثمانية أقاليم طبيعية رئيسية في أفريقيا.",
+        "من الأقاليم الطبيعية الصحراء الكبرى والساحل الأفريقي والمرتفعات الإثيوبية.",
+        "تشمل الأقاليم الطبيعية كذلك السافانا وساحل السواحلي والغابات المطيرة.",
+        "تُعد البحيرات العظمى والجنوب الأفريقي من الأقاليم الطبيعية الرئيسية أيضًا."
+      ],
+      "pointIds": [
+        "area-regions-0",
+        "area-regions-1",
+        "area-regions-2",
+        "area-regions-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Africa has eight major physical regions",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "the Sahara, the Sahel, the Ethiopian Highlands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "savannas, the Swahili Coast, rainforests",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "the African Great Lakes, and Southern Africa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "landforms",
+      "title": "التضاريس والمرتفعات",
+      "icon": "⛰️",
+      "order": 3,
+      "points": [
+        "نشأت المرتفعات الإثيوبية بفعل رفع جيولوجي للصخور القديمة مرتبط بحركة الصهارة.",
+        "يمتد نظام الأخدود الأفريقي العظيم عبر المرتفعات الإثيوبية من الجنوب الغربي إلى الشمال الشرقي.",
+        "تضم جبال سيمين الإثيوبية موائل صخرية للوعل الواليا وقرد الجيلادا.",
+        "تمتد جبال الأطلس من جنوب غرب المغرب نحو شمال شرق تونس.",
+        "تقع جبال تيبستي في جنوب ليبيا وشمال تشاد.",
+        "تقع جبال الهقار في جنوب الجزائر."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "magma from the Earth’s mantle uplifted a broad dome of ancient rock",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "cuts through the Ethiopian Highlands from the southwest to the northeast",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "walia ibex ... and the gelada baboon ... Simien Mountains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Atlas Mountains, which stretch from southwestern Morocco to northeastern Tunisia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Tibesti Mountains of southern Libya and northern Chad",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Ahaggar Mountains in southern Algeria",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "deserts",
+      "title": "الصحاري والساحل",
+      "icon": "🏜️",
+      "order": 4,
+      "points": [
+        "الصحراء الكبرى هي أكبر صحراء حارة في العالم.",
+        "لا تقتصر تضاريس الصحراء الكبرى على الكثبان؛ فهي تضم سهولًا حصوية وهضابًا صخرية وواحات.",
+        "تُسمى مساحات الكثبان الرملية الواسعة في الصحراء «العروق» أو Ergs.",
+        "تُسمى السهول الحصوية والصخرية في الصحراء «الرقوق» أو Regs.",
+        "تُعد الواحات مراكز للمياه والحياة وسط البيئات الصحراوية الجافة.",
+        "الساحل الأفريقي نطاق شبه جاف يفصل الصحراء الكبرى شمالًا عن السافانا جنوبًا.",
+        "يمتد حزام الساحل الأفريقي تقريبًا من السنغال غربًا إلى السودان شرقًا."
+      ],
+      "pointIds": [
+        "deserts-0",
+        "deserts-1",
+        "deserts-2",
+        "deserts-3",
+        "deserts-4",
+        "deserts-5",
+        "deserts-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "The Sahara is the world’s largest hot desert",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "including ergs, regs, hamadas, and oases",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Ergs ... are sand dunes that stretch for hundreds of kilometers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Regs ... are plains of sand and gravel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "An oasis is a hub of water in the desert",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "transition zone between the Sahara to the north and the savannas to the south",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "stretch roughly 5,400 kilometers ... from Senegal to Sudan",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "rivers-lakes",
+      "title": "الأنهار والبحيرات",
+      "icon": "🌊",
+      "order": 5,
+      "points": [
+        "يجري نهر النيل شمالًا حتى يصب في البحر المتوسط.",
+        "ارتبط نهر النيل تاريخيًا بالماء والغذاء والنقل في الحضارة المصرية القديمة.",
+        "يُعد نهر النيجر من أطول أنهار أفريقيا، ويمر نطاق دلتا النيجر الداخلية بمنطقة الساحل.",
+        "تُعد البحيرات العظمى الأفريقية إقليمًا طبيعيًا مستقلًا في التصنيف الجغرافي."
+      ],
+      "pointIds": [
+        "rivers-lakes-0",
+        "rivers-lakes-1",
+        "rivers-lakes-2",
+        "rivers-lakes-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/Continent/",
+          "sourceEvidence": "the Nile ... to the Mediterranean Sea in the north",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/Continent/",
+          "sourceEvidence": "a source of life for food, water, and transportation",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "The Sahel contains the fertile delta of the Niger, one of Africa’s longest rivers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "the African Great Lakes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "seas-oceans",
+      "title": "البحار والسواحل",
+      "icon": "⛵",
+      "order": 6,
+      "points": [
+        "يمتد ساحل السواحلي على أجزاء من سواحل كينيا وتنزانيا وموزمبيق.",
+        "تساعد الشعاب المرجانية والجزر الحاجزة قرب ساحل السواحلي على تخفيف أثر العواصف.",
+        "من الموانئ المهمة على ساحل السواحلي دار السلام ومومباسا.",
+        "تنتشر غابات المانغروف في أجزاء نباتية من ساحل السواحلي."
+      ],
+      "pointIds": [
+        "seas-oceans-0",
+        "seas-oceans-1",
+        "seas-oceans-2",
+        "seas-oceans-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Swahili Coast stretches ... along the coastlines of Kenya, Mozambique, and Tanzania",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "coral reefs and barrier islands protect the coast from severe weather",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "major international ports, including Dar es Salaam and Mombasa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Mangrove forests are the most common vegetation",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "nature",
+      "title": "النباتات والحياة البرية",
+      "icon": "🌿",
+      "order": 7,
+      "points": [
+        "تُعد سهول سيرينغيتي موطنًا للأسود والضباع والحمر الوحشية والزرافات والفيلة.",
+        "تتحرك قطعان النو عبر سيرينغيتي في هجرة موسمية تتبع الأمطار.",
+        "تعيش الغوريلا والأوكابي وفيلة الغابات الأفريقية في الغابات المطيرة بالقارة.",
+        "تساعد جذور أشجار السنط العميقة على التكيف مع مناخ الساحل شبه الجاف.",
+        "تتحمل أشجار الباوباب ظروف الجفاف والحرائق في مناطق الساحل.",
+        "الذئب الإثيوبي حيوان مفترس نادر يعيش في المرتفعات الإثيوبية."
+      ],
+      "pointIds": [
+        "nature-0",
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4",
+        "nature-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "including lions, hyenas, zebras, giraffes, and elephants",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "wildebeest travel in a circular migration, following seasonal rains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "African forest elephants, gorillas ... and the okapi",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "acacia, whose deep root systems are ideal for semi-arid climates",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "baobabs, a type of drought- and fire-resistant tree",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Found only in Ethiopia, this wolf is a rare predator",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "distinctive-facts",
+      "title": "حقائق مميزة",
+      "icon": "✨",
+      "order": 8,
+      "points": [
+        "تضم أفريقيا أدلة أحفورية مهمة على مراحل مبكرة من تطور الإنسان.",
+        "تُعد سيرينغيتي من أشهر السهول الأفريقية المعروفة بتركيز الثدييات الكبيرة.",
+        "شكّلت مدن ساحل السواحلي مراكز للتجارة والملاحة عبر قرون.",
+        "تكيفت بعض حيوانات الصحراء مع الجفاف عبر تقليل فقد الماء والنشاط الليلي."
+      ],
+      "pointIds": [
+        "distinctive-facts-0",
+        "distinctive-facts-1",
+        "distinctive-facts-2",
+        "distinctive-facts-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "fossil evidence of human beings (Homo sapiens) and their ancestors",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "Serengeti ... one of the continent’s highest concentrations of large mammal species",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "centers for trade and water travel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "produce highly concentrated urine ... limits its activities to night",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "climate",
+      "title": "المناخ والبيئات",
+      "icon": "☀️",
+      "order": 9,
+      "points": [
+        "يسود المناخ المتوسطي أجزاء من الساحل الشمالي لأفريقيا والطرف الجنوبي الغربي من جنوب أفريقيا.",
+        "يمتاز المناخ المتوسطي بصيف جاف وشتاء معتدل ممطر نسبيًا.",
+        "تكون المرتفعات الإثيوبية أبرد من الأراضي المنخفضة المحيطة بها.",
+        "يعتمد الغطاء النباتي في الساحل الأفريقي على موسم الأمطار القصير.",
+        "يسهم الجفاف وإزالة الغابات والزراعة المكثفة في تدهور الأراضي بمنطقة الساحل."
+      ],
+      "pointIds": [
+        "climate-0",
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-resources/",
+          "sourceEvidence": "Mediterranean climate conditions occur along the northern coast of Africa and the southwestern tip of South Africa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-resources/",
+          "sourceEvidence": "mild temperatures, dry summers and moderately rainy winters",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-resources/",
+          "sourceEvidence": "Temperatures here are much colder than the surrounding lowlands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "green vegetation emerges only during the rainy season",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "as a result of drought, deforestation, and intensive agriculture",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "population-languages",
+      "title": "السكان والثقافات",
+      "icon": "👥",
+      "order": 10,
+      "points": [
+        "تضم أفريقيا مئات اللغات الأصلية ومجموعات سكانية ذات تقاليد ثقافية متنوعة.",
+        "ساهمت هجرات المجتمعات الناطقة بلغات البانتو في انتقال المعارف الزراعية وصناعة المعادن.",
+        "انتشرت هجرات البانتو عبر مناطق من وسط أفريقيا وشرقها وجنوبها.",
+        "يرتبط شعب الماساي تاريخيًا بمناطق جنوب كينيا وشمال تنزانيا.",
+        "تعيش جماعات من مبوتي وأكا وباكا وتوا في نطاق الغابات الاستوائية الأفريقية."
+      ],
+      "pointIds": [
+        "population-languages-0",
+        "population-languages-1",
+        "population-languages-2",
+        "population-languages-3",
+        "population-languages-4"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "incorporating hundreds of native languages and Indigenous groups",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "growing crops and forging tools and weapons from metal",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "through the rainforests of Central Africa ... southeastern and southwestern parts",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-human-geography/",
+          "sourceEvidence": "Maasai peoples are the original settlers of southern Kenya and northern Tanzania",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "including the Mbuti, the Twa, the Baka, and the Aka",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "cities",
+      "title": "المدن والتجارة",
+      "icon": "🏙️",
+      "order": 11,
+      "points": [
+        "كانت كيلوا كيسيواني قبالة ساحل تنزانيا من مراكز التجارة والملاحة في ساحل السواحلي.",
+        "دار السلام أحد الموانئ الدولية المهمة على ساحل شرق أفريقيا.",
+        "مومباسا ميناء دولي مهم على ساحل كينيا الشرقي.",
+        "تأثرت مراكز التجارة الساحلية في شرق أفريقيا بعلاقاتها البحرية الممتدة عبر قرون."
+      ],
+      "pointIds": [
+        "cities-0",
+        "cities-1",
+        "cities-2",
+        "cities-3"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "such as the island of Kilwa Kisiwani off the coast of Tanzania",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "major international ports, including Dar es Salaam",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "major international ports, including Dar es Salaam and Mombasa",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/africa-physical-geography/",
+          "sourceEvidence": "For centuries, the areas along the Swahili Coast ... have been centers for trade and water travel",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    }
+  ],
+  "publicationPolicy": {
+    "version": 2,
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "sources": [
+    {
+      "name": "National Geographic — Africa Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/africa-physical-geography/"
+    },
+    {
+      "name": "National Geographic — Continents",
+      "url": "https://education.nationalgeographic.org/resource/Continent/"
+    },
+    {
+      "name": "National Geographic — Africa Human Geography",
+      "url": "https://education.nationalgeographic.org/resource/africa-human-geography/"
+    },
+    {
+      "name": "National Geographic — Africa Resources",
+      "url": "https://education.nationalgeographic.org/resource/africa-resources/"
+    }
+  ],
+  "lastReviewed": "2026-11-16",
+  "editorialAudit": {
+    "date": "2026-11-16",
+    "verifiedAgainstOriginalSource": [
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "area-regions-0",
+      "area-regions-1",
+      "area-regions-2",
+      "area-regions-3",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "deserts-0",
+      "deserts-1",
+      "deserts-2",
+      "deserts-3",
+      "deserts-4",
+      "deserts-5",
+      "deserts-6",
+      "rivers-lakes-0",
+      "rivers-lakes-1",
+      "rivers-lakes-2",
+      "rivers-lakes-3",
+      "seas-oceans-0",
+      "seas-oceans-1",
+      "seas-oceans-2",
+      "seas-oceans-3",
+      "nature-0",
+      "nature-1",
+      "nature-2",
+      "nature-3",
+      "nature-4",
+      "nature-5",
+      "distinctive-facts-0",
+      "distinctive-facts-1",
+      "distinctive-facts-2",
+      "distinctive-facts-3",
+      "climate-0",
+      "climate-1",
+      "climate-2",
+      "climate-3",
+      "climate-4",
+      "population-languages-0",
+      "population-languages-1",
+      "population-languages-2",
+      "population-languages-3",
+      "population-languages-4",
+      "cities-0",
+      "cities-1",
+      "cities-2",
+      "cities-3"
+    ],
+    "verifiedSections": [
+      "location",
+      "area-regions",
+      "landforms",
+      "deserts",
+      "rivers-lakes",
+      "seas-oceans",
+      "nature",
+      "distinctive-facts",
+      "climate",
+      "population-languages",
+      "cities"
+    ],
+    "note": "Facts curated from directly inspected National Geographic source passages; sourceEvidence is an excerpt for audit, not displayed in the interface."
+  }
+}
