@@ -2,100 +2,173 @@
   "id": "ancient-egypt",
   "title": "الحضارة المصرية القديمة",
   "subtitle": "من وادي النيل إلى العصرين البطلمي والروماني",
-  "status": "initial_editorial_release_pending_independent_review",
+  "status": "substantive_editorial_revision_pending_independent_review",
   "sections": [
     {
-      "id": "timeline",
-      "title": "رحلة عبر الحضارة",
+      "id": "foundations",
+      "title": "نشأة الدولة والهندسة",
       "points": [
         {
-          "title": "النشأة ونهر النيل",
-          "text": "ساعدت مياه النيل وفيضانه السنوي على قيام مجتمعات زراعية مستقرة في وادي النيل.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "Nile River"
+          "title": "وادي النيل وبناء الدولة",
+          "text": "لم يكن النيل مجرد مصدر للماء؛ فقد جعل الزراعة المنتظمة والفائض الغذائي ممكنين، وساعد هذا الفائض على دعم الحرفيين والإدارة المركزية والمشروعات الكبرى. لكن تكوّن الدولة كان عملية سياسية واجتماعية طويلة، وليس نتيجة الفيضان وحده.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
         },
         {
-          "title": "توحيد البلاد",
-          "text": "تُربط بدايات الدولة المصرية الموحدة تقليديًا بالملك نارمر وبداية عصر الأسرات نحو 3100 قبل الميلاد.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "Narmer"
+          "title": "نارمر وتوحيد القطرين",
+          "text": "ارتبط اسم نارمر في الشواهد الملكية المبكرة بتوحيد مصر العليا والسفلى قرب 3100 ق.م. وتوضح لوحة نارمر كيف استخدمت السلطة الناشئة الرموز والصور لإعلان شرعيتها؛ أما تفاصيل التوحيد الفعلية وتسلسله فليست محسومة تمامًا.",
+          "sourceUrl": "https://egyptianmuseumcairo.eg/historical-timeline/"
         },
         {
-          "title": "الدولة القديمة",
-          "text": "شهدت الدولة القديمة تشييد الأهرامات الكبرى في الجيزة خلال عصر الأسرة الرابعة.",
-          "sourceUrl": "https://whc.unesco.org/en/list/86",
-          "sourceHint": "Pyramids of Giza"
+          "title": "من المصطبة إلى الهرم المدرج",
+          "text": "شكّل هرم زوسر في سقارة، في الأسرة الثالثة، نقلة من المقابر المصطبية إلى مجمع جنائزي حجري ضخم متعدد المستويات، ويرتبط تصميمه تقليديًا بالمهندس إيمحتب. أهميته أنه يمثل تطورًا في البناء والتنظيم، لا مجرد شكل معماري مختلف.",
+          "sourceUrl": "https://nmec.gov.eg/historical-timeline/"
         },
         {
-          "title": "الكتابة",
-          "text": "استخدم المصريون القدماء الكتابة الهيروغليفية في النقوش الدينية والملكية، إلى جانب أنظمة كتابة أخرى.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "hieroglyphic writing"
+          "title": "تجارب سنفرو الهندسية",
+          "text": "قبل أهرامات الجيزة، شهد عهد سنفرو تجارب حاسمة في بناء الأهرامات، ومنها مشروعات ميدوم ودهشور. ويُعد الهرم الأحمر بدهشور من أقدم الأمثلة الناجحة للهرم ذي الجوانب الملساء؛ ما يكشف أن الشكل النهائي نتج عن تراكم خبرة هندسية.",
+          "sourceUrl": "https://egyptianmuseumcairo.eg/historical-timeline/"
         },
         {
-          "title": "المعتقدات",
-          "text": "ارتبطت المعتقدات الجنائزية بفكرة الحياة بعد الموت، وأسهمت في تطور التحنيط وبناء المقابر.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "afterlife"
+          "title": "أهرامات الجيزة وقوة الدولة",
+          "text": "بُنيت أهرامات خوفو وخفرع ومنكاورع في الأسرة الرابعة بوصفها مجمعات جنائزية ملكية. ويتجاوز معناها وظيفة الدفن: فهي شاهد على قدرة الدولة على تعبئة الموارد وتنظيم العمالة ونقل الأحجار وتنفيذ مشروعات طويلة الأمد.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "title": "الكتابة والمعتقدات",
+      "points": [
+        {
+          "title": "الكتابة والإدارة والذاكرة",
+          "text": "لم تكن الهيروغليفية اللغة المصرية الوحيدة المكتوبة؛ فقد وُجدت صيغ كتابية أخرى لأغراض الحياة والإدارة. وتكشف النصوص الملكية والجنائزية والإدارية كيف ساعدت الكتابة على حفظ الشرعية والمعتقدات وتنظيم الدولة.",
+          "sourceUrl": "https://www.britishmuseum.org/sites/default/files/2024-06/Museum_explorers_Ancient_Egypt.pdf"
         },
         {
-          "title": "الدولة الوسطى",
-          "text": "شهدت الدولة الوسطى إعادة توحيد السلطة بعد فترة من الانقسام السياسي.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "Middle Kingdom"
+          "title": "لماذا كان حجر رشيد مهمًا؟",
+          "text": "يحمل حجر رشيد نصًا بثلاثة أنظمة كتابة: الهيروغليفية والديموطيقية واليونانية القديمة. أتاحت المقارنة بين النصوص للباحثين طريقًا لفك قراءة الهيروغليفية، فصار بالإمكان فهم كم كبير من المصادر المصرية الأصلية بدل الاعتماد على روايات لاحقة.",
+          "sourceUrl": "https://www.britishmuseum.org/sites/default/files/2024-06/Museum_explorers_Ancient_Egypt.pdf"
         },
         {
-          "title": "الدولة الحديثة",
-          "text": "برزت الدولة الحديثة بوصفها عصرًا للقوة السياسية والعسكرية والتوسع خارج وادي النيل.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "New Kingdom"
+          "title": "المقابر والتحنيط وفكرة البعث",
+          "text": "ارتبطت تجهيزات الدفن والتحنيط بالاعتقاد باستمرار الوجود بعد الموت. ولذلك لم تكن المقابر مجرد أماكن لحفظ الجسد؛ بل ضمت نصوصًا وصورًا وقرابين تعكس تصور المصريين للعالم الآخر وعلاقة الأحياء بالموتى.",
+          "sourceUrl": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+        }
+      ]
+    },
+    {
+      "id": "transitions",
+      "title": "التحولات السياسية",
+      "points": [
+        {
+          "title": "لماذا ضعفت الدولة القديمة؟",
+          "text": "مع نهاية الدولة القديمة ضعفت السلطة المركزية وازدادت قوة حكام الأقاليم، فدخلت البلاد مرحلة تنافس سياسي عُرفت بالعصر الانتقالي الأول. يوضح ذلك أن قوة الملكية لم تكن ثابتة طوال التاريخ المصري.",
+          "sourceUrl": "https://nmec.gov.eg/historical-timeline/"
         },
         {
-          "title": "المعابد",
-          "text": "تُعد معابد الكرنك والأقصر من أبرز الآثار الدينية المرتبطة بمدينة طيبة القديمة.",
-          "sourceUrl": "https://whc.unesco.org/en/list/86",
-          "sourceHint": "Karnak and Luxor"
+          "title": "منتوحتب الثاني وإعادة التوحيد",
+          "text": "أعاد منتوحتب الثاني توحيد مصر بعد انقسام العصر الانتقالي الأول، ومهّد لازدهار الدولة الوسطى. شهد العصر إعادة صياغة مفاهيم الملكية والفن والعلاقات الإقليمية، ولذلك لا يُختزل في مجرد عودة الاستقرار.",
+          "sourceUrl": "https://www.metmuseum.org/pt/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
         },
         {
-          "title": "العلوم والحياة اليومية",
-          "text": "اعتمدت الزراعة المصرية على تنظيم الري ودورة النيل، وازدهرت حرف مثل صناعة الفخار والنسيج.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "agriculture"
+          "title": "الهكسوس وتحوّل ميزان القوى",
+          "text": "خلال العصر الانتقالي الثاني سيطر حكام الهكسوس على أجزاء من شمال مصر، بينما استمرت سلطات محلية في الجنوب. تكشف هذه المرحلة عن تداخل مصر مع شرق المتوسط، وقد انتهت بصعود حكام طيبة وبداية الدولة الحديثة.",
+          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
         },
         {
-          "title": "نهاية الحكم الفرعوني",
-          "text": "خضعت مصر للحكم المقدوني بعد دخول الإسكندر الأكبر سنة 332 قبل الميلاد.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "Alexander the Great"
+          "title": "أحمس وبداية الدولة الحديثة",
+          "text": "أنهى أحمس الأول حكم الهكسوس في الشمال وأعاد توحيد السلطة، فبدأت مرحلة الدولة الحديثة التي شهدت نشاطًا عسكريًا وسياسيًا واسعًا خارج وادي النيل. كان التحول مرتبطًا بإعادة بناء الدولة بعد الصراع، لا بتغيير الأسرة الحاكمة وحده.",
+          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
         },
         {
-          "title": "العصر البطلمي",
-          "text": "حكمت الأسرة البطلمية مصر بعد تفكك إمبراطورية الإسكندر، وكانت الإسكندرية مركزًا ثقافيًا مهمًا.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "Ptolemaic dynasty"
+          "title": "حتشبسوت والسلطة الملكية",
+          "text": "تولت حتشبسوت الحكم بصفتها ملكًا في الأسرة الثامنة عشرة، وهي حالة تكشف مرونة التمثيل السياسي للملكية المصرية رغم غلبة الرجال على المنصب. تُظهر آثارها كيف استُخدمت العمارة والرموز الملكية لترسيخ شرعية الحكم.",
+          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
         },
         {
-          "title": "مصر الرومانية",
-          "text": "أصبحت مصر ولاية رومانية بعد هزيمة كليوباترا السابعة ومارك أنطونيوس سنة 30 قبل الميلاد.",
-          "sourceUrl": "https://www.britannica.com/place/ancient-Egypt",
-          "sourceHint": "30 bce"
+          "title": "إخناتون والتحول الديني",
+          "text": "دفع إخناتون في الأسرة الثامنة عشرة بعبادة آتون إلى مركز الحياة الدينية الرسمية، في تحول أثار تغييرات في الفن والطقوس ومؤسسات الحكم. وبعد وفاته تراجعت إصلاحاته وعادت الممارسات الدينية التقليدية تدريجيًا.",
+          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+        },
+        {
+          "title": "توت عنخ آمون واستعادة التقاليد",
+          "text": "ارتبط عهد توت عنخ آمون بالعودة إلى عبادة الآلهة والمؤسسات الدينية التقليدية بعد إصلاحات إخناتون. أهميته التاريخية لا تقتصر على شهرة مقبرته؛ بل على موقع حكمه في مرحلة إعادة ترتيب الدين والسياسة.",
+          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+        }
+      ]
+    },
+    {
+      "id": "legacy",
+      "title": "المعابد والتأريخ والعصور اللاحقة",
+      "points": [
+        {
+          "title": "طيبة والكرنك والأقصر",
+          "text": "كانت طيبة مركزًا سياسيًا ودينيًا بالغ الأهمية، وتضم معابد الكرنك والأقصر ومقابر ملكية على الضفة الغربية. يوضح هذا المشهد الأثري ارتباط العمارة بالسلطة والطقوس والذاكرة الجنائزية عبر عصور متعاقبة.",
+          "sourceUrl": "https://whc.unesco.org/en/list/87"
+        },
+        {
+          "title": "لماذا يصعب تحديد التواريخ القديمة؟",
+          "text": "تعتمد كرونولوجيا مصر القديمة على قوائم الملوك والنقوش والشواهد الأثرية والمقارنات الفلكية؛ لذا تختلف تواريخ بعض العصور المبكرة بين المراجع. الأفضل استخدام «نحو» مع السنوات القديمة بدل تقديمها كتواريخ يقينية.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        },
+        {
+          "title": "من الفرس إلى الإسكندر",
+          "text": "لم يكن دخول الإسكندر مصر سنة 332 ق.م نهايةً مباشرة لكل المؤسسات المصرية؛ بل جاء بعد فترات من الحكم الفارسي، وتبعته مرحلة مقدونية ثم بطلمية. يوضح الانتقال كيف تغيّرت السلطة الحاكمة مع استمرار عناصر ثقافية وإدارية محلية.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        },
+        {
+          "title": "البطالمة والإسكندرية",
+          "text": "حكم البطالمة مصر من أوائل القرن الثالث حتى سنة 30 ق.م، وكانت الإسكندرية مركزًا مهمًا للسياسة والثقافة في البحر المتوسط. امتزجت تقاليد الحكم اليونانية بالمؤسسات والمعتقدات المصرية خلال هذه المرحلة.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        },
+        {
+          "title": "سنة 30 ق.م والتحول الروماني",
+          "text": "انتهى حكم كليوباترا السابعة بعد الصراع مع أوكتافيان، وأصبحت مصر خاضعة لروما سنة 30 ق.م. لم تختفِ الحضارة المصرية فجأة؛ فقد استمرت لغتها وتقاليدها ومؤسساتها بأشكال متغيرة تحت الحكم الروماني.",
+          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
         }
       ]
     }
   ],
   "sources": [
     {
-      "name": "Encyclopaedia Britannica — Ancient Egypt",
-      "url": "https://www.britannica.com/place/ancient-Egypt"
+      "name": "المتحف القومي للحضارة المصرية — التسلسل التاريخي",
+      "url": "https://nmec.gov.eg/historical-timeline/"
     },
     {
-      "name": "UNESCO — Ancient Thebes with its Necropolis",
-      "url": "https://whc.unesco.org/en/list/86"
+      "name": "المتحف المصري بالقاهرة — التسلسل التاريخي",
+      "url": "https://egyptianmuseumcairo.eg/historical-timeline/"
     },
     {
-      "name": "The Metropolitan Museum of Art — Egypt",
-      "url": "https://www.metmuseum.org/toah/hd/egyp/hd_egyp.htm"
+      "name": "المتحف البريطاني — دليل مصر القديمة",
+      "url": "https://www.britishmuseum.org/sites/default/files/2024-06/Museum_explorers_Ancient_Egypt.pdf"
+    },
+    {
+      "name": "Metropolitan Museum — الدولة الوسطى",
+      "url": "https://www.metmuseum.org/pt/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
+    },
+    {
+      "name": "OpenStax — Ancient Egypt",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/3-3-ancient-egypt"
+    },
+    {
+      "name": "University of Memphis — Chronology",
+      "url": "https://www.memphis.edu/egypt/resources/timeline.php"
+    },
+    {
+      "name": "University of Michigan — Ancient Egypt Guide",
+      "url": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+    },
+    {
+      "name": "UNESCO — Ancient Thebes",
+      "url": "https://whc.unesco.org/en/list/87"
     }
   ],
-  "lastUpdated": "2026-11-16"
+  "lastUpdated": "2026-11-16",
+  "editorialPolicy": "Prefer historically consequential, explanatory, sourced facts; reject generic filler and repetition; distinguish approximations and disputed interpretations.",
+  "editorialAudit": {
+    "reviewedAt": "2026-11-16",
+    "previousCount": 12,
+    "newCount": 20,
+    "notes": "Replaced generic one-sentence summaries with consequential explanatory passages. Sources checked for key chronology and themes; not a full independent line-by-line fact certification."
+  }
 }
