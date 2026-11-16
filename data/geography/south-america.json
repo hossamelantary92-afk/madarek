@@ -1,0 +1,1361 @@
+{
+  "id": "south-america",
+  "title": "أمريكا الجنوبية",
+  "status": "verified_source_based_release",
+  "intro": "من قمم الأنديز وصحراء أتاكاما إلى الأمازون والبامبا وحضارات الإنكا: جولة موسوعية في تنوع أمريكا الجنوبية.",
+  "sections": [
+    {
+      "id": "location",
+      "title": "الموقع والحدود",
+      "icon": "🧭",
+      "order": 1,
+      "points": [
+        "أمريكا الجنوبية رابع أكبر قارات العالم من حيث المساحة.",
+        "تمتد أمريكا الجنوبية من خليج دارين شمال غربًا إلى أرخبيل أرض النار جنوبًا.",
+        "تضم القارة جزر غالاباغوس التابعة للإكوادور وجزيرة القيامة التابعة لتشيلي.",
+        "يشمل نطاق القارة أرخبيل تشيلوي وأرخبيل خوان فرنانديز التابعين لتشيلي.",
+        "تطل أمريكا الجنوبية على المحيط الهادئ غربًا والمحيط الأطلسي شرقًا.",
+        "يفصل برزخ بنما جغرافيًا بين كتلتي أمريكا الشمالية وأمريكا الجنوبية."
+      ],
+      "pointIds": [
+        "location-0",
+        "location-1",
+        "location-2",
+        "location-3",
+        "location-4",
+        "location-5"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "South America, the fourth-largest continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "extends from the Gulf of Darién in the northwest to the archipelago of Tierra del Fuego in the south",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Galápagos Islands (Ecuador), Easter Island (Chile)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Chiloé and Juan Fernández archipelagos (Chile)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Caribbean Sea, Atlantic Ocean and Pacific Ocean",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "south of the Isthmus of Panama became known as South America",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "area-regions",
+      "title": "الأقاليم والدول",
+      "icon": "🗺️",
+      "order": 2,
+      "points": [
+        "تُقسم التضاريس الطبيعية للقارة إلى الجبال والمرتفعات وأحواض الأنهار والسهول الساحلية.",
+        "تمتد الجبال والسهول الساحلية عمومًا باتجاه شمالي جنوبي.",
+        "تمتد المرتفعات وأحواض الأنهار غالبًا باتجاه شرقي غربي.",
+        "تُدرج الأمم المتحدة البرازيل والأرجنتين وتشيلي ضمن أمريكا الجنوبية إحصائيًا.",
+        "تُدرج الأمم المتحدة غويانا وسورينام وغويانا الفرنسية ضمن أمريكا الجنوبية.",
+        "تُدرج الأمم المتحدة بوليفيا وباراغواي ضمن أمريكا الجنوبية، وهما دولتان حبيستان.",
+        "تُدرج الأمم المتحدة جزر فوكلاند (مالفيناس) ضمن إقليم أمريكا الجنوبية الإحصائي."
+      ],
+      "pointIds": [
+        "area-regions-0",
+        "area-regions-1",
+        "area-regions-2",
+        "area-regions-3",
+        "area-regions-4",
+        "area-regions-5",
+        "area-regions-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "three physical regions: mountains and highlands, river basins, and coastal plains",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Mountains and coastal plains generally run in a north-south direction",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "highlands and river basins generally run in an east-west direction",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "South America  | Argentina",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "South America  | French Guiana",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "South America  | Paraguay",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://unstats.un.org/unsd/methodology/m49/overview",
+          "sourceEvidence": "South America  | Falkland Islands (Malvinas)",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "landforms",
+      "title": "الجبال والمرتفعات",
+      "icon": "⛰️",
+      "order": 3,
+      "points": [
+        "جبال الأنديز هي أطول سلسلة جبلية قارية في العالم وفق مرجع ناشيونال جيوغرافيك.",
+        "تمتد جبال الأنديز بمحاذاة الحافة الغربية لأمريكا الجنوبية.",
+        "يبلغ امتداد جبال الأنديز نحو 8850 كيلومترًا.",
+        "تضم الأنديز مئات القمم التي يتجاوز ارتفاعها 4500 متر.",
+        "تقع قمة أكونكاغوا في الأنديز، وهي أعلى قمة جبلية خارج آسيا.",
+        "تقع هضبة ألتيبلانو المرتفعة في بيرو وبوليفيا ضمن نطاق الأنديز.",
+        "تضم باتاغونيا في الأرجنتين وتشيلي هضابًا أقل ارتفاعًا وأنهارًا جليدية وعرة.",
+        "تقع المرتفعات البرازيلية جنوب نهر الأمازون.",
+        "تقع مرتفعات غويانا بين نهري الأمازون وأورينوكو.",
+        "تغطي مرتفعات غويانا مناطق من فنزويلا وغويانا وشمال البرازيل وجنوب شرق كولومبيا."
+      ],
+      "pointIds": [
+        "landforms-0",
+        "landforms-1",
+        "landforms-2",
+        "landforms-3",
+        "landforms-4",
+        "landforms-5",
+        "landforms-6",
+        "landforms-7",
+        "landforms-8",
+        "landforms-9"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "South America’s primary mountain system, the Andes, is also the world’s longest",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Situated on the far western edge of the continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "about 8,850 kilometers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "hundreds of peaks more than 4,500 meters",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Aconcagua ... tallest mountain outside Asia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "altiplano of Peru and Bolivia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Patagonia region of Argentina and Chile consists of lower-elevation plateaus and rugged glaciers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Located south of the Amazon River in Brazil, the Brazilian Highlands",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Guiana Highlands are located between the Amazon and Orinoco Rivers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "southern Venezuela, French Guiana, Guyana, northern Brazil, and a portion of southeastern Colombia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "deserts",
+      "title": "الصحاري والسهول",
+      "icon": "🏜️",
+      "order": 4,
+      "points": [
+        "تُعد صحراء أتاكاما في تشيلي من أشد مناطق العالم جفافًا.",
+        "تقع أتاكاما ضمن السهول الساحلية الغربية للقارة.",
+        "يساهم تيار بيرو البارد في جفاف سواحل بيرو وتشيلي.",
+        "تحد جبال الأنديز من وصول الرطوبة إلى أجزاء من السهول الساحلية الغربية.",
+        "تُعد سهول البامبا من أهم مناطق الرعي والزراعة في أمريكا الجنوبية.",
+        "تتميز البامبا بتربة خصبة وأنماط أمطار يمكن توقعها نسبيًا.",
+        "تُعرف سهول يانوس في حوض أورينوكو بأنها بيئة سافانا عشبية واسعة.",
+        "تنمو الأعشاب المستنقعية في المناطق المنخفضة الرطبة من سهول يانوس."
+      ],
+      "pointIds": [
+        "deserts-0",
+        "deserts-1",
+        "deserts-2",
+        "deserts-3",
+        "deserts-4",
+        "deserts-5",
+        "deserts-6",
+        "deserts-7"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Atacama is considered the driest region in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "The Atacama Desert is part of the western coastal plain",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "The Peru Current brings cold water to the Pacific coast of Peru and Chile",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "trapped between the cold Peru Current to the west and the Andes Mountains to the east",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Pampas ... most important grazing and cropland areas on the continent",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Pampas have rich, fertile soil and predictable rainfall patterns",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "A vast savanna or grassland region, known as the Llanos",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Swamp grasses, sedges, and bunchgrass are found in wet, low-lying areas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "rivers-lakes",
+      "title": "الأنهار والشلالات",
+      "icon": "🌊",
+      "order": 5,
+      "points": [
+        "حوض الأمازون هو أكبر أحواض تصريف الأنهار في العالم من حيث المساحة.",
+        "تغذي روافد قادمة من أنهار الأنديز الجليدية حوض نهر الأمازون.",
+        "يصب نهر الأمازون كميات ضخمة من المياه العذبة في المحيط الأطلسي.",
+        "نهر أورينوكو يقع شمال حوض الأمازون ويتخذ مسارًا قوسيًا واسعًا.",
+        "يصب نهر أورينوكو في المحيط الأطلسي داخل فنزويلا.",
+        "توجد ثلاثة أحواض نهرية رئيسية بالقارة: الأمازون وأورينوكو وباراغواي–بارانا.",
+        "يشمل حوض باراغواي–بارانا أجزاء من البرازيل وبوليفيا وباراغواي وشمال الأرجنتين.",
+        "تتكون شلالات إيغوازو من سلسلة واسعة من الشلالات على نهر إيغوازو.",
+        "تقع شلالات إيغوازو على الحدود بين الأرجنتين والبرازيل.",
+        "يصب نهر بارانا مع نهر أوروغواي في مصب ريو دي لا بلاتا."
+      ],
+      "pointIds": [
+        "rivers-lakes-0",
+        "rivers-lakes-1",
+        "rivers-lakes-2",
+        "rivers-lakes-3",
+        "rivers-lakes-4",
+        "rivers-lakes-5",
+        "rivers-lakes-6",
+        "rivers-lakes-7",
+        "rivers-lakes-8",
+        "rivers-lakes-9"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "making it the largest watershed in the world",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "fed by tributaries from the glaciers of the Andes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "empties 209,000 cubic meters ... of freshwater into the Atlantic Ocean",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "The Orinoco River flows north of the Amazon ... in a giant arc",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "discharging in the Atlantic Ocean in Venezuela",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "three important river basins: the Amazon, Orinoco, and Paraguay/Paraná",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "southeastern Brazil and Bolivia, Paraguay, and northern Argentina",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/303",
+          "sourceEvidence": "series of cataracts",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/303",
+          "sourceEvidence": "border between Argentina and Brazil",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Along with the Uruguay River, the Paraná River empties into the Rio de la Plata estuary",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "seas-oceans",
+      "title": "البحار والسواحل",
+      "icon": "⛵",
+      "order": 6,
+      "points": [
+        "توجد سهول ساحلية على الساحل الأطلسي لشمال شرق البرازيل.",
+        "توجد سهول ساحلية أخرى بمحاذاة ساحلي بيرو وتشيلي على المحيط الهادئ.",
+        "تتأثر سواحل بيرو وتشيلي بانقلاب حراري يؤدي إلى تشكل سحب منخفضة.",
+        "يساهم انخفاض حرارة المياه الساحلية في ضعف سقوط الأمطار على بعض السواحل الغربية.",
+        "تُعد مصايد الأسماك نشاطًا اقتصاديًا مهمًا على الساحل الهادئ للقارة.",
+        "تُعد الأنشوفة من المصايد البحرية المهمة في بيرو وتشيلي.",
+        "تقع بوينس آيرس ومونتيفيديو على جانبي مصب ريو دي لا بلاتا."
+      ],
+      "pointIds": [
+        "seas-oceans-0",
+        "seas-oceans-1",
+        "seas-oceans-2",
+        "seas-oceans-3",
+        "seas-oceans-4",
+        "seas-oceans-5",
+        "seas-oceans-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "northeastern coast of Brazil, on the Atlantic Ocean",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "western, Pacific coast of Peru and Chile",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "thermal inversion produces a thick layer of clouds at low altitudes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "They do not allow precipitation to form",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Marine fisheries are the most important economic activity along South America’s Pacific coast",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Peru and Chile’s abundant anchovy catches",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Buenos Aires, Argentina, and Montevideo, Uruguay, practically face each other across the estuary",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "nature",
+      "title": "الطبيعة والحياة البرية",
+      "icon": "🌿",
+      "order": 7,
+      "points": [
+        "تضم غابات الأمازون المطيرة تنوعًا نباتيًا كبيرًا يشمل شجر المطاط وجوز البرازيل.",
+        "تنتشر أشجار النخيل والسرخسيات والليانات المتسلقة في غابات الأمازون.",
+        "تعيش قرود العواء والقرود العنكبوتية والكابوشية في غابات الأمازون.",
+        "تعيش الكسلانيات والثعابين والإغوانا في البيئة الشجرية للأمازون.",
+        "من طيور الأمازون المكاو والطوقان والببغاوات الملونة.",
+        "تعيش أسماك البيرانا والأنقليس الكهربائي في مياه حوض أورينوكو.",
+        "يعيش تمساح أورينوكو في البيئة النهرية لحوض أورينوكو.",
+        "تضم الغابات قرب إيغوازو الجاغوار والتابير وآكل النمل العملاق.",
+        "تعيش اللاما والألبكة والفيكونيا في المناطق الجبلية الباردة بالقارة."
+      ],
+      "pointIds": [
+        "nature-0",
+        "nature-1",
+        "nature-2",
+        "nature-3",
+        "nature-4",
+        "nature-5",
+        "nature-6",
+        "nature-7",
+        "nature-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "rubber tree, silk cotton tree, and Brazil nut tree",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "palms, ferns, and ropelike vines known as lianas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "howler monkeys, spider monkeys, and capuchin monkeys",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "along with sloths, snakes, and iguanas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "macaws, parrots, toucans, and parakeets",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "piranha, electric eel, and the Orinoco crocodile",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Orinoco crocodile",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/303",
+          "sourceEvidence": "tapirs, giant anteaters ... jaguars",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "alpacas, llamas, sheep and vicuñas thrive in the cold climate regions",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "distinctive-facts",
+      "title": "حقائق مميزة",
+      "icon": "✨",
+      "order": 8,
+      "points": [
+        "تُعد غابات الأمازون جزءًا ضخمًا من الغابات المطيرة المدارية على الأرض.",
+        "تُعد أتاكاما مصدرًا مهمًا للنحاس في اقتصاد تشيلي.",
+        "تُزرع الكينوا منذ قرون في مناطق من أمريكا الجنوبية.",
+        "تاريخ زراعة البطاطس في بيرو يمتد لآلاف السنين.",
+        "يمتد سد إيتايبو على نهر بارانا عند الحدود بين البرازيل وباراغواي.",
+        "تنتشر في باتاغونيا أنهار جليدية ضمن تضاريسها الجبلية والهضبية.",
+        "تقع ماتشو بيتشو في منطقة جبلية وغابية عند التقاء الأنديز بحوض الأمازون."
+      ],
+      "pointIds": [
+        "distinctive-facts-0",
+        "distinctive-facts-1",
+        "distinctive-facts-2",
+        "distinctive-facts-3",
+        "distinctive-facts-4",
+        "distinctive-facts-5",
+        "distinctive-facts-6"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "about half of the rain forest of the entire planet",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "rich source of copper and a chief source of revenue",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Quinoa ... cultivated in parts of South America for centuries",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "people in Peru have been cultivating potatoes for thousands of years",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Itaipu Dam ... spans the Paraná River at the Brazil-Paraguay border",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "rugged glaciers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/274",
+          "sourceEvidence": "meeting point between the Peruvian Andes and the Amazon Basin",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "climate",
+      "title": "المناخ والموارد",
+      "icon": "☀️",
+      "order": 9,
+      "points": [
+        "تضم أمريكا الجنوبية أربعة نطاقات مناخية واسعة: المداري والمعتدل والجاف والبارد.",
+        "تغطي المناخات المدارية معظم الأجزاء الشمالية من القارة.",
+        "تتميز بعض المناطق المدارية بتعاقب موسمي مطير وآخر جاف.",
+        "تساعد الحرارة والرطوبة في مناطق مدارية على زراعة البن والكاكاو.",
+        "تزرع محاصيل الذرة في مناطق المناخ المعتدل بأمريكا الجنوبية.",
+        "أصبحت زراعة فول الصويا نشاطًا مهمًا في سهول البامبا.",
+        "تُربى الألبكة واللاما للاستفادة من أليافها ولحومها في المناطق الباردة.",
+        "يُعد التعدين أحد الأنشطة الاقتصادية الرئيسية في أمريكا الجنوبية.",
+        "يُعد النحاس والليثيوم من المعادن المهمة لصناعات التكنولوجيا والطاقة النظيفة."
+      ],
+      "pointIds": [
+        "climate-0",
+        "climate-1",
+        "climate-2",
+        "climate-3",
+        "climate-4",
+        "climate-5",
+        "climate-6",
+        "climate-7",
+        "climate-8"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "four climatic regions: tropical, temperate, arid and cold",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Tropical climates cover most of the northern part",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "distinct rainy and dry seasons",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "warm, wet climate ... coffee and cacao",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Corn is produced throughout the temperate climates",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "soybeans have become an increasingly important crop in the Pampas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "bred for their meat and their wool",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "mining industry is another one of South America’s most important economic engines",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "copper and lithium ... modern technology and clean energy solutions",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "population-languages",
+      "title": "السكان والحضارات",
+      "icon": "👥",
+      "order": 10,
+      "points": [
+        "ارتبطت الحضارات المبكرة على ساحل المحيط الهادئ بالصيد والتجارة.",
+        "وفرت أحواض الأنهار في الأمازون موارد مائية ونباتية وحيوانية للمجتمعات التاريخية.",
+        "وفرت جبال الأنديز حماية طبيعية لمراكز سكانية وحضارية قديمة.",
+        "نشأت إمبراطورية الإنكا سنة 1438 في مدينة كوزكو في بيرو.",
+        "امتدت إمبراطورية الإنكا إلى أجزاء من بيرو وبوليفيا والإكوادور وتشيلي والأرجنتين وكولومبيا الحالية.",
+        "أنشأ الإنكا شبكة طرق واسعة تربط سواحل المحيط الهادئ بمناطق الأنديز.",
+        "شملت منشآت طرق الإنكا الحصون والاستراحات ومخازن الغذاء وأبراج الإشارة.",
+        "نشأت ثقافة الغاوتشو في سهول البامبا المرتبطة بتربية الماشية والخيول.",
+        "تُعد الإسبانية والبرتغالية من اللغات واسعة الانتشار في أمريكا الجنوبية نتيجة التاريخ الاستعماري.",
+        "تُعد الكيتشوا والغواراني من اللغات الأصلية المهمة في تاريخ القارة.",
+        "أسهمت الهجرات القسرية للأفارقة المستعبدين في تشكيل جوانب من ثقافة البرازيل.",
+        "تجمع تقاليد الكاندومبليه في البرازيل عناصر من ثقافات أفريقية مختلفة."
+      ],
+      "pointIds": [
+        "population-languages-0",
+        "population-languages-1",
+        "population-languages-2",
+        "population-languages-3",
+        "population-languages-4",
+        "population-languages-5",
+        "population-languages-6",
+        "population-languages-7",
+        "population-languages-8",
+        "population-languages-9",
+        "population-languages-10",
+        "population-languages-11"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Pacific coast, suited to fishing and trading societies",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "major rivers of the Amazon Basin, with abundant water, plant and animal resources",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Andes, where mountains provided security",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Inca Empire was established in 1438 in the Andean city of Cuzco",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Peru, Bolivia, Ecuador, Chile, Argentina and Colombia",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "two main north-south roads, one running along the Pacific coast and another through the Andes",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "forts, inns, food storage facilities and signal towers",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "distinct gaucho ... culture developed in the Pampas",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "dominance of the Spanish and Portuguese languages",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "native oral traditions such as Quechua ... and Guarani",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "importation of African slaves ... Most slaves were brought to Brazil",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "combination of traditional beliefs from the Yoruba, Fon, and Bantu cultures",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    },
+    {
+      "id": "cities",
+      "title": "المدن والمواقع التاريخية",
+      "icon": "🏙️",
+      "order": 11,
+      "points": [
+        "كانت كوزكو في بيرو مركزًا إداريًا ودينيًا مهمًا لحضارة الإنكا.",
+        "احتفظت كوزكو بجزء من تخطيطها القديم بعد الغزو الإسباني في القرن السادس عشر.",
+        "تقع ماتشو بيتشو على ارتفاع نحو 2430 مترًا فوق مستوى سطح البحر.",
+        "تضم ماتشو بيتشو مدرجات زراعية وجدرانًا ومنشآت حجرية من حضارة الإنكا.",
+        "شُيدت ماتشو بيتشو في القرن الخامس عشر الميلادي.",
+        "تُعد ساو باولو مركزًا صناعيًا كبيرًا في البرازيل.",
+        "تُعرف ليما في بيرو بتنوع مطبخها الذي يجمع تأثيرات السكان الأصليين والمهاجرين.",
+        "يُعد كرنفال ريو دي جانيرو من أبرز الاحتفالات الثقافية في البرازيل.",
+        "تُعد مدارس السامبا من الجماعات المشاركة في عروض كرنفال ريو دي جانيرو.",
+        "تقع مدينة بوينس آيرس على مصب ريو دي لا بلاتا في الأرجنتين.",
+        "تقع مونتيفيديو عاصمة أوروغواي على مصب ريو دي لا بلاتا."
+      ],
+      "pointIds": [
+        "cities-0",
+        "cities-1",
+        "cities-2",
+        "cities-3",
+        "cities-4",
+        "cities-5",
+        "cities-6",
+        "cities-7",
+        "cities-8",
+        "cities-9",
+        "cities-10"
+      ],
+      "pointReviews": [
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/273",
+          "sourceEvidence": "complex urban centre with distinct religious and administrative functions",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/273",
+          "sourceEvidence": "Spaniards conquered it in the 16th century, they preserved the basic structure",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/274",
+          "sourceEvidence": "Machu Picchu stands 2,430 m above sea-level",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/274",
+          "sourceEvidence": "giant walls, terraces and ramps",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://whc.unesco.org/en/list/274",
+          "sourceEvidence": "Built in the fifteenth century Machu Picchu",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "São Paulo, Brazil, is an industrial powerhouse",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-resources/",
+          "sourceEvidence": "Lima is known as the Gastronomical Capital of the Americas ... international immigrants ... indigenous people",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Carnival of Rio de Janeiro, Brazil",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-human-geography/",
+          "sourceEvidence": "Samba schools are large social groups",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "capital cities of Buenos Aires, Argentina",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        },
+        {
+          "status": "verified",
+          "sourceUrl": "https://education.nationalgeographic.org/resource/south-america-physical-geography/",
+          "sourceEvidence": "Montevideo, Uruguay, practically face each other across the estuary",
+          "reviewedAt": "2026-11-16",
+          "editorialReviewedAt": "2026-11-16",
+          "duplicateReviewedAt": "2026-11-16",
+          "verificationMethod": "direct_original_source_comparison"
+        }
+      ],
+      "reviewStatus": "editorially_reviewed"
+    }
+  ],
+  "publicationPolicy": {
+    "version": 2,
+    "requiresVerifiedSourcePerFact": true,
+    "requiresSourceEvidence": true,
+    "requiresEditorialReview": true,
+    "requiresDuplicateReview": true,
+    "requiresStableFactId": true
+  },
+  "sources": [
+    {
+      "name": "National Geographic — South America Physical Geography",
+      "url": "https://education.nationalgeographic.org/resource/south-america-physical-geography/"
+    },
+    {
+      "name": "National Geographic — South America Human Geography",
+      "url": "https://education.nationalgeographic.org/resource/south-america-human-geography/"
+    },
+    {
+      "name": "National Geographic — South America Resources",
+      "url": "https://education.nationalgeographic.org/resource/south-america-resources/"
+    },
+    {
+      "name": "UNESCO — Machu Picchu",
+      "url": "https://whc.unesco.org/en/list/274"
+    },
+    {
+      "name": "UNESCO — City of Cuzco",
+      "url": "https://whc.unesco.org/en/list/273"
+    },
+    {
+      "name": "UNESCO — Iguazu National Park",
+      "url": "https://whc.unesco.org/en/list/303"
+    },
+    {
+      "name": "UN Statistics — M49",
+      "url": "https://unstats.un.org/unsd/methodology/m49/overview"
+    }
+  ],
+  "lastReviewed": "2026-11-16",
+  "editorialAudit": {
+    "date": "2026-11-16",
+    "verifiedAgainstOriginalSource": [
+      "location-0",
+      "location-1",
+      "location-2",
+      "location-3",
+      "location-4",
+      "location-5",
+      "area-regions-0",
+      "area-regions-1",
+      "area-regions-2",
+      "area-regions-3",
+      "area-regions-4",
+      "area-regions-5",
+      "area-regions-6",
+      "landforms-0",
+      "landforms-1",
+      "landforms-2",
+      "landforms-3",
+      "landforms-4",
+      "landforms-5",
+      "landforms-6",
+      "landforms-7",
+      "landforms-8",
+      "landforms-9",
+      "deserts-0",
+      "deserts-1",
+      "deserts-2",
+      "deserts-3",
+      "deserts-4",
+      "deserts-5",
+      "deserts-6",
+      "deserts-7",
+      "rivers-lakes-0",
+      "rivers-lakes-1",
+      "rivers-lakes-2",
+      "rivers-lakes-3",
+      "rivers-lakes-4",
+      "rivers-lakes-5",
+      "rivers-lakes-6",
+      "rivers-lakes-7",
+      "rivers-lakes-8",
+      "rivers-lakes-9",
+      "seas-oceans-0",
+      "seas-oceans-1",
+      "seas-oceans-2",
+      "seas-oceans-3",
+      "seas-oceans-4",
+      "seas-oceans-5",
+      "seas-oceans-6",
+      "nature-0",
+      "nature-1",
+      "nature-2",
+      "nature-3",
+      "nature-4",
+      "nature-5",
+      "nature-6",
+      "nature-7",
+      "nature-8",
+      "distinctive-facts-0",
+      "distinctive-facts-1",
+      "distinctive-facts-2",
+      "distinctive-facts-3",
+      "distinctive-facts-4",
+      "distinctive-facts-5",
+      "distinctive-facts-6",
+      "climate-0",
+      "climate-1",
+      "climate-2",
+      "climate-3",
+      "climate-4",
+      "climate-5",
+      "climate-6",
+      "climate-7",
+      "climate-8",
+      "population-languages-0",
+      "population-languages-1",
+      "population-languages-2",
+      "population-languages-3",
+      "population-languages-4",
+      "population-languages-5",
+      "population-languages-6",
+      "population-languages-7",
+      "population-languages-8",
+      "population-languages-9",
+      "population-languages-10",
+      "population-languages-11",
+      "cities-0",
+      "cities-1",
+      "cities-2",
+      "cities-3",
+      "cities-4",
+      "cities-5",
+      "cities-6",
+      "cities-7",
+      "cities-8",
+      "cities-9",
+      "cities-10"
+    ],
+    "verifiedSections": [
+      "location",
+      "area-regions",
+      "landforms",
+      "deserts",
+      "rivers-lakes",
+      "seas-oceans",
+      "nature",
+      "distinctive-facts",
+      "climate",
+      "population-languages",
+      "cities"
+    ],
+    "note": "Source excerpts recorded for each fact. Automated editorial checks do not replace independent scientific review."
+  }
+}
