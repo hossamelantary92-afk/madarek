@@ -82,18 +82,21 @@
         },
         {
           "title": "حتشبسوت والسلطة الملكية",
-          "text": "تولت حتشبسوت الحكم بصفتها ملكًا في الأسرة الثامنة عشرة، وهي حالة تكشف مرونة التمثيل السياسي للملكية المصرية رغم غلبة الرجال على المنصب. تُظهر آثارها كيف استُخدمت العمارة والرموز الملكية لترسيخ شرعية الحكم.",
-          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+          "text": "بدأت حتشبسوت وصيةً على تحتمس الثالث، ثم اتخذت لقب الملك وأصبحت الحاكمة الأقدم في حكم مشترك خلال الأسرة الثامنة عشرة. دعمت شرعيتها بالصور الملكية والمشروعات المعمارية؛ وتُظهر تجربتها أن السلطة المصرية اعتمدت على الطقوس والتمثيل السياسي بقدر اعتمادها على النسب.",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut",
+          "sourceHint": "Directly checked source overview, 2026-11-17"
         },
         {
           "title": "إخناتون والتحول الديني",
-          "text": "دفع إخناتون في الأسرة الثامنة عشرة بعبادة آتون إلى مركز الحياة الدينية الرسمية، في تحول أثار تغييرات في الفن والطقوس ومؤسسات الحكم. وبعد وفاته تراجعت إصلاحاته وعادت الممارسات الدينية التقليدية تدريجيًا.",
-          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+          "text": "أعاد إخناتون توجيه العبادة الرسمية نحو آتون، واتخذ مدينة أخيتاتون مركزًا لحكمه، وارتبط عهده بتغييرات بارزة في التصوير الملكي. وبعده تراجعت هذه السياسة وعادت المؤسسات الدينية التقليدية؛ لذا لا يصح تصوير الإصلاح كتحول ديني دائم.",
+          "sourceUrl": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/1.7.4-ANCIENTEGYPTAMARNA.pdf",
+          "sourceHint": "Directly checked source overview, 2026-11-17"
         },
         {
           "title": "توت عنخ آمون واستعادة التقاليد",
-          "text": "ارتبط عهد توت عنخ آمون بالعودة إلى عبادة الآلهة والمؤسسات الدينية التقليدية بعد إصلاحات إخناتون. أهميته التاريخية لا تقتصر على شهرة مقبرته؛ بل على موقع حكمه في مرحلة إعادة ترتيب الدين والسياسة.",
-          "sourceUrl": "https://prod.lsa.umich.edu/content/dam/kelsey-assets/kelsey-documents/education/teacher-resource-guides/EDU_curriculum_AEgypt_webready.pdf"
+          "text": "جاء حكم توت عنخ آمون بعد تجربة العمارنة، وشهد استعادة عبادة الآلهة التقليدية والابتعاد عن العاصمة التي ارتبطت بإخناتون. وتكمن أهميته السياسية في مسار استعادة المؤسسات، لا في كنوز مقبرته وحدها.",
+          "sourceUrl": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/1.7.4-ANCIENTEGYPTAMARNA.pdf",
+          "sourceHint": "Directly checked source overview, 2026-11-17"
         }
       ]
     },
@@ -165,8 +168,9 @@
         },
         {
           "title": "التجارة مع بلاد بونت",
-          "text": "تُظهر مناظر بعثة حتشبسوت إلى بلاد بونت في معبدها بالدير البحري اهتمام البلاط بالحصول على سلع ثمينة، مثل البخور والمواد العطرية. وتكشف البعثة عن دور التجارة والرمزية الملكية معًا، بينما يظل تحديد موقع بونت الدقيق محل نقاش.",
-          "sourceUrl": "https://whc.unesco.org/en/list/87"
+          "text": "سجلت نقوش معبد حتشبسوت بالدير البحري بعثة تجارية إلى بلاد بونت جلبت بخورًا وأخشابًا نفيسة ومواد ثمينة. لم تكن البعثة اقتصادية فقط؛ إذ عُرض نجاحها على جدران المعبد بوصفه إنجازًا للملك. ويظل الموقع الدقيق لبلاد بونت محل بحث.",
+          "sourceUrl": "https://egyptianmuseumcairo.eg/artefact-category/new-kingdom/",
+          "sourceHint": "Directly checked source overview, 2026-11-17"
         },
         {
           "title": "الجيش والعربات الحربية",
@@ -185,8 +189,9 @@
         },
         {
           "title": "المعاهدة المصرية الحيثية",
-          "text": "توصلت مصر والحيثيون في عهد رمسيس الثاني وحتوسيلي الثالث إلى اتفاق سلام وتحالف معروف من نصوص مصرية وحيثية. أهميته أنه يكشف أن العلاقات الدولية القديمة شملت التفاوض والالتزامات المتبادلة، لا الحرب وحدها.",
-          "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+          "text": "بعد عقود من التنافس، أبرم رمسيس الثاني وحتوسيلي الثالث اتفاق سلام وتحالف في القرن الثالث عشر قبل الميلاد. تكشف نصوص المعاهدة عن التزامات سياسية متبادلة بين قوتين كبيرتين؛ وهي من أشهر المعاهدات القديمة المحفوظة، وليست بالضرورة أول معاهدة سلام في التاريخ.",
+          "sourceUrl": "https://www.jstor.org/stable/jj.890651",
+          "sourceHint": "Directly checked source overview, 2026-11-17"
         }
       ]
     },
@@ -219,6 +224,37 @@
           "title": "التحول من القوة الإمبراطورية إلى الانقسام",
           "text": "مع نهاية الدولة الحديثة تراجعت قدرة السلطة المركزية على السيطرة على الموارد والأقاليم، وبرزت قوى دينية ومحلية متعددة. لم يكن الانحدار حادثة واحدة؛ بل عملية طويلة تداخلت فيها السياسة والاقتصاد والضغوط الخارجية.",
           "sourceUrl": "https://www.memphis.edu/egypt/resources/timeline.php"
+        }
+      ]
+    },
+    {
+      "id": "historical-interpretation",
+      "title": "كيف نقرأ الشخصيات والأحداث؟",
+      "points": [
+        {
+          "title": "محو اسم حتشبسوت: لماذا لا نعرف الدافع يقينًا؟",
+          "text": "تعرّضت تماثيل حتشبسوت وصورها للتكسير ومُحي اسمها من آثار بعد وفاتها بسنوات. لكن تفسير الدافع السياسي أو الديني لهذا المحو ليس محسومًا؛ والمثال يوضح أن غياب اسم حاكم من السجلات لا يعني أنه لم يحكم، وأن الآثار قد تعكس صراعات الذاكرة الرسمية.",
+          "sourceUrl": "https://www.metmuseum.org/pt/essays/queen-hatshepsut-restored"
+        },
+        {
+          "title": "بعثة بونت: النقش الملكي ليس تقريرًا محايدًا",
+          "text": "تُظهر مناظر بعثة بونت سلعًا ومشاهد استقبال وشحن، لكنها نُقشت في معبد ملكي لتخليد نجاح حتشبسوت. لذلك يمكن استخدامها دليلًا على النشاط التجاري والمواد المنقولة، مع الحذر من التعامل مع كل تصوير دعائي بوصفه وصفًا كاملًا للرحلة.",
+          "sourceUrl": "https://egyptianmuseumcairo.eg/artefact-category/new-kingdom/"
+        },
+        {
+          "title": "أخيتاتون: ماذا تغيّر خارج المعابد؟",
+          "text": "ارتبط إصلاح إخناتون بنقل مركز الحكم إلى أخيتاتون وتبدل الفن الرسمي والنصوص الدينية. وتُظهر العودة اللاحقة إلى الممارسات التقليدية أن التغيير الذي تقوده السلطة قد يكون واسعًا في مؤسسات الدولة لكنه غير مستدام بعد تغير القيادة.",
+          "sourceUrl": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/1.7.4-ANCIENTEGYPTAMARNA.pdf"
+        },
+        {
+          "title": "معاهدة قادش: الدبلوماسية بعد الحرب",
+          "text": "لم تُنهِ معركة قادش الصراع المصري الحيثي بصورة نهائية. جاء الاتفاق الدبلوماسي لاحقًا بين رمسيس الثاني وحتوسيلي الثالث، ويُظهر أن تسوية التنافس بين الدول قد تتطلب التفاوض والتحالف بعد عقود من المواجهة العسكرية.",
+          "sourceUrl": "https://www.jstor.org/stable/jj.890651"
+        },
+        {
+          "title": "حتشبسوت وتحتمس الثالث: حكم مشترك لا قصة خصومة مبسطة",
+          "text": "حكمت حتشبسوت أولًا وصيةً على تحتمس الثالث ثم ملكًا أقدم معه، بينما واصل تحتمس الحكم بعد وفاتها. إن اختزال العلاقة في عداوة شخصية مستمرة يتجاهل تعقيد نظام الحكم المشترك وطبيعة الأدلة المتاحة عن محو آثارها.",
+          "sourceUrl": "https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut"
         }
       ]
     }
@@ -255,14 +291,34 @@
     {
       "name": "UNESCO — Ancient Thebes",
       "url": "https://whc.unesco.org/en/list/87"
+    },
+    {
+      "name": "The Met — Hatshepsut: From Queen to Pharaoh",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2006/hatshepsut"
+    },
+    {
+      "name": "The Met — Queen Hatshepsut Restored",
+      "url": "https://www.metmuseum.org/pt/essays/queen-hatshepsut-restored"
+    },
+    {
+      "name": "Egyptian Museum Cairo — Punt reliefs",
+      "url": "https://egyptianmuseumcairo.eg/artefact-category/new-kingdom/"
+    },
+    {
+      "name": "British Museum educational text — Amarna Period",
+      "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/1.7.4-ANCIENTEGYPTAMARNA.pdf"
+    },
+    {
+      "name": "Ramesses II, Egypt's Ultimate Pharaoh — Egyptian-Hittite diplomacy",
+      "url": "https://www.jstor.org/stable/jj.890651"
     }
   ],
-  "lastUpdated": "2026-11-16",
+  "lastUpdated": "2026-11-17",
   "editorialPolicy": "Prefer historically consequential, explanatory, sourced facts; reject generic filler and repetition; distinguish approximations and disputed interpretations.",
   "editorialAudit": {
-    "reviewedAt": "2026-11-16",
-    "previousCount": 20,
-    "newCount": 34,
-    "notes": "Added 14 substantial explanatory insights on bureaucracy, labor, Nubia, Punt, military diplomacy, legal agency and late-state change. Claims remain pending independent source-by-source validation."
+    "reviewedAt": "2026-11-17",
+    "previousCount": 34,
+    "newCount": 39,
+    "notes": "Updated five existing entries using inspected specialist museum/educational sources and added five source-grounded interpretive insights. Independent audit of all 39 entries still pending."
   }
 }
